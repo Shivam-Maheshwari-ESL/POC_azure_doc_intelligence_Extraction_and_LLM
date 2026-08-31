@@ -1,0 +1,8 @@
+{
+    "python-envs.workspaceSearchPaths": [
+        ".venv",
+        "*/.venv",
+        "C:/eClerx Services Ltd. Dropbox/shivam maheshwari/shivam maheshwari_Profile/Workspace/python/.venv",
+        "C:/Users/shivam.maheshwari/myenv/Scripts/"
+    ]
+}

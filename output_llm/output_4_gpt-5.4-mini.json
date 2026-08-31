@@ -1,0 +1,200 @@
+{
+    "document_metadata": {
+        "total_pages": 2,
+        "processing_mode": "mixed"
+    },
+    "ssi_records": [
+        {
+            "ssi_id": "SSI-001",
+            "fields": {
+                "Fund Name": {
+                    "value": "FIR DEA S.A SICAV-RAIF",
+                    "source_text": "Fund Name\nFIR DEA S.A SICAV-RAIF",
+                    "source_page": 1,
+                    "confidence": "HIGH"
+                },
+                "Investment Manager": {
+                    "value": "BNP Paribas Asset Management Europe",
+                    "source_text": "Investment Manager\nBNP Paribas Asset Management Europe",
+                    "source_page": 1,
+                    "confidence": "HIGH"
+                },
+                "Registered Address (Fund)": {
+                    "value": "61, Avenue J.F Kennedy\nL-1855\nLuxembourg",
+                    "source_text": "Registered Address:\n61, Avenue J.F Kennedy\nL-1855\nLuxembourg",
+                    "source_page": 1,
+                    "confidence": "HIGH"
+                },
+                "Registered Address (Investment Manager)": {
+                    "value": "8, Rue du Port\n92728 Nanterre\nFrance",
+                    "source_text": "Registered Address:\n8, Rue du Port\n92728 Nanterre\nFrance",
+                    "source_page": 1,
+                    "confidence": "HIGH"
+                },
+                "Trade Documentation Signature Block": {
+                    "value": "FIR DEA S.A. SICAV-RAIF\nBy: BNP Paribas Asset Management, acting as Investment Manager",
+                    "source_text": "Trade Documentation Signature Block:\nFIR DEA S.A. SICAV-RAIF\nBy: BNP Paribas Asset Management, acting as Investment Manager",
+                    "source_page": 1,
+                    "confidence": "HIGH"
+                },
+                "Agency Notice - To": {
+                    "value": "BNP Paribas Securities Services / BPSS\nCustodian / Fund Accountant",
+                    "source_text": "To: BNP Paribas Securities Services / BPSS\nCustodian / Fund Accountant",
+                    "source_page": 1,
+                    "confidence": "HIGH"
+                },
+                "Agency Notice - Fax": {
+                    "value": "+33 1 42 98 85 54",
+                    "source_text": "Fax: +33 1 42 98 85 54",
+                    "source_page": 1,
+                    "confidence": "HIGH"
+                },
+                "Agency Notice - Email 1": {
+                    "value": "MUST_PARIS_BPSI_LOAN_SOLUTIONS@bnpparibas.com",
+                    "source_text": "Email: MUST_PARIS_BPSI_LOAN_SOLUTIONS@bnpparibas.com",
+                    "source_page": 1,
+                    "confidence": "HIGH"
+                },
+                "Agency Notice - Email 2": {
+                    "value": "aps_lu@bnpparibas.com",
+                    "source_text": "Email: aps_lu@bnpparibas.com",
+                    "source_page": 1,
+                    "confidence": "HIGH"
+                },
+                "Agency Notice - To (right column)": {
+                    "value": "BNP Paribas Asset Management Europe",
+                    "source_text": "To: BNP Paribas Asset Management Europe",
+                    "source_page": 1,
+                    "confidence": "HIGH"
+                },
+                "Agency Notice - Email 3": {
+                    "value": "LIST_AMD_STRUCTURED_PENSIONFUNDSANDCORPORATES@bnpparibas.com",
+                    "source_text": "Email: LIST_AMD_STRUCTURED_PENSIONFUNDSANDCORPORATES@bnpparibas.com",
+                    "source_page": 1,
+                    "confidence": "HIGH"
+                },
+                "Agency Notice - Email 4": {
+                    "value": "SUE_LENDING@bnpparibas.com",
+                    "source_text": "Email: SUE_LENDING@bnpparibas.com",
+                    "source_page": 1,
+                    "confidence": "HIGH"
+                },
+                "Primary Contact - Mailing Address": {
+                    "value": "BNP Paribas Asset Management\nMontagne du Parc 3\n1000 Brussels\nBelgium",
+                    "source_text": "Mailing Address:\nBNP Paribas Asset Management\nMontagne du Parc 3\n1000 Brussels\nBelgium",
+                    "source_page": 1,
+                    "confidence": "HIGH"
+                }
+            },
+            "tables": [
+                {
+                    "table_name": "EUR Standard Settlement Instructions",
+                    "headers": [
+                        "Field",
+                        "Value"
+                    ],
+                    "rows": [
+                        [
+                            "Intermediary",
+                            "BNP Paribas Securities Services, Paris"
+                        ],
+                        [
+                            "BIC",
+                            "BNPAFRPP"
+                        ],
+                        [
+                            "Beneficiary",
+                            "BNP Paribas Securities Services"
+                        ],
+                        [
+                            "BIC",
+                            "PARBLULL"
+                        ],
+                        [
+                            "IBAN",
+                            "LU3330000878450078"
+                        ],
+                        [
+                            "FFC",
+                            "FIR DEA S.A. SICAV-RAIF"
+                        ]
+                    ]
+                },
+                {
+                    "table_name": "USD Standard Settlement Instructions",
+                    "headers": [
+                        "Field",
+                        "Value"
+                    ],
+                    "rows": [
+                        [
+                            "Intermediary",
+                            "BNP Paribas, New York"
+                        ],
+                        [
+                            "BIC",
+                            "BNPAUS3N"
+                        ],
+                        [
+                            "ABA",
+                            "026 007 690"
+                        ],
+                        [
+                            "Beneficiary",
+                            "BNP Paribas Securities Services"
+                        ],
+                        [
+                            "BIC",
+                            "PARBLULL"
+                        ],
+                        [
+                            "IBAN",
+                            "LU3330000878450078"
+                        ],
+                        [
+                            "FFC",
+                            "FIR DEA S.A. SICAV-RAIF"
+                        ]
+                    ]
+                },
+                {
+                    "table_name": "GBP Standard Settlement Instructions",
+                    "headers": [
+                        "Field",
+                        "Value"
+                    ],
+                    "rows": [
+                        [
+                            "Intermediary",
+                            "BNP Paribas S.A., London Branch"
+                        ],
+                        [
+                            "BIC",
+                            "BNPAFRPPXXX"
+                        ],
+                        [
+                            "Beneficiary",
+                            "BNP Paribas Securities Services, Luxembourg"
+                        ],
+                        [
+                            "BIC",
+                            "PARBLULL"
+                        ],
+                        [
+                            "IBAN",
+                            "LU2300010378450078"
+                        ],
+                        [
+                            "FFC",
+                            "FIR DEA S.A. SICAV-RAIF"
+                        ]
+                    ]
+                }
+            ],
+            "extraction_notes": [
+                "The document contains multiple currency-specific settlement instruction tables; each currency section was preserved as a separate table.",
+                "Some contact details and headings are small in the source image; values were extracted only where legible."
+            ]
+        }
+    ]
+}
