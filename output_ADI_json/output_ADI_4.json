@@ -6,7 +6,7 @@
     "pages": [
         {
             "pageNumber": 1,
-            "angle": 0.06533365696668625,
+            "angle": 0.06535235047340393,
             "width": 8.5,
             "height": 11,
             "unit": "inch",
@@ -23,7 +23,7 @@
                         2.1618,
                         1.1324
                     ],
-                    "confidence": 0.992,
+                    "confidence": 0.989,
                     "span": {
                         "offset": 0,
                         "length": 3
@@ -293,7 +293,7 @@
                         4.5164,
                         2.0392
                     ],
-                    "confidence": 0.992,
+                    "confidence": 0.993,
                     "span": {
                         "offset": 111,
                         "length": 5
@@ -324,7 +324,7 @@
                         1.9697,
                         5.0458,
                         1.9696,
-                        5.0458,
+                        5.0459,
                         2.0392,
                         4.9825,
                         2.039
@@ -339,7 +339,7 @@
                     "content": "Please",
                     "polygon": [
                         3.7597,
-                        2.0664,
+                        2.0663,
                         3.9621,
                         2.0666,
                         3.9623,
@@ -455,7 +455,7 @@
                         3.7483,
                         2.3175
                     ],
-                    "confidence": 0.992,
+                    "confidence": 0.993,
                     "span": {
                         "offset": 167,
                         "length": 7
@@ -563,7 +563,7 @@
                         4.8105,
                         2.3196
                     ],
-                    "confidence": 0.999,
+                    "confidence": 0.997,
                     "span": {
                         "offset": 208,
                         "length": 2
@@ -734,13 +734,13 @@
                 {
                     "content": "DOCUMENTATION",
                     "polygon": [
-                        2.2886,
+                        2.2873,
                         2.5477,
                         2.8997,
                         2.5457,
                         2.8997,
                         2.6225,
-                        2.2885,
+                        2.2873,
                         2.6225
                     ],
                     "confidence": 0.992,
@@ -869,7 +869,7 @@
                         3.7511,
                         2.8217
                     ],
-                    "confidence": 0.982,
+                    "confidence": 0.983,
                     "span": {
                         "offset": 320,
                         "length": 10
@@ -1013,7 +1013,7 @@
                         1.8715,
                         3.1072
                     ],
-                    "confidence": 0.991,
+                    "confidence": 0.992,
                     "span": {
                         "offset": 386,
                         "length": 8
@@ -1031,7 +1031,7 @@
                         1.5604,
                         3.1997
                     ],
-                    "confidence": 0.864,
+                    "confidence": 0.869,
                     "span": {
                         "offset": 395,
                         "length": 3
@@ -1121,7 +1121,7 @@
                         3.7531,
                         3.1077
                     ],
-                    "confidence": 0.987,
+                    "confidence": 0.985,
                     "span": {
                         "offset": 436,
                         "length": 10
@@ -1175,7 +1175,7 @@
                         3.8891,
                         3.2014
                     ],
-                    "confidence": 0.97,
+                    "confidence": 0.972,
                     "span": {
                         "offset": 460,
                         "length": 7
@@ -1247,7 +1247,7 @@
                         3.7545,
                         3.292
                     ],
-                    "confidence": 0.685,
+                    "confidence": 0.687,
                     "span": {
                         "offset": 492,
                         "length": 2
@@ -1643,7 +1643,7 @@
                         2.7623,
                         3.7625
                     ],
-                    "confidence": 0.976,
+                    "confidence": 0.975,
                     "span": {
                         "offset": 634,
                         "length": 10
@@ -1769,7 +1769,7 @@
                         3.6806,
                         4.1363
                     ],
-                    "confidence": 0.936,
+                    "confidence": 0.935,
                     "span": {
                         "offset": 684,
                         "length": 32
@@ -1895,7 +1895,7 @@
                         2.0085,
                         4.3228
                     ],
-                    "confidence": 0.979,
+                    "confidence": 0.981,
                     "span": {
                         "offset": 753,
                         "length": 7
@@ -1913,7 +1913,7 @@
                         2.2167,
                         4.3226
                     ],
-                    "confidence": 0.962,
+                    "confidence": 0.961,
                     "span": {
                         "offset": 761,
                         "length": 10
@@ -1967,7 +1967,7 @@
                         2.7425,
                         4.3217
                     ],
-                    "confidence": 0.987,
+                    "confidence": 0.988,
                     "span": {
                         "offset": 783,
                         "length": 4
@@ -2165,7 +2165,7 @@
                         3.5072,
                         4.4163
                     ],
-                    "confidence": 0.883,
+                    "confidence": 0.882,
                     "span": {
                         "offset": 856,
                         "length": 6
@@ -2201,7 +2201,7 @@
                         3.893,
                         4.4134
                     ],
-                    "confidence": 0.771,
+                    "confidence": 0.775,
                     "span": {
                         "offset": 868,
                         "length": 58
@@ -2381,7 +2381,7 @@
                         3.8893,
                         4.5083
                     ],
-                    "confidence": 0.974,
+                    "confidence": 0.973,
                     "span": {
                         "offset": 958,
                         "length": 7
@@ -2489,7 +2489,7 @@
                         1.8633,
                         4.6053
                     ],
-                    "confidence": 0.977,
+                    "confidence": 0.976,
                     "span": {
                         "offset": 992,
                         "length": 5
@@ -2561,7 +2561,7 @@
                         2.6309,
                         4.6039
                     ],
-                    "confidence": 0.614,
+                    "confidence": 0.618,
                     "span": {
                         "offset": 1014,
                         "length": 24
@@ -2633,7 +2633,7 @@
                         1.618,
                         4.6986
                     ],
-                    "confidence": 0.805,
+                    "confidence": 0.809,
                     "span": {
                         "offset": 1057,
                         "length": 4
@@ -2687,7 +2687,7 @@
                         2.0223,
                         4.6977
                     ],
-                    "confidence": 0.693,
+                    "confidence": 0.692,
                     "span": {
                         "offset": 1070,
                         "length": 5
@@ -2705,7 +2705,7 @@
                         2.1748,
                         4.6979
                     ],
-                    "confidence": 0.537,
+                    "confidence": 0.544,
                     "span": {
                         "offset": 1076,
                         "length": 3
@@ -2723,7 +2723,7 @@
                         2.2871,
                         4.6972
                     ],
-                    "confidence": 0.576,
+                    "confidence": 0.58,
                     "span": {
                         "offset": 1080,
                         "length": 39
@@ -2741,7 +2741,7 @@
                         3.5095,
                         4.6957
                     ],
-                    "confidence": 0.924,
+                    "confidence": 0.933,
                     "span": {
                         "offset": 1120,
                         "length": 6
@@ -2759,7 +2759,7 @@
                         3.7535,
                         4.6982
                     ],
-                    "confidence": 0.851,
+                    "confidence": 0.849,
                     "span": {
                         "offset": 1127,
                         "length": 3
@@ -2777,7 +2777,7 @@
                         3.8552,
                         4.6998
                     ],
-                    "confidence": 0.594,
+                    "confidence": 0.595,
                     "span": {
                         "offset": 1131,
                         "length": 38
@@ -2795,7 +2795,7 @@
                         3.5078,
                         4.7886
                     ],
-                    "confidence": 0.974,
+                    "confidence": 0.932,
                     "span": {
                         "offset": 1170,
                         "length": 6
@@ -2831,7 +2831,7 @@
                         3.888,
                         4.7926
                     ],
-                    "confidence": 0.54,
+                    "confidence": 0.537,
                     "span": {
                         "offset": 1181,
                         "length": 22
@@ -2938,7 +2938,7 @@
                     "content": "Please see Primary Contacts below",
                     "polygon": [
                         3.7597,
-                        2.0664,
+                        2.0663,
                         4.8161,
                         2.0644,
                         4.8163,
@@ -3641,7 +3641,7 @@
                     "content": "E mail :",
                     "polygon": [
                         1.5619,
-                        4.6385,
+                        4.6386,
                         1.7729,
                         4.6381,
                         1.7731,

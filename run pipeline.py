@@ -27,7 +27,7 @@ def main():
             result = call_llm_for_extraction(raw_json_context)
 
             print(f"Saving final extracted data to '{output_json_path}'...")
-            data = save_result_as_json(result, output_json_path)
+            save_result_as_json(result, output_json_path)
 
             print(f"\nExtracted Data for '{file_name}'")
         
