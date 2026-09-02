@@ -1,8 +1,8 @@
 import json
 import os
 
-from poc_azure_doc_intel_data_extraction import analyze_pdf_using_doc_intel, save_result_as_json
-from poc_azure_llm_data_extraction_main import call_llm_for_extraction
+from poc_azure_doc_intel_data_extraction_Standalone import analyze_pdf_using_doc_intel, save_result_as_json
+from poc_azure_llm_data_extraction import call_llm_for_extraction
 
 
 
