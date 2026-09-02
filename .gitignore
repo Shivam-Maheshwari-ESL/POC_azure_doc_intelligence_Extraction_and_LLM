@@ -69,14 +69,14 @@ azure_config.json
 .env.local
 .env.*.local
 
-# Output directories (generated files)
-output_doc_intell/
-output_final_json_extracted/
-output_llm/
-output_llm_on_ADI/
+# # Output directories (generated files)
+# output_doc_intell/
+# output_final_json_extracted/
+# output_llm/
+# output_llm_on_ADI/
 
-# Input PDFs
-input_pdf/
+# # Input PDFs
+# input_pdf/
 
 # OS specific
 .DS_Store
@@ -85,4 +85,4 @@ Thumbs.db
 # Misc
 *.log
 .ipynb_checkpoints/
-.zip
+# *.zip
