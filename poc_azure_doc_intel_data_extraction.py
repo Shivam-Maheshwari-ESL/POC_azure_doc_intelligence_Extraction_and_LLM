@@ -108,8 +108,6 @@ def main():
             raw_result_dict = result_doc_intel.as_dict()
             save_result_as_json(raw_result_dict, output_ADI_json_path)
 
-            continue
-
 
             raw_json_context = json.dumps(raw_result_dict, ensure_ascii=False)
 
