@@ -2,7 +2,7 @@ import json
 import os
 from azure.core.credentials import AzureKeyCredential
 from azure.ai.documentintelligence import DocumentIntelligenceClient
-from poc_azure_llm_data_extraction_main import call_llm_for_extraction
+from poc_azure_llm_data_extraction import call_llm_for_extraction
 
 
 CONFIG_FILE = "./azure_config.json"
@@ -84,10 +84,8 @@ def save_result_as_json(result, output_path="extracted_data_doc_intell.json"):
     print(f"Extracted data saved to '{output_path}'")
 
 
-def main():
-    base_input_path = "./input_pdf"
-    ADI_output_path = "./output_ADI_json"
-    base_output_path = "./output_final_json_extracted"
+def main(base_input_path=None, ADI_output_path=None, base_output_path=None, no_LLM_call=True):
+    
     file_names_list = os.listdir(base_input_path)
 
     os.makedirs(ADI_output_path, exist_ok=True)
@@ -97,7 +95,7 @@ def main():
 
         input_pdf_path = os.path.join(base_input_path, file_name)
         output_ADI_json_path = os.path.join(ADI_output_path, f"output_ADI_{os.path.splitext(file_name)[0]}.json")
-        output_json_path = os.path.join(base_output_path, f"{os.path.splitext(file_name)[0]}.json")
+        output_json_path = os.path.join(base_output_path, f"output_ADI_LLM_{os.path.splitext(file_name)[0]}.json")
 
         try:
             print(f"\nProcessing '{file_name}'...")
@@ -108,6 +106,9 @@ def main():
             raw_result_dict = result_doc_intel.as_dict()
             save_result_as_json(raw_result_dict, output_ADI_json_path)
 
+            if no_LLM_call:
+                print(f"Skipping LLM call for '{file_name}' as per configuration.")
+                continue
 
             raw_json_context = json.dumps(raw_result_dict, ensure_ascii=False)
 
@@ -124,4 +125,11 @@ def main():
 
             
 if __name__ == "__main__":
-    main()
+
+    folder_to_process = "NEW_10_Documents"  # Change this to the folder you want to process
+
+    input_pdf_path = f"./input_pdf/{folder_to_process}"
+    ADI_output_path = f"./output_ADI_json/{folder_to_process}"
+    base_output_path = f"./output_final_json_extracted/{folder_to_process}"
+        
+    main(base_input_path=input_pdf_path, ADI_output_path=ADI_output_path, base_output_path=base_output_path, no_LLM_call=True)
