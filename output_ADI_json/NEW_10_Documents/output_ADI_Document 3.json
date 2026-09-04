@@ -1,0 +1,3861 @@
+{
+    "apiVersion": "2024-11-30",
+    "modelId": "prebuilt-layout",
+    "stringIndexType": "textElements",
+    "content": "Unicredit - Confidential\nBank Austria\nMember of UniCredit\nas of: 20/02/2026\nSTANDARD SETTLEMENT INSTRUCTIONS FOR SECURED FINANCING TRANSACTIONS (SFT) MADE WITH UNICREDIT BANK AUSTRIA AG, VIENNA SWIFT-ID: BKAUATWW\nEUR\nCLEARSTREAM Banking S.A., LUXEMBOURG T2 RTGS\nCEDELULLXXX TRGTXEPMRTG\nCEDEL 16478\nGBP\nCLEARSTREAM Banking S.A., LUXEMBOURG intermediary Agent: BARCLAYS BANK PLC, LONDON\nCEDELULLXXX\nCEDEL 16478\nBARCGB22XXX\nGB29 BARC 2032 5350 4088 59\nJPY\nCLEARSTREAM Banking S.A., LUXEMBOURG intermediary Agent: MIZUHO BANK LTD, TOKYO\nCEDELULLXXX\nCEDEL 16478\nMHCBJPJTXXX\n4517010\nUSD\nCLEARSTREAM Banking S.A., LUXEMBOURG\nCEDELULLXXX\nCEDEL 16478\nintermediary Agent: JPMORGAN CHASE BK, NEW YORK\nCHASUS 33XXX\n001-1-573714",
+    "pages": [
+        {
+            "pageNumber": 1,
+            "angle": -0.10729999840259552,
+            "width": 8.5,
+            "height": 11,
+            "unit": "inch",
+            "words": [
+                {
+                    "content": "Unicredit",
+                    "polygon": [
+                        4.6683,
+                        1.5111,
+                        4.9729,
+                        1.5105,
+                        4.9729,
+                        1.5802,
+                        4.6684,
+                        1.5805
+                    ],
+                    "confidence": 0.655,
+                    "span": {
+                        "offset": 0,
+                        "length": 9
+                    }
+                },
+                {
+                    "content": "-",
+                    "polygon": [
+                        4.9924,
+                        1.5104,
+                        5.0164,
+                        1.5105,
+                        5.0165,
+                        1.5803,
+                        4.9924,
+                        1.5803
+                    ],
+                    "confidence": 0.862,
+                    "span": {
+                        "offset": 10,
+                        "length": 1
+                    }
+                },
+                {
+                    "content": "Confidential",
+                    "polygon": [
+                        5.0324,
+                        1.5106,
+                        5.4332,
+                        1.5091,
+                        5.4333,
+                        1.5804,
+                        5.0325,
+                        1.5802
+                    ],
+                    "confidence": 0.553,
+                    "span": {
+                        "offset": 12,
+                        "length": 12
+                    }
+                },
+                {
+                    "content": "Bank",
+                    "polygon": [
+                        2.1215,
+                        1.9937,
+                        2.6009,
+                        1.9916,
+                        2.6011,
+                        2.2022,
+                        2.1215,
+                        2.2021
+                    ],
+                    "confidence": 0.989,
+                    "span": {
+                        "offset": 25,
+                        "length": 4
+                    }
+                },
+                {
+                    "content": "Austria",
+                    "polygon": [
+                        2.6733,
+                        1.9924,
+                        3.359,
+                        1.9902,
+                        3.359,
+                        2.2021,
+                        2.6736,
+                        2.2018
+                    ],
+                    "confidence": 0.994,
+                    "span": {
+                        "offset": 30,
+                        "length": 7
+                    }
+                },
+                {
+                    "content": "Member",
+                    "polygon": [
+                        3.549,
+                        2.092,
+                        3.8953,
+                        2.0922,
+                        3.8957,
+                        2.1906,
+                        3.5494,
+                        2.1946
+                    ],
+                    "confidence": 0.996,
+                    "span": {
+                        "offset": 38,
+                        "length": 6
+                    }
+                },
+                {
+                    "content": "of",
+                    "polygon": [
+                        3.9151,
+                        2.0923,
+                        4.0065,
+                        2.0909,
+                        4.0065,
+                        2.1911,
+                        3.9156,
+                        2.1907
+                    ],
+                    "confidence": 0.999,
+                    "span": {
+                        "offset": 45,
+                        "length": 2
+                    }
+                },
+                {
+                    "content": "UniCredit",
+                    "polygon": [
+                        4.2204,
+                        2.0329,
+                        4.9196,
+                        2.0304,
+                        4.9196,
+                        2.1978,
+                        4.2214,
+                        2.1954
+                    ],
+                    "confidence": 0.994,
+                    "span": {
+                        "offset": 48,
+                        "length": 9
+                    }
+                },
+                {
+                    "content": "as",
+                    "polygon": [
+                        7.4142,
+                        2.127,
+                        7.5084,
+                        2.1257,
+                        7.5093,
+                        2.2135,
+                        7.4154,
+                        2.2144
+                    ],
+                    "confidence": 0.996,
+                    "span": {
+                        "offset": 58,
+                        "length": 2
+                    }
+                },
+                {
+                    "content": "of:",
+                    "polygon": [
+                        7.5331,
+                        2.1254,
+                        7.6361,
+                        2.1241,
+                        7.6365,
+                        2.2129,
+                        7.5338,
+                        2.2133
+                    ],
+                    "confidence": 0.992,
+                    "span": {
+                        "offset": 61,
+                        "length": 3
+                    }
+                },
+                {
+                    "content": "20/02/2026",
+                    "polygon": [
+                        7.6622,
+                        2.1241,
+                        8.1568,
+                        2.1192,
+                        8.1569,
+                        2.2088,
+                        7.6626,
+                        2.2127
+                    ],
+                    "confidence": 0.994,
+                    "span": {
+                        "offset": 65,
+                        "length": 10
+                    }
+                },
+                {
+                    "content": "STANDARD",
+                    "polygon": [
+                        3.2192,
+                        2.5614,
+                        3.6673,
+                        2.5611,
+                        3.6673,
+                        2.6622,
+                        3.2193,
+                        2.6613
+                    ],
+                    "confidence": 0.995,
+                    "span": {
+                        "offset": 76,
+                        "length": 8
+                    }
+                },
+                {
+                    "content": "SETTLEMENT",
+                    "polygon": [
+                        3.6923,
+                        2.561,
+                        4.1956,
+                        2.5601,
+                        4.1954,
+                        2.6622,
+                        3.6924,
+                        2.6622
+                    ],
+                    "confidence": 0.993,
+                    "span": {
+                        "offset": 85,
+                        "length": 10
+                    }
+                },
+                {
+                    "content": "INSTRUCTIONS",
+                    "polygon": [
+                        4.2156,
+                        2.5602,
+                        4.8275,
+                        2.5599,
+                        4.8273,
+                        2.6622,
+                        4.2155,
+                        2.6623
+                    ],
+                    "confidence": 0.992,
+                    "span": {
+                        "offset": 96,
+                        "length": 12
+                    }
+                },
+                {
+                    "content": "FOR",
+                    "polygon": [
+                        4.856,
+                        2.5599,
+                        5.0115,
+                        2.5598,
+                        5.0112,
+                        2.6624,
+                        4.8557,
+                        2.6623
+                    ],
+                    "confidence": 0.998,
+                    "span": {
+                        "offset": 109,
+                        "length": 3
+                    }
+                },
+                {
+                    "content": "SECURED",
+                    "polygon": [
+                        5.0399,
+                        2.5598,
+                        5.4094,
+                        2.5602,
+                        5.409,
+                        2.6629,
+                        5.0396,
+                        2.6624
+                    ],
+                    "confidence": 0.993,
+                    "span": {
+                        "offset": 113,
+                        "length": 7
+                    }
+                },
+                {
+                    "content": "FINANCING",
+                    "polygon": [
+                        5.4378,
+                        2.5603,
+                        5.8858,
+                        2.5602,
+                        5.8855,
+                        2.6629,
+                        5.4374,
+                        2.663
+                    ],
+                    "confidence": 0.993,
+                    "span": {
+                        "offset": 121,
+                        "length": 9
+                    }
+                },
+                {
+                    "content": "TRANSACTIONS",
+                    "polygon": [
+                        5.9076,
+                        2.5602,
+                        6.5312,
+                        2.5622,
+                        6.531,
+                        2.6644,
+                        5.9072,
+                        2.6629
+                    ],
+                    "confidence": 0.992,
+                    "span": {
+                        "offset": 131,
+                        "length": 12
+                    }
+                },
+                {
+                    "content": "(SFT)",
+                    "polygon": [
+                        6.5563,
+                        2.5622,
+                        6.7703,
+                        2.5615,
+                        6.7703,
+                        2.6646,
+                        6.5561,
+                        2.6644
+                    ],
+                    "confidence": 0.992,
+                    "span": {
+                        "offset": 144,
+                        "length": 5
+                    }
+                },
+                {
+                    "content": "MADE",
+                    "polygon": [
+                        3.5048,
+                        2.6762,
+                        3.7396,
+                        2.6756,
+                        3.7402,
+                        2.7742,
+                        3.5054,
+                        2.7735
+                    ],
+                    "confidence": 0.992,
+                    "span": {
+                        "offset": 150,
+                        "length": 4
+                    }
+                },
+                {
+                    "content": "WITH",
+                    "polygon": [
+                        3.7592,
+                        2.6756,
+                        3.9843,
+                        2.6754,
+                        3.9845,
+                        2.7745,
+                        3.7597,
+                        2.7742
+                    ],
+                    "confidence": 0.992,
+                    "span": {
+                        "offset": 155,
+                        "length": 4
+                    }
+                },
+                {
+                    "content": "UNICREDIT",
+                    "polygon": [
+                        4.0136,
+                        2.6754,
+                        4.4474,
+                        2.6752,
+                        4.4476,
+                        2.7748,
+                        4.0139,
+                        2.7745
+                    ],
+                    "confidence": 0.992,
+                    "span": {
+                        "offset": 160,
+                        "length": 9
+                    }
+                },
+                {
+                    "content": "BANK",
+                    "polygon": [
+                        4.4719,
+                        2.6753,
+                        4.6937,
+                        2.6752,
+                        4.6938,
+                        2.775,
+                        4.4721,
+                        2.7748
+                    ],
+                    "confidence": 0.988,
+                    "span": {
+                        "offset": 170,
+                        "length": 4
+                    }
+                },
+                {
+                    "content": "AUSTRIA",
+                    "polygon": [
+                        4.7165,
+                        2.6751,
+                        5.0672,
+                        2.6752,
+                        5.067,
+                        2.7751,
+                        4.7166,
+                        2.775
+                    ],
+                    "confidence": 0.994,
+                    "span": {
+                        "offset": 175,
+                        "length": 7
+                    }
+                },
+                {
+                    "content": "AG,",
+                    "polygon": [
+                        5.0868,
+                        2.6752,
+                        5.2221,
+                        2.675,
+                        5.222,
+                        2.7752,
+                        5.0866,
+                        2.7751
+                    ],
+                    "confidence": 0.994,
+                    "span": {
+                        "offset": 183,
+                        "length": 3
+                    }
+                },
+                {
+                    "content": "VIENNA",
+                    "polygon": [
+                        5.2417,
+                        2.6749,
+                        5.5532,
+                        2.6743,
+                        5.5534,
+                        2.7755,
+                        5.2416,
+                        2.7752
+                    ],
+                    "confidence": 0.994,
+                    "span": {
+                        "offset": 187,
+                        "length": 6
+                    }
+                },
+                {
+                    "content": "SWIFT-ID:",
+                    "polygon": [
+                        5.5744,
+                        2.6744,
+                        5.9675,
+                        2.6746,
+                        5.9672,
+                        2.7746,
+                        5.5745,
+                        2.7755
+                    ],
+                    "confidence": 0.991,
+                    "span": {
+                        "offset": 194,
+                        "length": 9
+                    }
+                },
+                {
+                    "content": "BKAUATWW",
+                    "polygon": [
+                        5.9936,
+                        2.6746,
+                        6.4857,
+                        2.6739,
+                        6.4857,
+                        2.7725,
+                        5.9933,
+                        2.7745
+                    ],
+                    "confidence": 0.995,
+                    "span": {
+                        "offset": 204,
+                        "length": 8
+                    }
+                },
+                {
+                    "content": "EUR",
+                    "polygon": [
+                        1.8419,
+                        3.2566,
+                        2.0531,
+                        3.2561,
+                        2.0531,
+                        3.3655,
+                        1.8421,
+                        3.3648
+                    ],
+                    "confidence": 0.997,
+                    "span": {
+                        "offset": 213,
+                        "length": 3
+                    }
+                },
+                {
+                    "content": "CLEARSTREAM",
+                    "polygon": [
+                        2.351,
+                        3.2696,
+                        2.9022,
+                        3.269,
+                        2.9016,
+                        3.377,
+                        2.3518,
+                        3.3755
+                    ],
+                    "confidence": 0.992,
+                    "span": {
+                        "offset": 217,
+                        "length": 11
+                    }
+                },
+                {
+                    "content": "Banking",
+                    "polygon": [
+                        2.9288,
+                        3.269,
+                        3.2266,
+                        3.2699,
+                        3.2262,
+                        3.377,
+                        2.9281,
+                        3.377
+                    ],
+                    "confidence": 0.994,
+                    "span": {
+                        "offset": 229,
+                        "length": 7
+                    }
+                },
+                {
+                    "content": "S.A.,",
+                    "polygon": [
+                        3.2496,
+                        3.2699,
+                        3.4038,
+                        3.269,
+                        3.4033,
+                        3.377,
+                        3.2492,
+                        3.377
+                    ],
+                    "confidence": 0.963,
+                    "span": {
+                        "offset": 237,
+                        "length": 5
+                    }
+                },
+                {
+                    "content": "LUXEMBOURG",
+                    "polygon": [
+                        3.4287,
+                        3.269,
+                        3.9678,
+                        3.2684,
+                        3.9678,
+                        3.3757,
+                        3.4281,
+                        3.377
+                    ],
+                    "confidence": 0.994,
+                    "span": {
+                        "offset": 243,
+                        "length": 10
+                    }
+                },
+                {
+                    "content": "T2",
+                    "polygon": [
+                        2.3538,
+                        3.4117,
+                        2.4527,
+                        3.4126,
+                        2.4531,
+                        3.5027,
+                        2.354,
+                        3.5032
+                    ],
+                    "confidence": 0.977,
+                    "span": {
+                        "offset": 254,
+                        "length": 2
+                    }
+                },
+                {
+                    "content": "RTGS",
+                    "polygon": [
+                        2.4807,
+                        3.4128,
+                        2.6839,
+                        3.4123,
+                        2.6839,
+                        3.5028,
+                        2.4811,
+                        3.5026
+                    ],
+                    "confidence": 0.992,
+                    "span": {
+                        "offset": 257,
+                        "length": 4
+                    }
+                },
+                {
+                    "content": "CEDELULLXXX",
+                    "polygon": [
+                        5.34,
+                        3.276,
+                        5.9212,
+                        3.2754,
+                        5.9212,
+                        3.3645,
+                        5.3399,
+                        3.3655
+                    ],
+                    "confidence": 0.991,
+                    "span": {
+                        "offset": 262,
+                        "length": 11
+                    }
+                },
+                {
+                    "content": "TRGTXEPMRTG",
+                    "polygon": [
+                        5.3378,
+                        3.415,
+                        5.9539,
+                        3.4153,
+                        5.9543,
+                        3.5014,
+                        5.3379,
+                        3.5031
+                    ],
+                    "confidence": 0.992,
+                    "span": {
+                        "offset": 274,
+                        "length": 11
+                    }
+                },
+                {
+                    "content": "CEDEL",
+                    "polygon": [
+                        6.4951,
+                        3.2766,
+                        6.73,
+                        3.2775,
+                        6.7303,
+                        3.3632,
+                        6.4951,
+                        3.3641
+                    ],
+                    "confidence": 0.995,
+                    "span": {
+                        "offset": 286,
+                        "length": 5
+                    }
+                },
+                {
+                    "content": "16478",
+                    "polygon": [
+                        6.7583,
+                        3.2776,
+                        7.0114,
+                        3.2761,
+                        7.0114,
+                        3.3638,
+                        6.7586,
+                        3.3631
+                    ],
+                    "confidence": 0.995,
+                    "span": {
+                        "offset": 292,
+                        "length": 5
+                    }
+                },
+                {
+                    "content": "GBP",
+                    "polygon": [
+                        1.8424,
+                        3.684,
+                        2.0475,
+                        3.6823,
+                        2.0475,
+                        3.7885,
+                        1.8424,
+                        3.7892
+                    ],
+                    "confidence": 0.998,
+                    "span": {
+                        "offset": 298,
+                        "length": 3
+                    }
+                },
+                {
+                    "content": "CLEARSTREAM",
+                    "polygon": [
+                        2.3524,
+                        3.6981,
+                        2.9005,
+                        3.696,
+                        2.8998,
+                        3.802,
+                        2.3527,
+                        3.8012
+                    ],
+                    "confidence": 0.993,
+                    "span": {
+                        "offset": 302,
+                        "length": 11
+                    }
+                },
+                {
+                    "content": "Banking",
+                    "polygon": [
+                        2.928,
+                        3.6959,
+                        3.227,
+                        3.6966,
+                        3.2268,
+                        3.8018,
+                        2.9273,
+                        3.8022
+                    ],
+                    "confidence": 0.995,
+                    "span": {
+                        "offset": 314,
+                        "length": 7
+                    }
+                },
+                {
+                    "content": "S.A.,",
+                    "polygon": [
+                        3.251,
+                        3.6967,
+                        3.404,
+                        3.6957,
+                        3.4037,
+                        3.8013,
+                        3.2508,
+                        3.8017
+                    ],
+                    "confidence": 0.989,
+                    "span": {
+                        "offset": 322,
+                        "length": 5
+                    }
+                },
+                {
+                    "content": "LUXEMBOURG",
+                    "polygon": [
+                        3.428,
+                        3.6957,
+                        3.9676,
+                        3.6955,
+                        3.9673,
+                        3.7988,
+                        3.4278,
+                        3.8013
+                    ],
+                    "confidence": 0.993,
+                    "span": {
+                        "offset": 328,
+                        "length": 10
+                    }
+                },
+                {
+                    "content": "intermediary",
+                    "polygon": [
+                        2.3516,
+                        3.834,
+                        2.844,
+                        3.8331,
+                        2.8441,
+                        3.9354,
+                        2.352,
+                        3.9348
+                    ],
+                    "confidence": 0.993,
+                    "span": {
+                        "offset": 339,
+                        "length": 12
+                    }
+                },
+                {
+                    "content": "Agent:",
+                    "polygon": [
+                        2.8675,
+                        3.833,
+                        3.1079,
+                        3.8321,
+                        3.108,
+                        3.9354,
+                        2.8676,
+                        3.9353
+                    ],
+                    "confidence": 0.993,
+                    "span": {
+                        "offset": 352,
+                        "length": 6
+                    }
+                },
+                {
+                    "content": "BARCLAYS",
+                    "polygon": [
+                        3.1364,
+                        3.8319,
+                        3.5145,
+                        3.8313,
+                        3.5142,
+                        3.934,
+                        3.1366,
+                        3.9353
+                    ],
+                    "confidence": 0.993,
+                    "span": {
+                        "offset": 359,
+                        "length": 8
+                    }
+                },
+                {
+                    "content": "BANK",
+                    "polygon": [
+                        3.5398,
+                        3.8313,
+                        3.7465,
+                        3.8302,
+                        3.7463,
+                        3.9335,
+                        3.5394,
+                        3.9339
+                    ],
+                    "confidence": 0.992,
+                    "span": {
+                        "offset": 368,
+                        "length": 4
+                    }
+                },
+                {
+                    "content": "PLC,",
+                    "polygon": [
+                        3.77,
+                        3.8302,
+                        3.9229,
+                        3.8306,
+                        3.9228,
+                        3.9328,
+                        3.7698,
+                        3.9333
+                    ],
+                    "confidence": 0.992,
+                    "span": {
+                        "offset": 373,
+                        "length": 4
+                    }
+                },
+                {
+                    "content": "LONDON",
+                    "polygon": [
+                        3.9464,
+                        3.8306,
+                        4.2777,
+                        3.8298,
+                        4.2777,
+                        3.9319,
+                        3.9464,
+                        3.9328
+                    ],
+                    "confidence": 0.996,
+                    "span": {
+                        "offset": 378,
+                        "length": 6
+                    }
+                },
+                {
+                    "content": "CEDELULLXXX",
+                    "polygon": [
+                        5.3411,
+                        3.7042,
+                        5.9212,
+                        3.7036,
+                        5.9212,
+                        3.7886,
+                        5.3414,
+                        3.7902
+                    ],
+                    "confidence": 0.992,
+                    "span": {
+                        "offset": 385,
+                        "length": 11
+                    }
+                },
+                {
+                    "content": "CEDEL",
+                    "polygon": [
+                        6.4975,
+                        3.7043,
+                        6.7302,
+                        3.704,
+                        6.7304,
+                        3.7902,
+                        6.4977,
+                        3.7909
+                    ],
+                    "confidence": 0.995,
+                    "span": {
+                        "offset": 397,
+                        "length": 5
+                    }
+                },
+                {
+                    "content": "16478",
+                    "polygon": [
+                        6.7584,
+                        3.7043,
+                        7.0109,
+                        3.703,
+                        7.0111,
+                        3.79,
+                        6.7586,
+                        3.7903
+                    ],
+                    "confidence": 0.998,
+                    "span": {
+                        "offset": 403,
+                        "length": 5
+                    }
+                },
+                {
+                    "content": "BARCGB22XXX",
+                    "polygon": [
+                        5.3407,
+                        3.8394,
+                        5.9536,
+                        3.8399,
+                        5.9541,
+                        3.9224,
+                        5.3408,
+                        3.9239
+                    ],
+                    "confidence": 0.993,
+                    "span": {
+                        "offset": 409,
+                        "length": 11
+                    }
+                },
+                {
+                    "content": "GB29",
+                    "polygon": [
+                        6.4956,
+                        3.8373,
+                        6.7004,
+                        3.8366,
+                        6.7007,
+                        3.9253,
+                        6.4958,
+                        3.9259
+                    ],
+                    "confidence": 0.986,
+                    "span": {
+                        "offset": 421,
+                        "length": 4
+                    }
+                },
+                {
+                    "content": "BARC",
+                    "polygon": [
+                        6.7299,
+                        3.8365,
+                        6.9259,
+                        3.8356,
+                        6.9262,
+                        3.9258,
+                        6.7302,
+                        3.9251
+                    ],
+                    "confidence": 0.989,
+                    "span": {
+                        "offset": 426,
+                        "length": 4
+                    }
+                },
+                {
+                    "content": "2032",
+                    "polygon": [
+                        6.9524,
+                        3.8355,
+                        7.1483,
+                        3.8356,
+                        7.1486,
+                        3.9268,
+                        6.9527,
+                        3.9259
+                    ],
+                    "confidence": 0.992,
+                    "span": {
+                        "offset": 431,
+                        "length": 4
+                    }
+                },
+                {
+                    "content": "5350",
+                    "polygon": [
+                        7.1778,
+                        3.8355,
+                        7.3752,
+                        3.8353,
+                        7.3756,
+                        3.9263,
+                        7.1781,
+                        3.9268
+                    ],
+                    "confidence": 0.984,
+                    "span": {
+                        "offset": 436,
+                        "length": 4
+                    }
+                },
+                {
+                    "content": "4088",
+                    "polygon": [
+                        7.4003,
+                        3.8353,
+                        7.5977,
+                        3.8352,
+                        7.598,
+                        3.9252,
+                        7.4006,
+                        3.9262
+                    ],
+                    "confidence": 0.992,
+                    "span": {
+                        "offset": 441,
+                        "length": 4
+                    }
+                },
+                {
+                    "content": "59",
+                    "polygon": [
+                        7.6271,
+                        3.8348,
+                        7.7308,
+                        3.8346,
+                        7.7308,
+                        3.9242,
+                        7.6275,
+                        3.925
+                    ],
+                    "confidence": 0.998,
+                    "span": {
+                        "offset": 446,
+                        "length": 2
+                    }
+                },
+                {
+                    "content": "JPY",
+                    "polygon": [
+                        1.8379,
+                        4.0955,
+                        2.0088,
+                        4.0913,
+                        2.0088,
+                        4.2005,
+                        1.8381,
+                        4.2048
+                    ],
+                    "confidence": 0.994,
+                    "span": {
+                        "offset": 449,
+                        "length": 3
+                    }
+                },
+                {
+                    "content": "CLEARSTREAM",
+                    "polygon": [
+                        2.3519,
+                        4.1116,
+                        2.9006,
+                        4.1107,
+                        2.9001,
+                        4.2148,
+                        2.3524,
+                        4.2136
+                    ],
+                    "confidence": 0.992,
+                    "span": {
+                        "offset": 453,
+                        "length": 11
+                    }
+                },
+                {
+                    "content": "Banking",
+                    "polygon": [
+                        2.9276,
+                        4.1106,
+                        3.2264,
+                        4.111,
+                        3.2264,
+                        4.2142,
+                        2.9271,
+                        4.215
+                    ],
+                    "confidence": 0.994,
+                    "span": {
+                        "offset": 465,
+                        "length": 7
+                    }
+                },
+                {
+                    "content": "S.A.,",
+                    "polygon": [
+                        3.25,
+                        4.1111,
+                        3.4037,
+                        4.1103,
+                        3.4036,
+                        4.2136,
+                        3.2501,
+                        4.2142
+                    ],
+                    "confidence": 0.991,
+                    "span": {
+                        "offset": 473,
+                        "length": 5
+                    }
+                },
+                {
+                    "content": "LUXEMBOURG",
+                    "polygon": [
+                        3.429,
+                        4.1102,
+                        3.9678,
+                        4.1091,
+                        3.9678,
+                        4.2103,
+                        3.429,
+                        4.2136
+                    ],
+                    "confidence": 0.995,
+                    "span": {
+                        "offset": 479,
+                        "length": 10
+                    }
+                },
+                {
+                    "content": "intermediary",
+                    "polygon": [
+                        2.3487,
+                        4.2547,
+                        2.8432,
+                        4.2545,
+                        2.8435,
+                        4.3608,
+                        2.3487,
+                        4.3611
+                    ],
+                    "confidence": 0.993,
+                    "span": {
+                        "offset": 490,
+                        "length": 12
+                    }
+                },
+                {
+                    "content": "Agent:",
+                    "polygon": [
+                        2.8677,
+                        4.2544,
+                        3.1088,
+                        4.2538,
+                        3.1092,
+                        4.3607,
+                        2.868,
+                        4.3609
+                    ],
+                    "confidence": 0.995,
+                    "span": {
+                        "offset": 503,
+                        "length": 6
+                    }
+                },
+                {
+                    "content": "MIZUHO",
+                    "polygon": [
+                        3.1351,
+                        4.2537,
+                        3.4444,
+                        4.2534,
+                        3.4444,
+                        4.3598,
+                        3.1354,
+                        4.3606
+                    ],
+                    "confidence": 0.995,
+                    "span": {
+                        "offset": 510,
+                        "length": 6
+                    }
+                },
+                {
+                    "content": "BANK",
+                    "polygon": [
+                        3.4723,
+                        4.2533,
+                        3.6785,
+                        4.2525,
+                        3.6785,
+                        4.3592,
+                        3.4724,
+                        4.3598
+                    ],
+                    "confidence": 0.992,
+                    "span": {
+                        "offset": 517,
+                        "length": 4
+                    }
+                },
+                {
+                    "content": "LTD,",
+                    "polygon": [
+                        3.7047,
+                        4.2526,
+                        3.8655,
+                        4.2524,
+                        3.8655,
+                        4.3587,
+                        3.7047,
+                        4.3591
+                    ],
+                    "confidence": 0.989,
+                    "span": {
+                        "offset": 522,
+                        "length": 4
+                    }
+                },
+                {
+                    "content": "TOKYO",
+                    "polygon": [
+                        3.8865,
+                        4.2523,
+                        4.1449,
+                        4.2506,
+                        4.1449,
+                        4.3584,
+                        3.8865,
+                        4.3587
+                    ],
+                    "confidence": 0.995,
+                    "span": {
+                        "offset": 527,
+                        "length": 5
+                    }
+                },
+                {
+                    "content": "CEDELULLXXX",
+                    "polygon": [
+                        5.3404,
+                        4.1179,
+                        5.9212,
+                        4.1174,
+                        5.9212,
+                        4.203,
+                        5.3411,
+                        4.2054
+                    ],
+                    "confidence": 0.992,
+                    "span": {
+                        "offset": 533,
+                        "length": 11
+                    }
+                },
+                {
+                    "content": "CEDEL",
+                    "polygon": [
+                        6.4961,
+                        4.1175,
+                        6.7308,
+                        4.1172,
+                        6.731,
+                        4.2028,
+                        6.4962,
+                        4.2039
+                    ],
+                    "confidence": 0.995,
+                    "span": {
+                        "offset": 545,
+                        "length": 5
+                    }
+                },
+                {
+                    "content": "16478",
+                    "polygon": [
+                        6.7575,
+                        4.1173,
+                        7.0114,
+                        4.1166,
+                        7.0114,
+                        4.2025,
+                        6.7576,
+                        4.2028
+                    ],
+                    "confidence": 0.995,
+                    "span": {
+                        "offset": 551,
+                        "length": 5
+                    }
+                },
+                {
+                    "content": "MHCBJPJTXXX",
+                    "polygon": [
+                        5.337,
+                        4.2604,
+                        5.9323,
+                        4.2613,
+                        5.9323,
+                        4.348,
+                        5.3375,
+                        4.3493
+                    ],
+                    "confidence": 0.992,
+                    "span": {
+                        "offset": 557,
+                        "length": 11
+                    }
+                },
+                {
+                    "content": "4517010",
+                    "polygon": [
+                        6.495,
+                        4.2605,
+                        6.8564,
+                        4.26,
+                        6.8564,
+                        4.348,
+                        6.4949,
+                        4.3481
+                    ],
+                    "confidence": 0.997,
+                    "span": {
+                        "offset": 569,
+                        "length": 7
+                    }
+                },
+                {
+                    "content": "USD",
+                    "polygon": [
+                        1.8393,
+                        4.5225,
+                        2.056,
+                        4.5217,
+                        2.0561,
+                        4.6289,
+                        1.8397,
+                        4.6295
+                    ],
+                    "confidence": 0.998,
+                    "span": {
+                        "offset": 577,
+                        "length": 3
+                    }
+                },
+                {
+                    "content": "CLEARSTREAM",
+                    "polygon": [
+                        2.3502,
+                        4.5355,
+                        2.9013,
+                        4.5354,
+                        2.9001,
+                        4.641,
+                        2.3502,
+                        4.6394
+                    ],
+                    "confidence": 0.992,
+                    "span": {
+                        "offset": 581,
+                        "length": 11
+                    }
+                },
+                {
+                    "content": "Banking",
+                    "polygon": [
+                        2.9287,
+                        4.5353,
+                        3.2274,
+                        4.5365,
+                        3.227,
+                        4.6416,
+                        2.9275,
+                        4.6412
+                    ],
+                    "confidence": 0.995,
+                    "span": {
+                        "offset": 593,
+                        "length": 7
+                    }
+                },
+                {
+                    "content": "S.A.,",
+                    "polygon": [
+                        3.2498,
+                        4.5366,
+                        3.394,
+                        4.5359,
+                        3.3934,
+                        4.6414,
+                        3.2493,
+                        4.6416
+                    ],
+                    "confidence": 0.988,
+                    "span": {
+                        "offset": 601,
+                        "length": 5
+                    }
+                },
+                {
+                    "content": "LUXEMBOURG",
+                    "polygon": [
+                        3.4146,
+                        4.5358,
+                        3.9678,
+                        4.5354,
+                        3.9678,
+                        4.6376,
+                        3.4141,
+                        4.6413
+                    ],
+                    "confidence": 0.994,
+                    "span": {
+                        "offset": 607,
+                        "length": 10
+                    }
+                },
+                {
+                    "content": "CEDELULLXXX",
+                    "polygon": [
+                        5.3396,
+                        4.542,
+                        5.9202,
+                        4.5416,
+                        5.9204,
+                        4.629,
+                        5.3398,
+                        4.6302
+                    ],
+                    "confidence": 0.952,
+                    "span": {
+                        "offset": 618,
+                        "length": 11
+                    }
+                },
+                {
+                    "content": "CEDEL",
+                    "polygon": [
+                        6.4952,
+                        4.542,
+                        6.7302,
+                        4.5425,
+                        6.7306,
+                        4.6296,
+                        6.4953,
+                        4.6305
+                    ],
+                    "confidence": 0.995,
+                    "span": {
+                        "offset": 630,
+                        "length": 5
+                    }
+                },
+                {
+                    "content": "16478",
+                    "polygon": [
+                        6.7574,
+                        4.5427,
+                        7.0109,
+                        4.5415,
+                        7.011,
+                        4.6298,
+                        6.7578,
+                        4.6298
+                    ],
+                    "confidence": 0.997,
+                    "span": {
+                        "offset": 636,
+                        "length": 5
+                    }
+                },
+                {
+                    "content": "intermediary",
+                    "polygon": [
+                        2.3509,
+                        4.6813,
+                        2.8439,
+                        4.6801,
+                        2.8438,
+                        4.7864,
+                        2.3512,
+                        4.7869
+                    ],
+                    "confidence": 0.992,
+                    "span": {
+                        "offset": 642,
+                        "length": 12
+                    }
+                },
+                {
+                    "content": "Agent:",
+                    "polygon": [
+                        2.8682,
+                        4.68,
+                        3.1094,
+                        4.6796,
+                        3.1097,
+                        4.7865,
+                        2.8681,
+                        4.7864
+                    ],
+                    "confidence": 0.992,
+                    "span": {
+                        "offset": 655,
+                        "length": 6
+                    }
+                },
+                {
+                    "content": "JPMORGAN",
+                    "polygon": [
+                        3.1337,
+                        4.6796,
+                        3.5538,
+                        4.6788,
+                        3.5537,
+                        4.7846,
+                        3.134,
+                        4.7865
+                    ],
+                    "confidence": 0.992,
+                    "span": {
+                        "offset": 662,
+                        "length": 8
+                    }
+                },
+                {
+                    "content": "CHASE",
+                    "polygon": [
+                        3.5798,
+                        4.6788,
+                        3.828,
+                        4.6777,
+                        3.8281,
+                        4.7839,
+                        3.5798,
+                        4.7845
+                    ],
+                    "confidence": 0.994,
+                    "span": {
+                        "offset": 671,
+                        "length": 5
+                    }
+                },
+                {
+                    "content": "BK,",
+                    "polygon": [
+                        3.854,
+                        4.6779,
+                        3.9721,
+                        4.6787,
+                        3.9719,
+                        4.7838,
+                        3.8541,
+                        4.7838
+                    ],
+                    "confidence": 0.992,
+                    "span": {
+                        "offset": 677,
+                        "length": 3
+                    }
+                },
+                {
+                    "content": "NEW",
+                    "polygon": [
+                        3.9946,
+                        4.6786,
+                        4.1751,
+                        4.6776,
+                        4.175,
+                        4.7825,
+                        3.9944,
+                        4.7836
+                    ],
+                    "confidence": 0.996,
+                    "span": {
+                        "offset": 681,
+                        "length": 3
+                    }
+                },
+                {
+                    "content": "YORK",
+                    "polygon": [
+                        4.196,
+                        4.6773,
+                        4.4105,
+                        4.6754,
+                        4.4105,
+                        4.7817,
+                        4.1958,
+                        4.7824
+                    ],
+                    "confidence": 0.988,
+                    "span": {
+                        "offset": 685,
+                        "length": 4
+                    }
+                },
+                {
+                    "content": "CHASUS",
+                    "polygon": [
+                        5.3398,
+                        4.6855,
+                        5.6581,
+                        4.6858,
+                        5.6582,
+                        4.775,
+                        5.3399,
+                        4.7775
+                    ],
+                    "confidence": 0.998,
+                    "span": {
+                        "offset": 690,
+                        "length": 6
+                    }
+                },
+                {
+                    "content": "33XXX",
+                    "polygon": [
+                        5.6758,
+                        4.6858,
+                        5.9544,
+                        4.6845,
+                        5.9544,
+                        4.7749,
+                        5.6759,
+                        4.7749
+                    ],
+                    "confidence": 0.975,
+                    "span": {
+                        "offset": 697,
+                        "length": 5
+                    }
+                },
+                {
+                    "content": "001-1-573714",
+                    "polygon": [
+                        6.4932,
+                        4.6853,
+                        7.0651,
+                        4.6836,
+                        7.0651,
+                        4.7747,
+                        6.4931,
+                        4.7764
+                    ],
+                    "confidence": 0.994,
+                    "span": {
+                        "offset": 703,
+                        "length": 12
+                    }
+                }
+            ],
+            "lines": [
+                {
+                    "content": "Unicredit - Confidential",
+                    "polygon": [
+                        4.6683,
+                        1.5102,
+                        5.4289,
+                        1.5091,
+                        5.429,
+                        1.5792,
+                        4.6684,
+                        1.5804
+                    ],
+                    "spans": [
+                        {
+                            "offset": 0,
+                            "length": 24
+                        }
+                    ]
+                },
+                {
+                    "content": "Bank Austria",
+                    "polygon": [
+                        2.1215,
+                        1.9891,
+                        3.356,
+                        1.99,
+                        3.3559,
+                        2.2,
+                        2.1213,
+                        2.1991
+                    ],
+                    "spans": [
+                        {
+                            "offset": 25,
+                            "length": 12
+                        }
+                    ]
+                },
+                {
+                    "content": "Member of",
+                    "polygon": [
+                        3.5486,
+                        2.0916,
+                        4.005,
+                        2.088,
+                        4.0058,
+                        2.1894,
+                        3.5494,
+                        2.1931
+                    ],
+                    "spans": [
+                        {
+                            "offset": 38,
+                            "length": 9
+                        }
+                    ]
+                },
+                {
+                    "content": "UniCredit",
+                    "polygon": [
+                        4.2204,
+                        2.0309,
+                        4.9194,
+                        2.0303,
+                        4.9195,
+                        2.1952,
+                        4.2206,
+                        2.1958
+                    ],
+                    "spans": [
+                        {
+                            "offset": 48,
+                            "length": 9
+                        }
+                    ]
+                },
+                {
+                    "content": "as of: 20/02/2026",
+                    "polygon": [
+                        7.4142,
+                        2.1261,
+                        8.1518,
+                        2.1192,
+                        8.1526,
+                        2.2081,
+                        7.415,
+                        2.2144
+                    ],
+                    "spans": [
+                        {
+                            "offset": 58,
+                            "length": 17
+                        }
+                    ]
+                },
+                {
+                    "content": "STANDARD SETTLEMENT INSTRUCTIONS FOR SECURED FINANCING TRANSACTIONS (SFT)",
+                    "polygon": [
+                        3.2192,
+                        2.5582,
+                        6.7686,
+                        2.5607,
+                        6.7685,
+                        2.6629,
+                        3.2191,
+                        2.6603
+                    ],
+                    "spans": [
+                        {
+                            "offset": 76,
+                            "length": 73
+                        }
+                    ]
+                },
+                {
+                    "content": "MADE WITH UNICREDIT BANK AUSTRIA AG, VIENNA SWIFT-ID: BKAUATWW",
+                    "polygon": [
+                        3.5048,
+                        2.6741,
+                        6.4844,
+                        2.6739,
+                        6.4844,
+                        2.7738,
+                        3.5048,
+                        2.774
+                    ],
+                    "spans": [
+                        {
+                            "offset": 150,
+                            "length": 62
+                        }
+                    ]
+                },
+                {
+                    "content": "EUR",
+                    "polygon": [
+                        1.8419,
+                        3.2558,
+                        2.0483,
+                        3.256,
+                        2.0482,
+                        3.3636,
+                        1.8419,
+                        3.3634
+                    ],
+                    "spans": [
+                        {
+                            "offset": 213,
+                            "length": 3
+                        }
+                    ]
+                },
+                {
+                    "content": "CLEARSTREAM Banking S.A., LUXEMBOURG",
+                    "polygon": [
+                        2.351,
+                        3.2695,
+                        3.966,
+                        3.2679,
+                        3.9661,
+                        3.376,
+                        2.3511,
+                        3.377
+                    ],
+                    "spans": [
+                        {
+                            "offset": 217,
+                            "length": 36
+                        }
+                    ]
+                },
+                {
+                    "content": "T2 RTGS",
+                    "polygon": [
+                        2.3538,
+                        3.4117,
+                        2.6835,
+                        3.4112,
+                        2.6836,
+                        3.5021,
+                        2.3539,
+                        3.5026
+                    ],
+                    "spans": [
+                        {
+                            "offset": 254,
+                            "length": 7
+                        }
+                    ]
+                },
+                {
+                    "content": "CEDELULLXXX",
+                    "polygon": [
+                        5.3397,
+                        3.276,
+                        5.9182,
+                        3.275,
+                        5.9184,
+                        3.363,
+                        5.3399,
+                        3.364
+                    ],
+                    "spans": [
+                        {
+                            "offset": 262,
+                            "length": 11
+                        }
+                    ]
+                },
+                {
+                    "content": "TRGTXEPMRTG",
+                    "polygon": [
+                        5.3376,
+                        3.415,
+                        5.9506,
+                        3.4134,
+                        5.9509,
+                        3.5,
+                        5.3379,
+                        3.5017
+                    ],
+                    "spans": [
+                        {
+                            "offset": 274,
+                            "length": 11
+                        }
+                    ]
+                },
+                {
+                    "content": "CEDEL 16478",
+                    "polygon": [
+                        6.495,
+                        3.2765,
+                        7.0104,
+                        3.2761,
+                        7.0104,
+                        3.3623,
+                        6.4951,
+                        3.3627
+                    ],
+                    "spans": [
+                        {
+                            "offset": 286,
+                            "length": 11
+                        }
+                    ]
+                },
+                {
+                    "content": "GBP",
+                    "polygon": [
+                        1.8418,
+                        3.6828,
+                        2.047,
+                        3.6816,
+                        2.0475,
+                        3.7867,
+                        1.8424,
+                        3.7879
+                    ],
+                    "spans": [
+                        {
+                            "offset": 298,
+                            "length": 3
+                        }
+                    ]
+                },
+                {
+                    "content": "CLEARSTREAM Banking S.A., LUXEMBOURG",
+                    "polygon": [
+                        2.3524,
+                        3.6967,
+                        3.9638,
+                        3.6944,
+                        3.964,
+                        3.799,
+                        2.3525,
+                        3.8013
+                    ],
+                    "spans": [
+                        {
+                            "offset": 302,
+                            "length": 36
+                        }
+                    ]
+                },
+                {
+                    "content": "intermediary Agent: BARCLAYS BANK PLC, LONDON",
+                    "polygon": [
+                        2.3516,
+                        3.8338,
+                        4.2752,
+                        3.8287,
+                        4.2755,
+                        3.9307,
+                        2.3519,
+                        3.9358
+                    ],
+                    "spans": [
+                        {
+                            "offset": 339,
+                            "length": 45
+                        }
+                    ]
+                },
+                {
+                    "content": "CEDELULLXXX",
+                    "polygon": [
+                        5.3411,
+                        3.7042,
+                        5.9172,
+                        3.7036,
+                        5.9175,
+                        3.7871,
+                        5.3414,
+                        3.7888
+                    ],
+                    "spans": [
+                        {
+                            "offset": 385,
+                            "length": 11
+                        }
+                    ]
+                },
+                {
+                    "content": "CEDEL 16478",
+                    "polygon": [
+                        6.4975,
+                        3.7039,
+                        7.0092,
+                        3.7029,
+                        7.0094,
+                        3.7885,
+                        6.4977,
+                        3.7895
+                    ],
+                    "spans": [
+                        {
+                            "offset": 397,
+                            "length": 11
+                        }
+                    ]
+                },
+                {
+                    "content": "BARCGB22XXX",
+                    "polygon": [
+                        5.3406,
+                        3.8394,
+                        5.9517,
+                        3.8379,
+                        5.9519,
+                        3.921,
+                        5.3408,
+                        3.9225
+                    ],
+                    "spans": [
+                        {
+                            "offset": 409,
+                            "length": 11
+                        }
+                    ]
+                },
+                {
+                    "content": "GB29 BARC 2032 5350 4088 59",
+                    "polygon": [
+                        6.4956,
+                        3.836,
+                        7.7288,
+                        3.8346,
+                        7.7289,
+                        3.9247,
+                        6.4957,
+                        3.9261
+                    ],
+                    "spans": [
+                        {
+                            "offset": 421,
+                            "length": 27
+                        }
+                    ]
+                },
+                {
+                    "content": "JPY",
+                    "polygon": [
+                        1.8372,
+                        4.0949,
+                        2.0075,
+                        4.0911,
+                        2.0088,
+                        4.1995,
+                        1.8381,
+                        4.2035
+                    ],
+                    "spans": [
+                        {
+                            "offset": 449,
+                            "length": 3
+                        }
+                    ]
+                },
+                {
+                    "content": "CLEARSTREAM Banking S.A., LUXEMBOURG",
+                    "polygon": [
+                        2.3519,
+                        4.1116,
+                        3.9643,
+                        4.108,
+                        3.9645,
+                        4.2109,
+                        2.3521,
+                        4.2145
+                    ],
+                    "spans": [
+                        {
+                            "offset": 453,
+                            "length": 36
+                        }
+                    ]
+                },
+                {
+                    "content": "intermediary Agent: MIZUHO BANK LTD, TOKYO",
+                    "polygon": [
+                        2.3484,
+                        4.2547,
+                        4.1441,
+                        4.2505,
+                        4.1444,
+                        4.3567,
+                        2.3487,
+                        4.3609
+                    ],
+                    "spans": [
+                        {
+                            "offset": 490,
+                            "length": 42
+                        }
+                    ]
+                },
+                {
+                    "content": "CEDELULLXXX",
+                    "polygon": [
+                        5.3404,
+                        4.1179,
+                        5.9179,
+                        4.1162,
+                        5.9182,
+                        4.2025,
+                        5.3406,
+                        4.2042
+                    ],
+                    "spans": [
+                        {
+                            "offset": 533,
+                            "length": 11
+                        }
+                    ]
+                },
+                {
+                    "content": "CEDEL 16478",
+                    "polygon": [
+                        6.496,
+                        4.1173,
+                        7.0087,
+                        4.1157,
+                        7.009,
+                        4.201,
+                        6.4962,
+                        4.2026
+                    ],
+                    "spans": [
+                        {
+                            "offset": 545,
+                            "length": 11
+                        }
+                    ]
+                },
+                {
+                    "content": "MHCBJPJTXXX",
+                    "polygon": [
+                        5.337,
+                        4.2604,
+                        5.9292,
+                        4.259,
+                        5.9294,
+                        4.3465,
+                        5.3372,
+                        4.3478
+                    ],
+                    "spans": [
+                        {
+                            "offset": 557,
+                            "length": 11
+                        }
+                    ]
+                },
+                {
+                    "content": "4517010",
+                    "polygon": [
+                        6.4948,
+                        4.2604,
+                        6.8541,
+                        4.2599,
+                        6.8542,
+                        4.3465,
+                        6.4949,
+                        4.347
+                    ],
+                    "spans": [
+                        {
+                            "offset": 569,
+                            "length": 7
+                        }
+                    ]
+                },
+                {
+                    "content": "USD",
+                    "polygon": [
+                        1.8393,
+                        4.5218,
+                        2.0533,
+                        4.5211,
+                        2.0537,
+                        4.6279,
+                        1.8397,
+                        4.6287
+                    ],
+                    "spans": [
+                        {
+                            "offset": 577,
+                            "length": 3
+                        }
+                    ]
+                },
+                {
+                    "content": "CLEARSTREAM Banking S.A., LUXEMBOURG",
+                    "polygon": [
+                        2.3502,
+                        4.5352,
+                        3.9657,
+                        4.5351,
+                        3.9657,
+                        4.6398,
+                        2.3502,
+                        4.6399
+                    ],
+                    "spans": [
+                        {
+                            "offset": 581,
+                            "length": 36
+                        }
+                    ]
+                },
+                {
+                    "content": "CEDELULLXXX",
+                    "polygon": [
+                        5.3396,
+                        4.542,
+                        5.917,
+                        4.5412,
+                        5.9171,
+                        4.6279,
+                        5.3398,
+                        4.6287
+                    ],
+                    "spans": [
+                        {
+                            "offset": 618,
+                            "length": 11
+                        }
+                    ]
+                },
+                {
+                    "content": "CEDEL 16478",
+                    "polygon": [
+                        6.4952,
+                        4.542,
+                        7.0091,
+                        4.5414,
+                        7.0092,
+                        4.6284,
+                        6.4953,
+                        4.629
+                    ],
+                    "spans": [
+                        {
+                            "offset": 630,
+                            "length": 11
+                        }
+                    ]
+                },
+                {
+                    "content": "intermediary Agent: JPMORGAN CHASE BK, NEW YORK",
+                    "polygon": [
+                        2.3509,
+                        4.6813,
+                        4.4092,
+                        4.6754,
+                        4.4095,
+                        4.7811,
+                        2.3512,
+                        4.7869
+                    ],
+                    "spans": [
+                        {
+                            "offset": 642,
+                            "length": 47
+                        }
+                    ]
+                },
+                {
+                    "content": "CHASUS 33XXX",
+                    "polygon": [
+                        5.3396,
+                        4.6855,
+                        5.9539,
+                        4.6834,
+                        5.9543,
+                        4.7735,
+                        5.3399,
+                        4.7759
+                    ],
+                    "spans": [
+                        {
+                            "offset": 690,
+                            "length": 12
+                        }
+                    ]
+                },
+                {
+                    "content": "001-1-573714",
+                    "polygon": [
+                        6.4929,
+                        4.685,
+                        7.063,
+                        4.6834,
+                        7.0632,
+                        4.7732,
+                        6.4931,
+                        4.7749
+                    ],
+                    "spans": [
+                        {
+                            "offset": 703,
+                            "length": 12
+                        }
+                    ]
+                }
+            ],
+            "spans": [
+                {
+                    "offset": 0,
+                    "length": 715
+                }
+            ]
+        }
+    ],
+    "tables": [
+        {
+            "rowCount": 7,
+            "columnCount": 4,
+            "cells": [
+                {
+                    "kind": "columnHeader",
+                    "rowIndex": 0,
+                    "columnIndex": 0,
+                    "content": "EUR",
+                    "boundingRegions": [
+                        {
+                            "pageNumber": 1,
+                            "polygon": [
+                                1.7078,
+                                3.1797,
+                                2.2068,
+                                3.1797,
+                                2.2068,
+                                3.5984,
+                                1.7078,
+                                3.5984
+                            ]
+                        }
+                    ],
+                    "spans": [
+                        {
+                            "offset": 213,
+                            "length": 3
+                        }
+                    ],
+                    "elements": [
+                        "/paragraphs/5"
+                    ]
+                },
+                {
+                    "kind": "columnHeader",
+                    "rowIndex": 0,
+                    "columnIndex": 1,
+                    "content": "CLEARSTREAM Banking S.A., LUXEMBOURG T2 RTGS",
+                    "boundingRegions": [
+                        {
+                            "pageNumber": 1,
+                            "polygon": [
+                                2.2068,
+                                3.1797,
+                                4.8682,
+                                3.1797,
+                                4.8682,
+                                3.5984,
+                                2.2068,
+                                3.5984
+                            ]
+                        }
+                    ],
+                    "spans": [
+                        {
+                            "offset": 217,
+                            "length": 44
+                        }
+                    ],
+                    "elements": [
+                        "/paragraphs/6"
+                    ]
+                },
+                {
+                    "kind": "columnHeader",
+                    "rowIndex": 0,
+                    "columnIndex": 2,
+                    "content": "CEDELULLXXX TRGTXEPMRTG",
+                    "boundingRegions": [
+                        {
+                            "pageNumber": 1,
+                            "polygon": [
+                                4.8682,
+                                3.1797,
+                                6.2174,
+                                3.1797,
+                                6.2236,
+                                3.5922,
+                                4.8682,
+                                3.5984
+                            ]
+                        }
+                    ],
+                    "spans": [
+                        {
+                            "offset": 262,
+                            "length": 23
+                        }
+                    ],
+                    "elements": [
+                        "/paragraphs/7"
+                    ]
+                },
+                {
+                    "kind": "columnHeader",
+                    "rowIndex": 0,
+                    "columnIndex": 3,
+                    "content": "CEDEL 16478",
+                    "boundingRegions": [
+                        {
+                            "pageNumber": 1,
+                            "polygon": [
+                                6.2174,
+                                3.1797,
+                                7.8254,
+                                3.1797,
+                                7.8315,
+                                3.5922,
+                                6.2236,
+                                3.5922
+                            ]
+                        }
+                    ],
+                    "spans": [
+                        {
+                            "offset": 286,
+                            "length": 11
+                        }
+                    ],
+                    "elements": [
+                        "/paragraphs/8"
+                    ]
+                },
+                {
+                    "rowIndex": 1,
+                    "columnIndex": 0,
+                    "rowSpan": 2,
+                    "content": "GBP",
+                    "boundingRegions": [
+                        {
+                            "pageNumber": 1,
+                            "polygon": [
+                                1.7078,
+                                3.5984,
+                                2.2068,
+                                3.5984,
+                                2.2068,
+                                4.017,
+                                1.7078,
+                                4.017
+                            ]
+                        }
+                    ],
+                    "spans": [
+                        {
+                            "offset": 298,
+                            "length": 3
+                        }
+                    ],
+                    "elements": [
+                        "/paragraphs/9"
+                    ]
+                },
+                {
+                    "rowIndex": 1,
+                    "columnIndex": 1,
+                    "rowSpan": 2,
+                    "content": "CLEARSTREAM Banking S.A., LUXEMBOURG intermediary Agent: BARCLAYS BANK PLC, LONDON",
+                    "boundingRegions": [
+                        {
+                            "pageNumber": 1,
+                            "polygon": [
+                                2.2068,
+                                3.5984,
+                                4.8682,
+                                3.5984,
+                                4.8682,
+                                4.017,
+                                2.2068,
+                                4.017
+                            ]
+                        }
+                    ],
+                    "spans": [
+                        {
+                            "offset": 302,
+                            "length": 82
+                        }
+                    ],
+                    "elements": [
+                        "/paragraphs/10"
+                    ]
+                },
+                {
+                    "rowIndex": 1,
+                    "columnIndex": 2,
+                    "content": "CEDELULLXXX",
+                    "boundingRegions": [
+                        {
+                            "pageNumber": 1,
+                            "polygon": [
+                                4.8682,
+                                3.5984,
+                                6.2236,
+                                3.5922,
+                                6.2236,
+                                3.8138,
+                                4.8682,
+                                3.8138
+                            ]
+                        }
+                    ],
+                    "spans": [
+                        {
+                            "offset": 385,
+                            "length": 11
+                        }
+                    ],
+                    "elements": [
+                        "/paragraphs/11"
+                    ]
+                },
+                {
+                    "rowIndex": 1,
+                    "columnIndex": 3,
+                    "content": "CEDEL 16478",
+                    "boundingRegions": [
+                        {
+                            "pageNumber": 1,
+                            "polygon": [
+                                6.2236,
+                                3.5922,
+                                7.8315,
+                                3.5922,
+                                7.8315,
+                                3.8138,
+                                6.2236,
+                                3.8138
+                            ]
+                        }
+                    ],
+                    "spans": [
+                        {
+                            "offset": 397,
+                            "length": 11
+                        }
+                    ],
+                    "elements": [
+                        "/paragraphs/12"
+                    ]
+                },
+                {
+                    "rowIndex": 2,
+                    "columnIndex": 2,
+                    "content": "BARCGB22XXX",
+                    "boundingRegions": [
+                        {
+                            "pageNumber": 1,
+                            "polygon": [
+                                4.8682,
+                                3.8138,
+                                6.2236,
+                                3.8138,
+                                6.2236,
+                                4.017,
+                                4.8682,
+                                4.017
+                            ]
+                        }
+                    ],
+                    "spans": [
+                        {
+                            "offset": 409,
+                            "length": 11
+                        }
+                    ],
+                    "elements": [
+                        "/paragraphs/13"
+                    ]
+                },
+                {
+                    "rowIndex": 2,
+                    "columnIndex": 3,
+                    "content": "GB29 BARC 2032 5350 4088 59",
+                    "boundingRegions": [
+                        {
+                            "pageNumber": 1,
+                            "polygon": [
+                                6.2236,
+                                3.8138,
+                                7.8315,
+                                3.8138,
+                                7.8315,
+                                4.0047,
+                                6.2236,
+                                4.017
+                            ]
+                        }
+                    ],
+                    "spans": [
+                        {
+                            "offset": 421,
+                            "length": 27
+                        }
+                    ],
+                    "elements": [
+                        "/paragraphs/14"
+                    ]
+                },
+                {
+                    "rowIndex": 3,
+                    "columnIndex": 0,
+                    "rowSpan": 2,
+                    "content": "JPY",
+                    "boundingRegions": [
+                        {
+                            "pageNumber": 1,
+                            "polygon": [
+                                1.7078,
+                                4.017,
+                                2.2068,
+                                4.017,
+                                2.2068,
+                                4.448,
+                                1.7078,
+                                4.448
+                            ]
+                        }
+                    ],
+                    "spans": [
+                        {
+                            "offset": 449,
+                            "length": 3
+                        }
+                    ],
+                    "elements": [
+                        "/paragraphs/15"
+                    ]
+                },
+                {
+                    "rowIndex": 3,
+                    "columnIndex": 1,
+                    "rowSpan": 2,
+                    "content": "CLEARSTREAM Banking S.A., LUXEMBOURG intermediary Agent: MIZUHO BANK LTD, TOKYO",
+                    "boundingRegions": [
+                        {
+                            "pageNumber": 1,
+                            "polygon": [
+                                2.2068,
+                                4.017,
+                                4.8682,
+                                4.017,
+                                4.8682,
+                                4.4419,
+                                2.2068,
+                                4.448
+                            ]
+                        }
+                    ],
+                    "spans": [
+                        {
+                            "offset": 453,
+                            "length": 79
+                        }
+                    ],
+                    "elements": [
+                        "/paragraphs/16"
+                    ]
+                },
+                {
+                    "rowIndex": 3,
+                    "columnIndex": 2,
+                    "content": "CEDELULLXXX",
+                    "boundingRegions": [
+                        {
+                            "pageNumber": 1,
+                            "polygon": [
+                                4.8682,
+                                4.017,
+                                6.2236,
+                                4.017,
+                                6.2236,
+                                4.2264,
+                                4.8682,
+                                4.2325
+                            ]
+                        }
+                    ],
+                    "spans": [
+                        {
+                            "offset": 533,
+                            "length": 11
+                        }
+                    ],
+                    "elements": [
+                        "/paragraphs/17"
+                    ]
+                },
+                {
+                    "rowIndex": 3,
+                    "columnIndex": 3,
+                    "content": "CEDEL 16478",
+                    "boundingRegions": [
+                        {
+                            "pageNumber": 1,
+                            "polygon": [
+                                6.2236,
+                                4.017,
+                                7.8315,
+                                4.0047,
+                                7.8315,
+                                4.2264,
+                                6.2236,
+                                4.2264
+                            ]
+                        }
+                    ],
+                    "spans": [
+                        {
+                            "offset": 545,
+                            "length": 11
+                        }
+                    ],
+                    "elements": [
+                        "/paragraphs/18"
+                    ]
+                },
+                {
+                    "rowIndex": 4,
+                    "columnIndex": 2,
+                    "content": "MHCBJPJTXXX",
+                    "boundingRegions": [
+                        {
+                            "pageNumber": 1,
+                            "polygon": [
+                                4.8682,
+                                4.2325,
+                                6.2236,
+                                4.2264,
+                                6.2236,
+                                4.4419,
+                                4.8682,
+                                4.4419
+                            ]
+                        }
+                    ],
+                    "spans": [
+                        {
+                            "offset": 557,
+                            "length": 11
+                        }
+                    ],
+                    "elements": [
+                        "/paragraphs/19"
+                    ]
+                },
+                {
+                    "rowIndex": 4,
+                    "columnIndex": 3,
+                    "content": "4517010",
+                    "boundingRegions": [
+                        {
+                            "pageNumber": 1,
+                            "polygon": [
+                                6.2236,
+                                4.2264,
+                                7.8315,
+                                4.2264,
+                                7.8315,
+                                4.4419,
+                                6.2236,
+                                4.4419
+                            ]
+                        }
+                    ],
+                    "spans": [
+                        {
+                            "offset": 569,
+                            "length": 7
+                        }
+                    ],
+                    "elements": [
+                        "/paragraphs/20"
+                    ]
+                },
+                {
+                    "rowIndex": 5,
+                    "columnIndex": 0,
+                    "content": "USD",
+                    "boundingRegions": [
+                        {
+                            "pageNumber": 1,
+                            "polygon": [
+                                1.7078,
+                                4.448,
+                                2.2068,
+                                4.448,
+                                2.2068,
+                                4.6574,
+                                1.7016,
+                                4.6635
+                            ]
+                        }
+                    ],
+                    "spans": [
+                        {
+                            "offset": 577,
+                            "length": 3
+                        }
+                    ],
+                    "elements": [
+                        "/paragraphs/21"
+                    ]
+                },
+                {
+                    "rowIndex": 5,
+                    "columnIndex": 1,
+                    "content": "CLEARSTREAM Banking S.A., LUXEMBOURG",
+                    "boundingRegions": [
+                        {
+                            "pageNumber": 1,
+                            "polygon": [
+                                2.2068,
+                                4.448,
+                                4.8682,
+                                4.4419,
+                                4.8682,
+                                4.6574,
+                                2.2068,
+                                4.6574
+                            ]
+                        }
+                    ],
+                    "spans": [
+                        {
+                            "offset": 581,
+                            "length": 36
+                        }
+                    ],
+                    "elements": [
+                        "/paragraphs/22"
+                    ]
+                },
+                {
+                    "rowIndex": 5,
+                    "columnIndex": 2,
+                    "content": "CEDELULLXXX",
+                    "boundingRegions": [
+                        {
+                            "pageNumber": 1,
+                            "polygon": [
+                                4.8682,
+                                4.4419,
+                                6.2236,
+                                4.4419,
+                                6.2236,
+                                4.6512,
+                                4.8682,
+                                4.6574
+                            ]
+                        }
+                    ],
+                    "spans": [
+                        {
+                            "offset": 618,
+                            "length": 11
+                        }
+                    ],
+                    "elements": [
+                        "/paragraphs/23"
+                    ]
+                },
+                {
+                    "rowIndex": 5,
+                    "columnIndex": 3,
+                    "content": "CEDEL 16478",
+                    "boundingRegions": [
+                        {
+                            "pageNumber": 1,
+                            "polygon": [
+                                6.2236,
+                                4.4419,
+                                7.8315,
+                                4.4419,
+                                7.8315,
+                                4.6512,
+                                6.2236,
+                                4.6512
+                            ]
+                        }
+                    ],
+                    "spans": [
+                        {
+                            "offset": 630,
+                            "length": 11
+                        }
+                    ],
+                    "elements": [
+                        "/paragraphs/24"
+                    ]
+                },
+                {
+                    "rowIndex": 6,
+                    "columnIndex": 0,
+                    "content": "",
+                    "boundingRegions": [
+                        {
+                            "pageNumber": 1,
+                            "polygon": [
+                                1.7016,
+                                4.6635,
+                                2.2068,
+                                4.6574,
+                                2.213,
+                                4.8359,
+                                1.7016,
+                                4.8359
+                            ]
+                        }
+                    ],
+                    "spans": []
+                },
+                {
+                    "rowIndex": 6,
+                    "columnIndex": 1,
+                    "content": "intermediary Agent: JPMORGAN CHASE BK, NEW YORK",
+                    "boundingRegions": [
+                        {
+                            "pageNumber": 1,
+                            "polygon": [
+                                2.2068,
+                                4.6574,
+                                4.8682,
+                                4.6574,
+                                4.8744,
+                                4.8298,
+                                2.213,
+                                4.8359
+                            ]
+                        }
+                    ],
+                    "spans": [
+                        {
+                            "offset": 642,
+                            "length": 47
+                        }
+                    ],
+                    "elements": [
+                        "/paragraphs/25"
+                    ]
+                },
+                {
+                    "rowIndex": 6,
+                    "columnIndex": 2,
+                    "content": "CHASUS 33XXX",
+                    "boundingRegions": [
+                        {
+                            "pageNumber": 1,
+                            "polygon": [
+                                4.8682,
+                                4.6574,
+                                6.2236,
+                                4.6512,
+                                6.2236,
+                                4.8298,
+                                4.8744,
+                                4.8298
+                            ]
+                        }
+                    ],
+                    "spans": [
+                        {
+                            "offset": 690,
+                            "length": 12
+                        }
+                    ],
+                    "elements": [
+                        "/paragraphs/26"
+                    ]
+                },
+                {
+                    "rowIndex": 6,
+                    "columnIndex": 3,
+                    "content": "001-1-573714",
+                    "boundingRegions": [
+                        {
+                            "pageNumber": 1,
+                            "polygon": [
+                                6.2236,
+                                4.6512,
+                                7.8315,
+                                4.6512,
+                                7.8315,
+                                4.8298,
+                                6.2236,
+                                4.8298
+                            ]
+                        }
+                    ],
+                    "spans": [
+                        {
+                            "offset": 703,
+                            "length": 12
+                        }
+                    ],
+                    "elements": [
+                        "/paragraphs/27"
+                    ]
+                }
+            ],
+            "boundingRegions": [
+                {
+                    "pageNumber": 1,
+                    "polygon": [
+                        1.7876,
+                        3.2185,
+                        7.7441,
+                        3.221,
+                        7.7448,
+                        4.786,
+                        1.7886,
+                        4.7834
+                    ]
+                }
+            ],
+            "spans": [
+                {
+                    "offset": 213,
+                    "length": 502
+                }
+            ]
+        }
+    ],
+    "paragraphs": [
+        {
+            "spans": [
+                {
+                    "offset": 0,
+                    "length": 24
+                }
+            ],
+            "boundingRegions": [
+                {
+                    "pageNumber": 1,
+                    "polygon": [
+                        4.6683,
+                        1.5102,
+                        5.4289,
+                        1.5091,
+                        5.429,
+                        1.5792,
+                        4.6684,
+                        1.5804
+                    ]
+                }
+            ],
+            "role": "pageHeader",
+            "content": "Unicredit - Confidential"
+        },
+        {
+            "spans": [
+                {
+                    "offset": 25,
+                    "length": 12
+                }
+            ],
+            "boundingRegions": [
+                {
+                    "pageNumber": 1,
+                    "polygon": [
+                        2.1215,
+                        1.9891,
+                        3.356,
+                        1.99,
+                        3.3559,
+                        2.2,
+                        2.1213,
+                        2.1991
+                    ]
+                }
+            ],
+            "content": "Bank Austria"
+        },
+        {
+            "spans": [
+                {
+                    "offset": 38,
+                    "length": 19
+                }
+            ],
+            "boundingRegions": [
+                {
+                    "pageNumber": 1,
+                    "polygon": [
+                        3.5485,
+                        2.0314,
+                        4.9194,
+                        2.0303,
+                        4.9195,
+                        2.1952,
+                        3.5486,
+                        2.1963
+                    ]
+                }
+            ],
+            "content": "Member of UniCredit"
+        },
+        {
+            "spans": [
+                {
+                    "offset": 58,
+                    "length": 17
+                }
+            ],
+            "boundingRegions": [
+                {
+                    "pageNumber": 1,
+                    "polygon": [
+                        7.4142,
+                        2.1261,
+                        8.1518,
+                        2.1192,
+                        8.1526,
+                        2.2081,
+                        7.415,
+                        2.215
+                    ]
+                }
+            ],
+            "content": "as of: 20/02/2026"
+        },
+        {
+            "spans": [
+                {
+                    "offset": 76,
+                    "length": 136
+                }
+            ],
+            "boundingRegions": [
+                {
+                    "pageNumber": 1,
+                    "polygon": [
+                        3.2192,
+                        2.5582,
+                        6.7686,
+                        2.5607,
+                        6.7684,
+                        2.7763,
+                        3.2191,
+                        2.7737
+                    ]
+                }
+            ],
+            "role": "title",
+            "content": "STANDARD SETTLEMENT INSTRUCTIONS FOR SECURED FINANCING TRANSACTIONS (SFT) MADE WITH UNICREDIT BANK AUSTRIA AG, VIENNA SWIFT-ID: BKAUATWW"
+        },
+        {
+            "spans": [
+                {
+                    "offset": 213,
+                    "length": 3
+                }
+            ],
+            "boundingRegions": [
+                {
+                    "pageNumber": 1,
+                    "polygon": [
+                        1.7078,
+                        3.1797,
+                        2.2068,
+                        3.1797,
+                        2.2068,
+                        3.5984,
+                        1.7078,
+                        3.5984
+                    ]
+                }
+            ],
+            "content": "EUR"
+        },
+        {
+            "spans": [
+                {
+                    "offset": 217,
+                    "length": 44
+                }
+            ],
+            "boundingRegions": [
+                {
+                    "pageNumber": 1,
+                    "polygon": [
+                        2.2068,
+                        3.1797,
+                        4.8682,
+                        3.1797,
+                        4.8682,
+                        3.5984,
+                        2.2068,
+                        3.5984
+                    ]
+                }
+            ],
+            "content": "CLEARSTREAM Banking S.A., LUXEMBOURG T2 RTGS"
+        },
+        {
+            "spans": [
+                {
+                    "offset": 262,
+                    "length": 23
+                }
+            ],
+            "boundingRegions": [
+                {
+                    "pageNumber": 1,
+                    "polygon": [
+                        4.8682,
+                        3.1797,
+                        6.2174,
+                        3.1797,
+                        6.2236,
+                        3.5922,
+                        4.8682,
+                        3.5984
+                    ]
+                }
+            ],
+            "content": "CEDELULLXXX TRGTXEPMRTG"
+        },
+        {
+            "spans": [
+                {
+                    "offset": 286,
+                    "length": 11
+                }
+            ],
+            "boundingRegions": [
+                {
+                    "pageNumber": 1,
+                    "polygon": [
+                        6.2174,
+                        3.1797,
+                        7.8254,
+                        3.1797,
+                        7.8315,
+                        3.5922,
+                        6.2236,
+                        3.5922
+                    ]
+                }
+            ],
+            "content": "CEDEL 16478"
+        },
+        {
+            "spans": [
+                {
+                    "offset": 298,
+                    "length": 3
+                }
+            ],
+            "boundingRegions": [
+                {
+                    "pageNumber": 1,
+                    "polygon": [
+                        1.7078,
+                        3.5984,
+                        2.2068,
+                        3.5984,
+                        2.2068,
+                        4.017,
+                        1.7078,
+                        4.017
+                    ]
+                }
+            ],
+            "content": "GBP"
+        },
+        {
+            "spans": [
+                {
+                    "offset": 302,
+                    "length": 82
+                }
+            ],
+            "boundingRegions": [
+                {
+                    "pageNumber": 1,
+                    "polygon": [
+                        2.2068,
+                        3.5984,
+                        4.8682,
+                        3.5984,
+                        4.8682,
+                        4.017,
+                        2.2068,
+                        4.017
+                    ]
+                }
+            ],
+            "content": "CLEARSTREAM Banking S.A., LUXEMBOURG intermediary Agent: BARCLAYS BANK PLC, LONDON"
+        },
+        {
+            "spans": [
+                {
+                    "offset": 385,
+                    "length": 11
+                }
+            ],
+            "boundingRegions": [
+                {
+                    "pageNumber": 1,
+                    "polygon": [
+                        4.8682,
+                        3.5984,
+                        6.2236,
+                        3.5922,
+                        6.2236,
+                        3.8138,
+                        4.8682,
+                        3.8138
+                    ]
+                }
+            ],
+            "content": "CEDELULLXXX"
+        },
+        {
+            "spans": [
+                {
+                    "offset": 397,
+                    "length": 11
+                }
+            ],
+            "boundingRegions": [
+                {
+                    "pageNumber": 1,
+                    "polygon": [
+                        6.2236,
+                        3.5922,
+                        7.8315,
+                        3.5922,
+                        7.8315,
+                        3.8138,
+                        6.2236,
+                        3.8138
+                    ]
+                }
+            ],
+            "content": "CEDEL 16478"
+        },
+        {
+            "spans": [
+                {
+                    "offset": 409,
+                    "length": 11
+                }
+            ],
+            "boundingRegions": [
+                {
+                    "pageNumber": 1,
+                    "polygon": [
+                        4.8682,
+                        3.8138,
+                        6.2236,
+                        3.8138,
+                        6.2236,
+                        4.017,
+                        4.8682,
+                        4.017
+                    ]
+                }
+            ],
+            "content": "BARCGB22XXX"
+        },
+        {
+            "spans": [
+                {
+                    "offset": 421,
+                    "length": 27
+                }
+            ],
+            "boundingRegions": [
+                {
+                    "pageNumber": 1,
+                    "polygon": [
+                        6.2236,
+                        3.8138,
+                        7.8315,
+                        3.8138,
+                        7.8315,
+                        4.0047,
+                        6.2236,
+                        4.017
+                    ]
+                }
+            ],
+            "content": "GB29 BARC 2032 5350 4088 59"
+        },
+        {
+            "spans": [
+                {
+                    "offset": 449,
+                    "length": 3
+                }
+            ],
+            "boundingRegions": [
+                {
+                    "pageNumber": 1,
+                    "polygon": [
+                        1.7078,
+                        4.017,
+                        2.2068,
+                        4.017,
+                        2.2068,
+                        4.448,
+                        1.7078,
+                        4.448
+                    ]
+                }
+            ],
+            "content": "JPY"
+        },
+        {
+            "spans": [
+                {
+                    "offset": 453,
+                    "length": 79
+                }
+            ],
+            "boundingRegions": [
+                {
+                    "pageNumber": 1,
+                    "polygon": [
+                        2.2068,
+                        4.017,
+                        4.8682,
+                        4.017,
+                        4.8682,
+                        4.4419,
+                        2.2068,
+                        4.448
+                    ]
+                }
+            ],
+            "content": "CLEARSTREAM Banking S.A., LUXEMBOURG intermediary Agent: MIZUHO BANK LTD, TOKYO"
+        },
+        {
+            "spans": [
+                {
+                    "offset": 533,
+                    "length": 11
+                }
+            ],
+            "boundingRegions": [
+                {
+                    "pageNumber": 1,
+                    "polygon": [
+                        4.8682,
+                        4.017,
+                        6.2236,
+                        4.017,
+                        6.2236,
+                        4.2264,
+                        4.8682,
+                        4.2325
+                    ]
+                }
+            ],
+            "content": "CEDELULLXXX"
+        },
+        {
+            "spans": [
+                {
+                    "offset": 545,
+                    "length": 11
+                }
+            ],
+            "boundingRegions": [
+                {
+                    "pageNumber": 1,
+                    "polygon": [
+                        6.2236,
+                        4.017,
+                        7.8315,
+                        4.0047,
+                        7.8315,
+                        4.2264,
+                        6.2236,
+                        4.2264
+                    ]
+                }
+            ],
+            "content": "CEDEL 16478"
+        },
+        {
+            "spans": [
+                {
+                    "offset": 557,
+                    "length": 11
+                }
+            ],
+            "boundingRegions": [
+                {
+                    "pageNumber": 1,
+                    "polygon": [
+                        4.8682,
+                        4.2325,
+                        6.2236,
+                        4.2264,
+                        6.2236,
+                        4.4419,
+                        4.8682,
+                        4.4419
+                    ]
+                }
+            ],
+            "content": "MHCBJPJTXXX"
+        },
+        {
+            "spans": [
+                {
+                    "offset": 569,
+                    "length": 7
+                }
+            ],
+            "boundingRegions": [
+                {
+                    "pageNumber": 1,
+                    "polygon": [
+                        6.2236,
+                        4.2264,
+                        7.8315,
+                        4.2264,
+                        7.8315,
+                        4.4419,
+                        6.2236,
+                        4.4419
+                    ]
+                }
+            ],
+            "content": "4517010"
+        },
+        {
+            "spans": [
+                {
+                    "offset": 577,
+                    "length": 3
+                }
+            ],
+            "boundingRegions": [
+                {
+                    "pageNumber": 1,
+                    "polygon": [
+                        1.7078,
+                        4.448,
+                        2.2068,
+                        4.448,
+                        2.2068,
+                        4.6574,
+                        1.7016,
+                        4.6635
+                    ]
+                }
+            ],
+            "content": "USD"
+        },
+        {
+            "spans": [
+                {
+                    "offset": 581,
+                    "length": 36
+                }
+            ],
+            "boundingRegions": [
+                {
+                    "pageNumber": 1,
+                    "polygon": [
+                        2.2068,
+                        4.448,
+                        4.8682,
+                        4.4419,
+                        4.8682,
+                        4.6574,
+                        2.2068,
+                        4.6574
+                    ]
+                }
+            ],
+            "content": "CLEARSTREAM Banking S.A., LUXEMBOURG"
+        },
+        {
+            "spans": [
+                {
+                    "offset": 618,
+                    "length": 11
+                }
+            ],
+            "boundingRegions": [
+                {
+                    "pageNumber": 1,
+                    "polygon": [
+                        4.8682,
+                        4.4419,
+                        6.2236,
+                        4.4419,
+                        6.2236,
+                        4.6512,
+                        4.8682,
+                        4.6574
+                    ]
+                }
+            ],
+            "content": "CEDELULLXXX"
+        },
+        {
+            "spans": [
+                {
+                    "offset": 630,
+                    "length": 11
+                }
+            ],
+            "boundingRegions": [
+                {
+                    "pageNumber": 1,
+                    "polygon": [
+                        6.2236,
+                        4.4419,
+                        7.8315,
+                        4.4419,
+                        7.8315,
+                        4.6512,
+                        6.2236,
+                        4.6512
+                    ]
+                }
+            ],
+            "content": "CEDEL 16478"
+        },
+        {
+            "spans": [
+                {
+                    "offset": 642,
+                    "length": 47
+                }
+            ],
+            "boundingRegions": [
+                {
+                    "pageNumber": 1,
+                    "polygon": [
+                        2.2068,
+                        4.6574,
+                        4.8682,
+                        4.6574,
+                        4.8744,
+                        4.8298,
+                        2.213,
+                        4.8359
+                    ]
+                }
+            ],
+            "content": "intermediary Agent: JPMORGAN CHASE BK, NEW YORK"
+        },
+        {
+            "spans": [
+                {
+                    "offset": 690,
+                    "length": 12
+                }
+            ],
+            "boundingRegions": [
+                {
+                    "pageNumber": 1,
+                    "polygon": [
+                        4.8682,
+                        4.6574,
+                        6.2236,
+                        4.6512,
+                        6.2236,
+                        4.8298,
+                        4.8744,
+                        4.8298
+                    ]
+                }
+            ],
+            "content": "CHASUS 33XXX"
+        },
+        {
+            "spans": [
+                {
+                    "offset": 703,
+                    "length": 12
+                }
+            ],
+            "boundingRegions": [
+                {
+                    "pageNumber": 1,
+                    "polygon": [
+                        6.2236,
+                        4.6512,
+                        7.8315,
+                        4.6512,
+                        7.8315,
+                        4.8298,
+                        6.2236,
+                        4.8298
+                    ]
+                }
+            ],
+            "content": "001-1-573714"
+        }
+    ],
+    "styles": [],
+    "contentFormat": "text",
+    "sections": [
+        {
+            "spans": [
+                {
+                    "offset": 25,
+                    "length": 690
+                }
+            ],
+            "elements": [
+                "/sections/1",
+                "/sections/2"
+            ]
+        },
+        {
+            "spans": [
+                {
+                    "offset": 25,
+                    "length": 50
+                }
+            ],
+            "elements": [
+                "/figures/0",
+                "/figures/1",
+                "/paragraphs/3"
+            ]
+        },
+        {
+            "spans": [
+                {
+                    "offset": 76,
+                    "length": 639
+                }
+            ],
+            "elements": [
+                "/paragraphs/4",
+                "/tables/0"
+            ]
+        }
+    ],
+    "figures": [
+        {
+            "id": "1.1",
+            "boundingRegions": [
+                {
+                    "pageNumber": 1,
+                    "polygon": [
+                        1.8544,
+                        1.9472,
+                        3.3836,
+                        1.9472,
+                        3.3836,
+                        2.206,
+                        1.8544,
+                        2.206
+                    ]
+                }
+            ],
+            "spans": [
+                {
+                    "offset": 25,
+                    "length": 12
+                }
+            ],
+            "elements": [
+                "/paragraphs/1"
+            ]
+        },
+        {
+            "id": "1.2",
+            "boundingRegions": [
+                {
+                    "pageNumber": 1,
+                    "polygon": [
+                        3.4754,
+                        1.9909,
+                        4.906,
+                        1.9908,
+                        4.906,
+                        2.213,
+                        3.4754,
+                        2.2131
+                    ]
+                }
+            ],
+            "spans": [
+                {
+                    "offset": 38,
+                    "length": 19
+                }
+            ],
+            "elements": [
+                "/paragraphs/2"
+            ]
+        }
+    ]
+}

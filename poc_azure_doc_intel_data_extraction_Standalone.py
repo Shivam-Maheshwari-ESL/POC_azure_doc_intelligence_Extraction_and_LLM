@@ -94,6 +94,10 @@ def main(base_input_path=None, ADI_output_path=None, base_output_path=None, no_L
     for file_name in file_names_list :
 
         input_pdf_path = os.path.join(base_input_path, file_name)
+
+        if input_pdf_path.lower().endswith(".pdf") == False:
+            print(f"Skipping '{file_name}' as it is not a PDF file.")
+            continue
         output_ADI_json_path = os.path.join(ADI_output_path, f"output_ADI_{os.path.splitext(file_name)[0]}.json")
         output_json_path = os.path.join(base_output_path, f"output_ADI_LLM_{os.path.splitext(file_name)[0]}.json")
 

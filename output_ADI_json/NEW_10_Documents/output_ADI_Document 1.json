@@ -1,0 +1,6060 @@
+{
+    "apiVersion": "2024-11-30",
+    "modelId": "prebuilt-layout",
+    "stringIndexType": "textElements",
+    "content": "HSBC UK\nThe Secretary Globant UK Limited 2nd Floor 168 Shoreditch High Street London E1 6RA United Kingdom\nHSBC UK Bank plc International Subsidiary Banking Level 6, 71 Queen Victoria Street London EC4V 4AY Web: hsbc.co.uk\n20th February 2023\nTo whom it may concern,\nPlease be advised that the account details held with HSBC UK Bank plc for Globant UK Limited are as follows:\nGBP Account\nSort Code:\n400501\nAccount Number:\n91623435\nIBAN:\nGB64HBUK4050191623435\nSwift:\nHBUKGB4B\nEUR Account\nSort Code:\n401276\nAccount Number:\n82821180\nIBAN:\nGB41HBUK40127682821180\nSwift:\nHBUKGB4B\nUSD Account\nSort Code:\n401276\nAccount Number:\n82821199\nIBAN:\nGB13HBUK40127682821199\nSwift:\nHBUKGB4B\nPlease use the above account details with immediate effect.\nYours faithfully Spwiseman\nScott Wiseman Relationship Manager International Subsidiary Banking For and on behalf of HSBC UK Bank plc\nHSBC UK Bank plc. Registered in England and Wales (company number: 9928412). Registered Office: 1 Centenary Square, Birmingham, B1 1HQ. Authorised by the Prudential Regulation Authority and regulated by the Financial Conduct Authority and the Prudential Regulation Authority (Financial Services Register number: 765112).\nPUBLIC :selected:",
+    "pages": [
+        {
+            "pageNumber": 1,
+            "angle": 0.14079119265079498,
+            "width": 8.5,
+            "height": 11,
+            "unit": "inch",
+            "words": [
+                {
+                    "content": "HSBC",
+                    "polygon": [
+                        1.8389,
+                        1.7722,
+                        2.3504,
+                        1.7726,
+                        2.3503,
+                        1.9437,
+                        1.8389,
+                        1.943
+                    ],
+                    "confidence": 0.99,
+                    "span": {
+                        "offset": 0,
+                        "length": 4
+                    }
+                },
+                {
+                    "content": "UK",
+                    "polygon": [
+                        2.3954,
+                        1.7727,
+                        2.6341,
+                        1.7732,
+                        2.6341,
+                        1.9464,
+                        2.3951,
+                        1.9437
+                    ],
+                    "confidence": 0.997,
+                    "span": {
+                        "offset": 5,
+                        "length": 2
+                    }
+                },
+                {
+                    "content": "The",
+                    "polygon": [
+                        1.3826,
+                        2.3544,
+                        1.549,
+                        2.3555,
+                        1.5479,
+                        2.4573,
+                        1.3819,
+                        2.4555
+                    ],
+                    "confidence": 0.999,
+                    "span": {
+                        "offset": 8,
+                        "length": 3
+                    }
+                },
+                {
+                    "content": "Secretary",
+                    "polygon": [
+                        1.5792,
+                        2.3558,
+                        2.0033,
+                        2.36,
+                        2.0033,
+                        2.4635,
+                        1.578,
+                        2.4576
+                    ],
+                    "confidence": 0.995,
+                    "span": {
+                        "offset": 12,
+                        "length": 9
+                    }
+                },
+                {
+                    "content": "Globant",
+                    "polygon": [
+                        1.3893,
+                        2.4827,
+                        1.7328,
+                        2.4832,
+                        1.733,
+                        2.5861,
+                        1.3892,
+                        2.5857
+                    ],
+                    "confidence": 0.995,
+                    "span": {
+                        "offset": 22,
+                        "length": 7
+                    }
+                },
+                {
+                    "content": "UK",
+                    "polygon": [
+                        1.7631,
+                        2.4833,
+                        1.8928,
+                        2.4841,
+                        1.8928,
+                        2.5867,
+                        1.7633,
+                        2.5863
+                    ],
+                    "confidence": 0.997,
+                    "span": {
+                        "offset": 30,
+                        "length": 2
+                    }
+                },
+                {
+                    "content": "Limited",
+                    "polygon": [
+                        1.9265,
+                        2.4839,
+                        2.2578,
+                        2.4844,
+                        2.2578,
+                        2.5872,
+                        1.9265,
+                        2.5867
+                    ],
+                    "confidence": 0.992,
+                    "span": {
+                        "offset": 33,
+                        "length": 7
+                    }
+                },
+                {
+                    "content": "2nd",
+                    "polygon": [
+                        1.3854,
+                        2.6092,
+                        1.5109,
+                        2.6099,
+                        1.5109,
+                        2.7123,
+                        1.3853,
+                        2.7116
+                    ],
+                    "confidence": 0.823,
+                    "span": {
+                        "offset": 41,
+                        "length": 3
+                    }
+                },
+                {
+                    "content": "Floor",
+                    "polygon": [
+                        1.5411,
+                        2.61,
+                        1.7708,
+                        2.6113,
+                        1.7708,
+                        2.7126,
+                        1.541,
+                        2.7126
+                    ],
+                    "confidence": 0.993,
+                    "span": {
+                        "offset": 45,
+                        "length": 5
+                    }
+                },
+                {
+                    "content": "168",
+                    "polygon": [
+                        1.3925,
+                        2.7344,
+                        1.5527,
+                        2.7356,
+                        1.5528,
+                        2.8459,
+                        1.3925,
+                        2.8436
+                    ],
+                    "confidence": 0.998,
+                    "span": {
+                        "offset": 51,
+                        "length": 3
+                    }
+                },
+                {
+                    "content": "Shoreditch",
+                    "polygon": [
+                        1.584,
+                        2.7357,
+                        2.0538,
+                        2.7365,
+                        2.0536,
+                        2.8502,
+                        1.584,
+                        2.8464
+                    ],
+                    "confidence": 0.995,
+                    "span": {
+                        "offset": 55,
+                        "length": 10
+                    }
+                },
+                {
+                    "content": "High",
+                    "polygon": [
+                        2.0888,
+                        2.7369,
+                        2.2915,
+                        2.7378,
+                        2.2914,
+                        2.8506,
+                        2.0887,
+                        2.8503
+                    ],
+                    "confidence": 0.992,
+                    "span": {
+                        "offset": 66,
+                        "length": 4
+                    }
+                },
+                {
+                    "content": "Street",
+                    "polygon": [
+                        2.3246,
+                        2.7378,
+                        2.5954,
+                        2.7375,
+                        2.5954,
+                        2.851,
+                        2.3245,
+                        2.8506
+                    ],
+                    "confidence": 0.994,
+                    "span": {
+                        "offset": 71,
+                        "length": 6
+                    }
+                },
+                {
+                    "content": "London",
+                    "polygon": [
+                        1.3861,
+                        2.8693,
+                        1.7311,
+                        2.8693,
+                        1.731,
+                        2.9691,
+                        1.3863,
+                        2.9688
+                    ],
+                    "confidence": 0.998,
+                    "span": {
+                        "offset": 78,
+                        "length": 6
+                    }
+                },
+                {
+                    "content": "E1",
+                    "polygon": [
+                        1.3879,
+                        2.9934,
+                        1.4855,
+                        2.9935,
+                        1.4859,
+                        3.0931,
+                        1.3883,
+                        3.0929
+                    ],
+                    "confidence": 0.992,
+                    "span": {
+                        "offset": 85,
+                        "length": 2
+                    }
+                },
+                {
+                    "content": "6RA",
+                    "polygon": [
+                        1.5294,
+                        2.9935,
+                        1.721,
+                        2.994,
+                        1.721,
+                        3.0942,
+                        1.5298,
+                        3.0931
+                    ],
+                    "confidence": 0.995,
+                    "span": {
+                        "offset": 88,
+                        "length": 3
+                    }
+                },
+                {
+                    "content": "United",
+                    "polygon": [
+                        1.3857,
+                        3.1202,
+                        1.6777,
+                        3.1203,
+                        1.6775,
+                        3.2328,
+                        1.3857,
+                        3.2309
+                    ],
+                    "confidence": 0.993,
+                    "span": {
+                        "offset": 92,
+                        "length": 6
+                    }
+                },
+                {
+                    "content": "Kingdom",
+                    "polygon": [
+                        1.7126,
+                        3.1204,
+                        2.1131,
+                        3.1222,
+                        2.1128,
+                        3.2358,
+                        1.7124,
+                        3.233
+                    ],
+                    "confidence": 0.997,
+                    "span": {
+                        "offset": 99,
+                        "length": 7
+                    }
+                },
+                {
+                    "content": "HSBC",
+                    "polygon": [
+                        4.478,
+                        2.3773,
+                        4.7331,
+                        2.3775,
+                        4.7332,
+                        2.4748,
+                        4.4784,
+                        2.4737
+                    ],
+                    "confidence": 0.989,
+                    "span": {
+                        "offset": 107,
+                        "length": 4
+                    }
+                },
+                {
+                    "content": "UK",
+                    "polygon": [
+                        4.7668,
+                        2.3778,
+                        4.8967,
+                        2.3782,
+                        4.8969,
+                        2.4766,
+                        4.767,
+                        2.4754
+                    ],
+                    "confidence": 0.995,
+                    "span": {
+                        "offset": 112,
+                        "length": 2
+                    }
+                },
+                {
+                    "content": "Bank",
+                    "polygon": [
+                        4.9288,
+                        2.3783,
+                        5.1454,
+                        2.3795,
+                        5.1455,
+                        2.4781,
+                        4.929,
+                        2.4766
+                    ],
+                    "confidence": 0.989,
+                    "span": {
+                        "offset": 115,
+                        "length": 4
+                    }
+                },
+                {
+                    "content": "plc",
+                    "polygon": [
+                        5.1791,
+                        2.3795,
+                        5.318,
+                        2.3795,
+                        5.318,
+                        2.4797,
+                        5.1792,
+                        2.4782
+                    ],
+                    "confidence": 0.977,
+                    "span": {
+                        "offset": 120,
+                        "length": 3
+                    }
+                },
+                {
+                    "content": "International",
+                    "polygon": [
+                        4.4772,
+                        2.4941,
+                        4.9747,
+                        2.4939,
+                        4.9757,
+                        2.5921,
+                        4.4775,
+                        2.5889
+                    ],
+                    "confidence": 0.989,
+                    "span": {
+                        "offset": 124,
+                        "length": 13
+                    }
+                },
+                {
+                    "content": "Subsidiary",
+                    "polygon": [
+                        5.0037,
+                        2.4937,
+                        5.4191,
+                        2.4939,
+                        5.4196,
+                        2.5934,
+                        5.0047,
+                        2.592
+                    ],
+                    "confidence": 0.993,
+                    "span": {
+                        "offset": 138,
+                        "length": 10
+                    }
+                },
+                {
+                    "content": "Banking",
+                    "polygon": [
+                        5.4465,
+                        2.4941,
+                        5.7718,
+                        2.4943,
+                        5.7718,
+                        2.5952,
+                        5.4468,
+                        2.5938
+                    ],
+                    "confidence": 0.995,
+                    "span": {
+                        "offset": 149,
+                        "length": 7
+                    }
+                },
+                {
+                    "content": "Level",
+                    "polygon": [
+                        4.4778,
+                        2.6085,
+                        4.6864,
+                        2.608,
+                        4.6868,
+                        2.7042,
+                        4.4782,
+                        2.7032
+                    ],
+                    "confidence": 0.994,
+                    "span": {
+                        "offset": 157,
+                        "length": 5
+                    }
+                },
+                {
+                    "content": "6,",
+                    "polygon": [
+                        4.7148,
+                        2.6082,
+                        4.7843,
+                        2.6085,
+                        4.7848,
+                        2.7048,
+                        4.7153,
+                        2.7044
+                    ],
+                    "confidence": 0.96,
+                    "span": {
+                        "offset": 163,
+                        "length": 2
+                    }
+                },
+                {
+                    "content": "71",
+                    "polygon": [
+                        4.8144,
+                        2.6084,
+                        4.8981,
+                        2.6082,
+                        4.8986,
+                        2.705,
+                        4.8148,
+                        2.7048
+                    ],
+                    "confidence": 0.992,
+                    "span": {
+                        "offset": 166,
+                        "length": 2
+                    }
+                },
+                {
+                    "content": "Queen",
+                    "polygon": [
+                        4.936,
+                        2.6082,
+                        5.1952,
+                        2.6088,
+                        5.1959,
+                        2.7058,
+                        4.9366,
+                        2.7053
+                    ],
+                    "confidence": 0.995,
+                    "span": {
+                        "offset": 169,
+                        "length": 5
+                    }
+                },
+                {
+                    "content": "Victoria",
+                    "polygon": [
+                        5.2205,
+                        2.6089,
+                        5.5223,
+                        2.6097,
+                        5.5227,
+                        2.7062,
+                        5.2211,
+                        2.7059
+                    ],
+                    "confidence": 0.994,
+                    "span": {
+                        "offset": 175,
+                        "length": 8
+                    }
+                },
+                {
+                    "content": "Street",
+                    "polygon": [
+                        5.5523,
+                        2.6098,
+                        5.7925,
+                        2.6104,
+                        5.7929,
+                        2.7071,
+                        5.5527,
+                        2.7062
+                    ],
+                    "confidence": 0.992,
+                    "span": {
+                        "offset": 184,
+                        "length": 6
+                    }
+                },
+                {
+                    "content": "London",
+                    "polygon": [
+                        4.4774,
+                        2.7268,
+                        4.7868,
+                        2.7287,
+                        4.7868,
+                        2.8154,
+                        4.4775,
+                        2.8134
+                    ],
+                    "confidence": 0.995,
+                    "span": {
+                        "offset": 191,
+                        "length": 6
+                    }
+                },
+                {
+                    "content": "EC4V",
+                    "polygon": [
+                        4.4782,
+                        2.8351,
+                        4.7018,
+                        2.8348,
+                        4.7022,
+                        2.926,
+                        4.4784,
+                        2.927
+                    ],
+                    "confidence": 0.991,
+                    "span": {
+                        "offset": 198,
+                        "length": 4
+                    }
+                },
+                {
+                    "content": "4AY",
+                    "polygon": [
+                        4.7228,
+                        2.8347,
+                        4.8975,
+                        2.834,
+                        4.8975,
+                        2.9267,
+                        4.7232,
+                        2.9259
+                    ],
+                    "confidence": 0.989,
+                    "span": {
+                        "offset": 203,
+                        "length": 3
+                    }
+                },
+                {
+                    "content": "Web:",
+                    "polygon": [
+                        4.4705,
+                        3.0675,
+                        4.6887,
+                        3.0677,
+                        4.689,
+                        3.1606,
+                        4.4711,
+                        3.161
+                    ],
+                    "confidence": 0.992,
+                    "span": {
+                        "offset": 207,
+                        "length": 4
+                    }
+                },
+                {
+                    "content": "hsbc.co.uk",
+                    "polygon": [
+                        4.7205,
+                        3.0683,
+                        5.2074,
+                        3.0703,
+                        5.2074,
+                        3.1628,
+                        4.7208,
+                        3.1609
+                    ],
+                    "confidence": 0.992,
+                    "span": {
+                        "offset": 212,
+                        "length": 10
+                    }
+                },
+                {
+                    "content": "20th",
+                    "polygon": [
+                        1.3838,
+                        3.6104,
+                        1.5493,
+                        3.6113,
+                        1.5491,
+                        3.7249,
+                        1.3842,
+                        3.7244
+                    ],
+                    "confidence": 0.928,
+                    "span": {
+                        "offset": 223,
+                        "length": 4
+                    }
+                },
+                {
+                    "content": "February",
+                    "polygon": [
+                        1.5809,
+                        3.6114,
+                        1.9694,
+                        3.6144,
+                        1.9693,
+                        3.7268,
+                        1.5807,
+                        3.7247
+                    ],
+                    "confidence": 0.992,
+                    "span": {
+                        "offset": 228,
+                        "length": 8
+                    }
+                },
+                {
+                    "content": "2023",
+                    "polygon": [
+                        1.9955,
+                        3.6141,
+                        2.2242,
+                        3.6132,
+                        2.2242,
+                        3.7277,
+                        1.9953,
+                        3.7269
+                    ],
+                    "confidence": 0.992,
+                    "span": {
+                        "offset": 237,
+                        "length": 4
+                    }
+                },
+                {
+                    "content": "To",
+                    "polygon": [
+                        1.3821,
+                        4.0302,
+                        1.4957,
+                        4.0309,
+                        1.496,
+                        4.1391,
+                        1.3824,
+                        4.1384
+                    ],
+                    "confidence": 0.998,
+                    "span": {
+                        "offset": 242,
+                        "length": 2
+                    }
+                },
+                {
+                    "content": "whom",
+                    "polygon": [
+                        1.5223,
+                        4.031,
+                        1.7638,
+                        4.0321,
+                        1.7639,
+                        4.1406,
+                        1.5227,
+                        4.1393
+                    ],
+                    "confidence": 0.988,
+                    "span": {
+                        "offset": 245,
+                        "length": 4
+                    }
+                },
+                {
+                    "content": "it",
+                    "polygon": [
+                        1.8153,
+                        4.0326,
+                        1.8792,
+                        4.0331,
+                        1.8792,
+                        4.1415,
+                        1.8153,
+                        4.1411
+                    ],
+                    "confidence": 0.995,
+                    "span": {
+                        "offset": 250,
+                        "length": 2
+                    }
+                },
+                {
+                    "content": "may",
+                    "polygon": [
+                        1.9005,
+                        4.0332,
+                        2.1047,
+                        4.0347,
+                        2.1046,
+                        4.1434,
+                        1.9005,
+                        4.1416
+                    ],
+                    "confidence": 0.999,
+                    "span": {
+                        "offset": 253,
+                        "length": 3
+                    }
+                },
+                {
+                    "content": "concern,",
+                    "polygon": [
+                        2.1296,
+                        4.0349,
+                        2.5179,
+                        4.0369,
+                        2.5179,
+                        4.1447,
+                        2.1295,
+                        4.1435
+                    ],
+                    "confidence": 0.992,
+                    "span": {
+                        "offset": 257,
+                        "length": 8
+                    }
+                },
+                {
+                    "content": "Please",
+                    "polygon": [
+                        1.3855,
+                        4.3038,
+                        1.6616,
+                        4.3047,
+                        1.6618,
+                        4.4167,
+                        1.3857,
+                        4.4154
+                    ],
+                    "confidence": 0.994,
+                    "span": {
+                        "offset": 266,
+                        "length": 6
+                    }
+                },
+                {
+                    "content": "be",
+                    "polygon": [
+                        1.684,
+                        4.3048,
+                        1.809,
+                        4.3046,
+                        1.8091,
+                        4.4173,
+                        1.6842,
+                        4.4168
+                    ],
+                    "confidence": 0.977,
+                    "span": {
+                        "offset": 273,
+                        "length": 2
+                    }
+                },
+                {
+                    "content": "advised",
+                    "polygon": [
+                        1.8369,
+                        4.3046,
+                        2.1727,
+                        4.3043,
+                        2.1728,
+                        4.4177,
+                        1.8371,
+                        4.4173
+                    ],
+                    "confidence": 0.992,
+                    "span": {
+                        "offset": 276,
+                        "length": 7
+                    }
+                },
+                {
+                    "content": "that",
+                    "polygon": [
+                        2.2044,
+                        4.3043,
+                        2.3742,
+                        4.3044,
+                        2.3742,
+                        4.4177,
+                        2.2045,
+                        4.4177
+                    ],
+                    "confidence": 0.992,
+                    "span": {
+                        "offset": 284,
+                        "length": 4
+                    }
+                },
+                {
+                    "content": "the",
+                    "polygon": [
+                        2.404,
+                        4.3045,
+                        2.5421,
+                        4.3046,
+                        2.5421,
+                        4.4177,
+                        2.4041,
+                        4.4177
+                    ],
+                    "confidence": 0.998,
+                    "span": {
+                        "offset": 289,
+                        "length": 3
+                    }
+                },
+                {
+                    "content": "account",
+                    "polygon": [
+                        2.5719,
+                        4.3047,
+                        2.9263,
+                        4.3046,
+                        2.9265,
+                        4.4176,
+                        2.572,
+                        4.4177
+                    ],
+                    "confidence": 0.994,
+                    "span": {
+                        "offset": 293,
+                        "length": 7
+                    }
+                },
+                {
+                    "content": "details",
+                    "polygon": [
+                        2.9525,
+                        4.3045,
+                        3.2285,
+                        4.304,
+                        3.2287,
+                        4.4177,
+                        2.9526,
+                        4.4176
+                    ],
+                    "confidence": 0.993,
+                    "span": {
+                        "offset": 301,
+                        "length": 7
+                    }
+                },
+                {
+                    "content": "held",
+                    "polygon": [
+                        3.2509,
+                        4.304,
+                        3.4543,
+                        4.3038,
+                        3.4544,
+                        4.4176,
+                        3.2511,
+                        4.4177
+                    ],
+                    "confidence": 0.992,
+                    "span": {
+                        "offset": 309,
+                        "length": 4
+                    }
+                },
+                {
+                    "content": "with",
+                    "polygon": [
+                        3.4822,
+                        4.3038,
+                        3.6725,
+                        4.3035,
+                        3.6727,
+                        4.4177,
+                        3.4824,
+                        4.4176
+                    ],
+                    "confidence": 0.989,
+                    "span": {
+                        "offset": 314,
+                        "length": 4
+                    }
+                },
+                {
+                    "content": "HSBC",
+                    "polygon": [
+                        3.7098,
+                        4.3034,
+                        3.9616,
+                        4.3029,
+                        3.9618,
+                        4.4177,
+                        3.71,
+                        4.4177
+                    ],
+                    "confidence": 0.992,
+                    "span": {
+                        "offset": 319,
+                        "length": 4
+                    }
+                },
+                {
+                    "content": "UK",
+                    "polygon": [
+                        3.9971,
+                        4.3029,
+                        4.1258,
+                        4.3027,
+                        4.126,
+                        4.4177,
+                        3.9973,
+                        4.4177
+                    ],
+                    "confidence": 0.992,
+                    "span": {
+                        "offset": 324,
+                        "length": 2
+                    }
+                },
+                {
+                    "content": "Bank",
+                    "polygon": [
+                        4.1594,
+                        4.3027,
+                        4.3758,
+                        4.3024,
+                        4.3759,
+                        4.4177,
+                        4.1596,
+                        4.4177
+                    ],
+                    "confidence": 0.993,
+                    "span": {
+                        "offset": 327,
+                        "length": 4
+                    }
+                },
+                {
+                    "content": "plc",
+                    "polygon": [
+                        4.4075,
+                        4.3024,
+                        4.5343,
+                        4.3022,
+                        4.5345,
+                        4.4177,
+                        4.4076,
+                        4.4177
+                    ],
+                    "confidence": 0.958,
+                    "span": {
+                        "offset": 332,
+                        "length": 3
+                    }
+                },
+                {
+                    "content": "for",
+                    "polygon": [
+                        4.5642,
+                        4.3022,
+                        4.6854,
+                        4.3021,
+                        4.6856,
+                        4.4177,
+                        4.5643,
+                        4.4177
+                    ],
+                    "confidence": 0.995,
+                    "span": {
+                        "offset": 336,
+                        "length": 3
+                    }
+                },
+                {
+                    "content": "Globant",
+                    "polygon": [
+                        4.7115,
+                        4.3021,
+                        5.0566,
+                        4.3023,
+                        5.0569,
+                        4.4164,
+                        4.7117,
+                        4.4177
+                    ],
+                    "confidence": 0.992,
+                    "span": {
+                        "offset": 340,
+                        "length": 7
+                    }
+                },
+                {
+                    "content": "UK",
+                    "polygon": [
+                        5.0883,
+                        4.3023,
+                        5.2189,
+                        4.3023,
+                        5.2192,
+                        4.4161,
+                        5.0887,
+                        4.4163
+                    ],
+                    "confidence": 0.992,
+                    "span": {
+                        "offset": 348,
+                        "length": 2
+                    }
+                },
+                {
+                    "content": "Limited",
+                    "polygon": [
+                        5.2506,
+                        4.3023,
+                        5.5715,
+                        4.3037,
+                        5.5717,
+                        4.4169,
+                        5.251,
+                        4.4161
+                    ],
+                    "confidence": 0.992,
+                    "span": {
+                        "offset": 351,
+                        "length": 7
+                    }
+                },
+                {
+                    "content": "are",
+                    "polygon": [
+                        5.6032,
+                        4.304,
+                        5.7552,
+                        4.3056,
+                        5.7552,
+                        4.4177,
+                        5.6034,
+                        4.4172
+                    ],
+                    "confidence": 0.995,
+                    "span": {
+                        "offset": 359,
+                        "length": 3
+                    }
+                },
+                {
+                    "content": "as",
+                    "polygon": [
+                        1.3836,
+                        4.4534,
+                        1.485,
+                        4.4527,
+                        1.4853,
+                        4.548,
+                        1.3839,
+                        4.5486
+                    ],
+                    "confidence": 0.997,
+                    "span": {
+                        "offset": 363,
+                        "length": 2
+                    }
+                },
+                {
+                    "content": "follows:",
+                    "polygon": [
+                        1.5162,
+                        4.4522,
+                        1.864,
+                        4.4534,
+                        1.8642,
+                        4.549,
+                        1.5165,
+                        4.5471
+                    ],
+                    "confidence": 0.993,
+                    "span": {
+                        "offset": 366,
+                        "length": 8
+                    }
+                },
+                {
+                    "content": "GBP",
+                    "polygon": [
+                        1.3876,
+                        4.7218,
+                        1.5961,
+                        4.7222,
+                        1.596,
+                        4.8218,
+                        1.3878,
+                        4.8216
+                    ],
+                    "confidence": 0.992,
+                    "span": {
+                        "offset": 375,
+                        "length": 3
+                    }
+                },
+                {
+                    "content": "Account",
+                    "polygon": [
+                        1.6206,
+                        4.7225,
+                        2.0457,
+                        4.7247,
+                        2.0457,
+                        4.8218,
+                        1.6205,
+                        4.8218
+                    ],
+                    "confidence": 0.996,
+                    "span": {
+                        "offset": 379,
+                        "length": 7
+                    }
+                },
+                {
+                    "content": "Sort",
+                    "polygon": [
+                        1.3856,
+                        4.8607,
+                        1.5691,
+                        4.861,
+                        1.5693,
+                        4.9587,
+                        1.3856,
+                        4.9589
+                    ],
+                    "confidence": 0.993,
+                    "span": {
+                        "offset": 387,
+                        "length": 4
+                    }
+                },
+                {
+                    "content": "Code:",
+                    "polygon": [
+                        1.5965,
+                        4.8611,
+                        1.8594,
+                        4.8617,
+                        1.8594,
+                        4.9602,
+                        1.5968,
+                        4.959
+                    ],
+                    "confidence": 0.995,
+                    "span": {
+                        "offset": 392,
+                        "length": 5
+                    }
+                },
+                {
+                    "content": "400501",
+                    "polygon": [
+                        2.4466,
+                        4.8603,
+                        2.7704,
+                        4.8611,
+                        2.7704,
+                        4.9554,
+                        2.4465,
+                        4.9566
+                    ],
+                    "confidence": 0.998,
+                    "span": {
+                        "offset": 398,
+                        "length": 6
+                    }
+                },
+                {
+                    "content": "Account",
+                    "polygon": [
+                        1.3843,
+                        4.9992,
+                        1.7558,
+                        4.9991,
+                        1.7559,
+                        5.1001,
+                        1.3843,
+                        5.0995
+                    ],
+                    "confidence": 0.996,
+                    "span": {
+                        "offset": 405,
+                        "length": 7
+                    }
+                },
+                {
+                    "content": "Number:",
+                    "polygon": [
+                        1.7904,
+                        4.9995,
+                        2.18,
+                        5.0006,
+                        2.1799,
+                        5.1014,
+                        1.7904,
+                        5.1002
+                    ],
+                    "confidence": 0.993,
+                    "span": {
+                        "offset": 413,
+                        "length": 7
+                    }
+                },
+                {
+                    "content": "91623435",
+                    "polygon": [
+                        2.4424,
+                        4.9954,
+                        2.8887,
+                        4.9967,
+                        2.8887,
+                        5.0979,
+                        2.4425,
+                        5.0966
+                    ],
+                    "confidence": 0.996,
+                    "span": {
+                        "offset": 421,
+                        "length": 8
+                    }
+                },
+                {
+                    "content": "IBAN:",
+                    "polygon": [
+                        1.3845,
+                        5.1364,
+                        1.6491,
+                        5.1373,
+                        1.6491,
+                        5.2333,
+                        1.3849,
+                        5.2321
+                    ],
+                    "confidence": 0.991,
+                    "span": {
+                        "offset": 430,
+                        "length": 5
+                    }
+                },
+                {
+                    "content": "GB64HBUK4050191623435",
+                    "polygon": [
+                        2.4462,
+                        5.1331,
+                        3.6855,
+                        5.1323,
+                        3.6855,
+                        5.237,
+                        2.4465,
+                        5.2354
+                    ],
+                    "confidence": 0.992,
+                    "span": {
+                        "offset": 436,
+                        "length": 21
+                    }
+                },
+                {
+                    "content": "Swift:",
+                    "polygon": [
+                        1.3859,
+                        5.2746,
+                        1.6436,
+                        5.2751,
+                        1.6436,
+                        5.3724,
+                        1.3862,
+                        5.3714
+                    ],
+                    "confidence": 0.995,
+                    "span": {
+                        "offset": 458,
+                        "length": 6
+                    }
+                },
+                {
+                    "content": "HBUKGB4B",
+                    "polygon": [
+                        2.4436,
+                        5.2724,
+                        2.9759,
+                        5.2735,
+                        2.9762,
+                        5.3725,
+                        2.444,
+                        5.3721
+                    ],
+                    "confidence": 0.994,
+                    "span": {
+                        "offset": 465,
+                        "length": 8
+                    }
+                },
+                {
+                    "content": "EUR",
+                    "polygon": [
+                        1.386,
+                        5.5443,
+                        1.5927,
+                        5.5439,
+                        1.5926,
+                        5.6441,
+                        1.3861,
+                        5.6443
+                    ],
+                    "confidence": 0.998,
+                    "span": {
+                        "offset": 474,
+                        "length": 3
+                    }
+                },
+                {
+                    "content": "Account",
+                    "polygon": [
+                        1.6223,
+                        5.5441,
+                        2.0475,
+                        5.5458,
+                        2.0475,
+                        5.646,
+                        1.6222,
+                        5.6446
+                    ],
+                    "confidence": 0.995,
+                    "span": {
+                        "offset": 478,
+                        "length": 7
+                    }
+                },
+                {
+                    "content": "Sort",
+                    "polygon": [
+                        1.3853,
+                        5.684,
+                        1.5681,
+                        5.684,
+                        1.5684,
+                        5.782,
+                        1.3855,
+                        5.783
+                    ],
+                    "confidence": 0.992,
+                    "span": {
+                        "offset": 486,
+                        "length": 4
+                    }
+                },
+                {
+                    "content": "Code:",
+                    "polygon": [
+                        1.5956,
+                        5.684,
+                        1.8594,
+                        5.6854,
+                        1.8594,
+                        5.7847,
+                        1.5959,
+                        5.7822
+                    ],
+                    "confidence": 0.995,
+                    "span": {
+                        "offset": 491,
+                        "length": 5
+                    }
+                },
+                {
+                    "content": "401276",
+                    "polygon": [
+                        2.4452,
+                        5.6829,
+                        2.7827,
+                        5.6832,
+                        2.7826,
+                        5.7796,
+                        2.4451,
+                        5.7796
+                    ],
+                    "confidence": 0.997,
+                    "span": {
+                        "offset": 497,
+                        "length": 6
+                    }
+                },
+                {
+                    "content": "Account",
+                    "polygon": [
+                        1.3844,
+                        5.8231,
+                        1.757,
+                        5.8231,
+                        1.7573,
+                        5.9235,
+                        1.3845,
+                        5.9232
+                    ],
+                    "confidence": 0.996,
+                    "span": {
+                        "offset": 504,
+                        "length": 7
+                    }
+                },
+                {
+                    "content": "Number:",
+                    "polygon": [
+                        1.79,
+                        5.8235,
+                        2.1803,
+                        5.8242,
+                        2.1803,
+                        5.9235,
+                        1.7903,
+                        5.9235
+                    ],
+                    "confidence": 0.993,
+                    "span": {
+                        "offset": 512,
+                        "length": 7
+                    }
+                },
+                {
+                    "content": "82821180",
+                    "polygon": [
+                        2.4413,
+                        5.8187,
+                        2.8887,
+                        5.82,
+                        2.8887,
+                        5.918,
+                        2.4414,
+                        5.918
+                    ],
+                    "confidence": 0.995,
+                    "span": {
+                        "offset": 520,
+                        "length": 8
+                    }
+                },
+                {
+                    "content": "IBAN:",
+                    "polygon": [
+                        1.3846,
+                        5.9601,
+                        1.6491,
+                        5.9611,
+                        1.6491,
+                        6.0564,
+                        1.385,
+                        6.0558
+                    ],
+                    "confidence": 0.992,
+                    "span": {
+                        "offset": 529,
+                        "length": 5
+                    }
+                },
+                {
+                    "content": "GB41HBUK40127682821180",
+                    "polygon": [
+                        2.4457,
+                        5.9559,
+                        3.7354,
+                        5.9543,
+                        3.7354,
+                        6.0609,
+                        2.4459,
+                        6.0586
+                    ],
+                    "confidence": 0.992,
+                    "span": {
+                        "offset": 535,
+                        "length": 22
+                    }
+                },
+                {
+                    "content": "Swift:",
+                    "polygon": [
+                        1.3849,
+                        6.0948,
+                        1.6436,
+                        6.0953,
+                        1.6436,
+                        6.194,
+                        1.3851,
+                        6.1925
+                    ],
+                    "confidence": 0.993,
+                    "span": {
+                        "offset": 558,
+                        "length": 6
+                    }
+                },
+                {
+                    "content": "HBUKGB4B",
+                    "polygon": [
+                        2.4441,
+                        6.0929,
+                        2.9772,
+                        6.0933,
+                        2.9772,
+                        6.1944,
+                        2.4445,
+                        6.1938
+                    ],
+                    "confidence": 0.995,
+                    "span": {
+                        "offset": 565,
+                        "length": 8
+                    }
+                },
+                {
+                    "content": "USD",
+                    "polygon": [
+                        1.387,
+                        6.3699,
+                        1.6072,
+                        6.3702,
+                        1.607,
+                        6.4725,
+                        1.3872,
+                        6.4717
+                    ],
+                    "confidence": 0.998,
+                    "span": {
+                        "offset": 574,
+                        "length": 3
+                    }
+                },
+                {
+                    "content": "Account",
+                    "polygon": [
+                        1.6355,
+                        6.3707,
+                        2.0586,
+                        6.3728,
+                        2.0586,
+                        6.4748,
+                        1.6354,
+                        6.4729
+                    ],
+                    "confidence": 0.996,
+                    "span": {
+                        "offset": 578,
+                        "length": 7
+                    }
+                },
+                {
+                    "content": "Sort",
+                    "polygon": [
+                        1.3863,
+                        6.5083,
+                        1.5688,
+                        6.5089,
+                        1.5688,
+                        6.6083,
+                        1.3862,
+                        6.6091
+                    ],
+                    "confidence": 0.992,
+                    "span": {
+                        "offset": 586,
+                        "length": 4
+                    }
+                },
+                {
+                    "content": "Code:",
+                    "polygon": [
+                        1.5967,
+                        6.5089,
+                        1.8594,
+                        6.5102,
+                        1.8594,
+                        6.61,
+                        1.5967,
+                        6.6086
+                    ],
+                    "confidence": 0.995,
+                    "span": {
+                        "offset": 591,
+                        "length": 5
+                    }
+                },
+                {
+                    "content": "401276",
+                    "polygon": [
+                        2.4445,
+                        6.509,
+                        2.7835,
+                        6.5101,
+                        2.7835,
+                        6.6066,
+                        2.4442,
+                        6.6067
+                    ],
+                    "confidence": 0.997,
+                    "span": {
+                        "offset": 597,
+                        "length": 6
+                    }
+                },
+                {
+                    "content": "Account",
+                    "polygon": [
+                        1.3848,
+                        6.6492,
+                        1.7565,
+                        6.6493,
+                        1.7567,
+                        6.7497,
+                        1.3848,
+                        6.7486
+                    ],
+                    "confidence": 0.996,
+                    "span": {
+                        "offset": 604,
+                        "length": 7
+                    }
+                },
+                {
+                    "content": "Number:",
+                    "polygon": [
+                        1.7909,
+                        6.6497,
+                        2.1803,
+                        6.6506,
+                        2.1803,
+                        6.7504,
+                        1.7911,
+                        6.75
+                    ],
+                    "confidence": 0.993,
+                    "span": {
+                        "offset": 612,
+                        "length": 7
+                    }
+                },
+                {
+                    "content": "82821199",
+                    "polygon": [
+                        2.4413,
+                        6.6453,
+                        2.8887,
+                        6.6463,
+                        2.8887,
+                        6.7446,
+                        2.4413,
+                        6.7444
+                    ],
+                    "confidence": 0.995,
+                    "span": {
+                        "offset": 620,
+                        "length": 8
+                    }
+                },
+                {
+                    "content": "IBAN:",
+                    "polygon": [
+                        1.3852,
+                        6.7865,
+                        1.6491,
+                        6.7877,
+                        1.6491,
+                        6.8812,
+                        1.3857,
+                        6.8807
+                    ],
+                    "confidence": 0.992,
+                    "span": {
+                        "offset": 629,
+                        "length": 5
+                    }
+                },
+                {
+                    "content": "GB13HBUK40127682821199",
+                    "polygon": [
+                        2.4457,
+                        6.7833,
+                        3.7354,
+                        6.7811,
+                        3.7354,
+                        6.8864,
+                        2.4459,
+                        6.8853
+                    ],
+                    "confidence": 0.992,
+                    "span": {
+                        "offset": 635,
+                        "length": 22
+                    }
+                },
+                {
+                    "content": "Swift:",
+                    "polygon": [
+                        1.3855,
+                        6.9218,
+                        1.6425,
+                        6.9224,
+                        1.6426,
+                        7.0196,
+                        1.3857,
+                        7.0196
+                    ],
+                    "confidence": 0.994,
+                    "span": {
+                        "offset": 658,
+                        "length": 6
+                    }
+                },
+                {
+                    "content": "HBUKGB4B",
+                    "polygon": [
+                        2.4432,
+                        6.9207,
+                        2.9772,
+                        6.9218,
+                        2.9772,
+                        7.0221,
+                        2.4435,
+                        7.0208
+                    ],
+                    "confidence": 0.995,
+                    "span": {
+                        "offset": 665,
+                        "length": 8
+                    }
+                },
+                {
+                    "content": "Please",
+                    "polygon": [
+                        1.3855,
+                        7.196,
+                        1.6723,
+                        7.1969,
+                        1.6724,
+                        7.3042,
+                        1.3856,
+                        7.303
+                    ],
+                    "confidence": 0.994,
+                    "span": {
+                        "offset": 674,
+                        "length": 6
+                    }
+                },
+                {
+                    "content": "use",
+                    "polygon": [
+                        1.7028,
+                        7.1968,
+                        1.8552,
+                        7.1967,
+                        1.8552,
+                        7.3049,
+                        1.7029,
+                        7.3043
+                    ],
+                    "confidence": 0.993,
+                    "span": {
+                        "offset": 681,
+                        "length": 3
+                    }
+                },
+                {
+                    "content": "the",
+                    "polygon": [
+                        1.8838,
+                        7.1966,
+                        2.0237,
+                        7.1968,
+                        2.0236,
+                        7.3057,
+                        1.8838,
+                        7.305
+                    ],
+                    "confidence": 0.999,
+                    "span": {
+                        "offset": 685,
+                        "length": 3
+                    }
+                },
+                {
+                    "content": "above",
+                    "polygon": [
+                        2.0505,
+                        7.197,
+                        2.3176,
+                        7.1969,
+                        2.3175,
+                        7.3068,
+                        2.0505,
+                        7.3059
+                    ],
+                    "confidence": 0.996,
+                    "span": {
+                        "offset": 689,
+                        "length": 5
+                    }
+                },
+                {
+                    "content": "account",
+                    "polygon": [
+                        2.3463,
+                        7.1968,
+                        2.7012,
+                        7.1969,
+                        2.7011,
+                        7.3068,
+                        2.3462,
+                        7.3069
+                    ],
+                    "confidence": 0.995,
+                    "span": {
+                        "offset": 695,
+                        "length": 7
+                    }
+                },
+                {
+                    "content": "details",
+                    "polygon": [
+                        2.7299,
+                        7.197,
+                        3.0167,
+                        7.1972,
+                        3.0167,
+                        7.3075,
+                        2.7298,
+                        7.3069
+                    ],
+                    "confidence": 0.995,
+                    "span": {
+                        "offset": 703,
+                        "length": 7
+                    }
+                },
+                {
+                    "content": "with",
+                    "polygon": [
+                        3.0436,
+                        7.1972,
+                        3.2318,
+                        7.1971,
+                        3.2318,
+                        7.3075,
+                        3.0436,
+                        7.3075
+                    ],
+                    "confidence": 0.989,
+                    "span": {
+                        "offset": 711,
+                        "length": 4
+                    }
+                },
+                {
+                    "content": "immediate",
+                    "polygon": [
+                        3.2658,
+                        7.1971,
+                        3.7283,
+                        7.1971,
+                        3.7284,
+                        7.307,
+                        3.2658,
+                        7.3075
+                    ],
+                    "confidence": 0.994,
+                    "span": {
+                        "offset": 716,
+                        "length": 9
+                    }
+                },
+                {
+                    "content": "effect.",
+                    "polygon": [
+                        3.757,
+                        7.197,
+                        4.0384,
+                        7.1968,
+                        4.0386,
+                        7.3066,
+                        3.7571,
+                        7.3068
+                    ],
+                    "confidence": 0.992,
+                    "span": {
+                        "offset": 726,
+                        "length": 7
+                    }
+                },
+                {
+                    "content": "Yours",
+                    "polygon": [
+                        1.3836,
+                        7.4642,
+                        1.6384,
+                        7.4651,
+                        1.6383,
+                        7.5722,
+                        1.3837,
+                        7.5699
+                    ],
+                    "confidence": 0.996,
+                    "span": {
+                        "offset": 734,
+                        "length": 5
+                    }
+                },
+                {
+                    "content": "faithfully",
+                    "polygon": [
+                        1.6683,
+                        7.4652,
+                        2.0531,
+                        7.4674,
+                        2.0531,
+                        7.5771,
+                        1.6682,
+                        7.5722
+                    ],
+                    "confidence": 0.994,
+                    "span": {
+                        "offset": 740,
+                        "length": 10
+                    }
+                },
+                {
+                    "content": "Spwiseman",
+                    "polygon": [
+                        1.4442,
+                        7.6659,
+                        2.3076,
+                        7.6751,
+                        2.3076,
+                        7.8542,
+                        1.445,
+                        7.8556
+                    ],
+                    "confidence": 0.713,
+                    "span": {
+                        "offset": 751,
+                        "length": 9
+                    }
+                },
+                {
+                    "content": "Scott",
+                    "polygon": [
+                        1.384,
+                        8.0155,
+                        1.6177,
+                        8.0169,
+                        1.6174,
+                        8.1188,
+                        1.3839,
+                        8.1173
+                    ],
+                    "confidence": 0.994,
+                    "span": {
+                        "offset": 761,
+                        "length": 5
+                    }
+                },
+                {
+                    "content": "Wiseman",
+                    "polygon": [
+                        1.6444,
+                        8.0171,
+                        2.0697,
+                        8.0183,
+                        2.0697,
+                        8.1199,
+                        1.6442,
+                        8.1188
+                    ],
+                    "confidence": 0.995,
+                    "span": {
+                        "offset": 767,
+                        "length": 7
+                    }
+                },
+                {
+                    "content": "Relationship",
+                    "polygon": [
+                        1.3861,
+                        8.1524,
+                        1.9209,
+                        8.1548,
+                        1.9206,
+                        8.2653,
+                        1.3854,
+                        8.2598
+                    ],
+                    "confidence": 0.993,
+                    "span": {
+                        "offset": 775,
+                        "length": 12
+                    }
+                },
+                {
+                    "content": "Manager",
+                    "polygon": [
+                        1.9441,
+                        8.155,
+                        2.363,
+                        8.158,
+                        2.363,
+                        8.2673,
+                        1.9439,
+                        8.2656
+                    ],
+                    "confidence": 0.996,
+                    "span": {
+                        "offset": 788,
+                        "length": 7
+                    }
+                },
+                {
+                    "content": "International",
+                    "polygon": [
+                        1.3822,
+                        8.2908,
+                        1.9356,
+                        8.2908,
+                        1.9358,
+                        8.3997,
+                        1.3821,
+                        8.3968
+                    ],
+                    "confidence": 0.991,
+                    "span": {
+                        "offset": 796,
+                        "length": 13
+                    }
+                },
+                {
+                    "content": "Subsidiary",
+                    "polygon": [
+                        1.9712,
+                        8.291,
+                        2.4285,
+                        8.2914,
+                        2.4284,
+                        8.4008,
+                        1.9714,
+                        8.3999
+                    ],
+                    "confidence": 0.995,
+                    "span": {
+                        "offset": 810,
+                        "length": 10
+                    }
+                },
+                {
+                    "content": "Banking",
+                    "polygon": [
+                        2.4605,
+                        8.2917,
+                        2.8223,
+                        8.2944,
+                        2.8223,
+                        8.403,
+                        2.4604,
+                        8.4009
+                    ],
+                    "confidence": 0.997,
+                    "span": {
+                        "offset": 821,
+                        "length": 7
+                    }
+                },
+                {
+                    "content": "For",
+                    "polygon": [
+                        1.3821,
+                        8.4261,
+                        1.5481,
+                        8.4268,
+                        1.5483,
+                        8.5344,
+                        1.3822,
+                        8.5331
+                    ],
+                    "confidence": 0.998,
+                    "span": {
+                        "offset": 829,
+                        "length": 3
+                    }
+                },
+                {
+                    "content": "and",
+                    "polygon": [
+                        1.5752,
+                        8.4268,
+                        1.7538,
+                        8.4264,
+                        1.754,
+                        8.5353,
+                        1.5753,
+                        8.5346
+                    ],
+                    "confidence": 0.995,
+                    "span": {
+                        "offset": 833,
+                        "length": 3
+                    }
+                },
+                {
+                    "content": "on",
+                    "polygon": [
+                        1.7862,
+                        8.4263,
+                        1.9071,
+                        8.4258,
+                        1.9073,
+                        8.5357,
+                        1.7865,
+                        8.5353
+                    ],
+                    "confidence": 0.995,
+                    "span": {
+                        "offset": 837,
+                        "length": 2
+                    }
+                },
+                {
+                    "content": "behalf",
+                    "polygon": [
+                        1.945,
+                        8.4257,
+                        2.2444,
+                        8.4253,
+                        2.2447,
+                        8.5365,
+                        1.9452,
+                        8.5359
+                    ],
+                    "confidence": 0.992,
+                    "span": {
+                        "offset": 840,
+                        "length": 6
+                    }
+                },
+                {
+                    "content": "of",
+                    "polygon": [
+                        2.2751,
+                        8.4253,
+                        2.3761,
+                        8.4254,
+                        2.3764,
+                        8.5365,
+                        2.2754,
+                        8.5365
+                    ],
+                    "confidence": 0.996,
+                    "span": {
+                        "offset": 847,
+                        "length": 2
+                    }
+                },
+                {
+                    "content": "HSBC",
+                    "polygon": [
+                        2.4104,
+                        8.4254,
+                        2.6882,
+                        8.4255,
+                        2.6883,
+                        8.5365,
+                        2.4107,
+                        8.5365
+                    ],
+                    "confidence": 0.989,
+                    "span": {
+                        "offset": 850,
+                        "length": 4
+                    }
+                },
+                {
+                    "content": "UK",
+                    "polygon": [
+                        2.7243,
+                        8.4255,
+                        2.8686,
+                        8.4262,
+                        2.8685,
+                        8.5365,
+                        2.7244,
+                        8.5365
+                    ],
+                    "confidence": 0.995,
+                    "span": {
+                        "offset": 855,
+                        "length": 2
+                    }
+                },
+                {
+                    "content": "Bank",
+                    "polygon": [
+                        2.9047,
+                        8.4264,
+                        3.1464,
+                        8.4275,
+                        3.1464,
+                        8.5365,
+                        2.9046,
+                        8.5365
+                    ],
+                    "confidence": 0.992,
+                    "span": {
+                        "offset": 858,
+                        "length": 4
+                    }
+                },
+                {
+                    "content": "plc",
+                    "polygon": [
+                        3.1825,
+                        8.4277,
+                        3.3314,
+                        8.4274,
+                        3.3314,
+                        8.5365,
+                        3.1825,
+                        8.5365
+                    ],
+                    "confidence": 0.97,
+                    "span": {
+                        "offset": 863,
+                        "length": 3
+                    }
+                },
+                {
+                    "content": "HSBC",
+                    "polygon": [
+                        1.3809,
+                        8.7783,
+                        1.6131,
+                        8.7782,
+                        1.6132,
+                        8.8781,
+                        1.3809,
+                        8.8768
+                    ],
+                    "confidence": 0.991,
+                    "span": {
+                        "offset": 867,
+                        "length": 4
+                    }
+                },
+                {
+                    "content": "UK",
+                    "polygon": [
+                        1.6415,
+                        8.7782,
+                        1.7568,
+                        8.7783,
+                        1.7569,
+                        8.8788,
+                        1.6416,
+                        8.8783
+                    ],
+                    "confidence": 0.992,
+                    "span": {
+                        "offset": 872,
+                        "length": 2
+                    }
+                },
+                {
+                    "content": "Bank",
+                    "polygon": [
+                        1.7869,
+                        8.7783,
+                        1.979,
+                        8.7786,
+                        1.9791,
+                        8.8797,
+                        1.787,
+                        8.8789
+                    ],
+                    "confidence": 0.992,
+                    "span": {
+                        "offset": 875,
+                        "length": 4
+                    }
+                },
+                {
+                    "content": "plc.",
+                    "polygon": [
+                        2.0091,
+                        8.7786,
+                        2.1444,
+                        8.7785,
+                        2.1445,
+                        8.88,
+                        2.0092,
+                        8.8798
+                    ],
+                    "confidence": 0.977,
+                    "span": {
+                        "offset": 880,
+                        "length": 4
+                    }
+                },
+                {
+                    "content": "Registered",
+                    "polygon": [
+                        2.1744,
+                        8.7785,
+                        2.537,
+                        8.778,
+                        2.5372,
+                        8.8802,
+                        2.1746,
+                        8.8801
+                    ],
+                    "confidence": 0.992,
+                    "span": {
+                        "offset": 885,
+                        "length": 10
+                    }
+                },
+                {
+                    "content": "in",
+                    "polygon": [
+                        2.557,
+                        8.7779,
+                        2.6322,
+                        8.7778,
+                        2.6324,
+                        8.8802,
+                        2.5572,
+                        8.8802
+                    ],
+                    "confidence": 0.993,
+                    "span": {
+                        "offset": 896,
+                        "length": 2
+                    }
+                },
+                {
+                    "content": "England",
+                    "polygon": [
+                        2.6573,
+                        8.7778,
+                        2.9429,
+                        8.7777,
+                        2.9429,
+                        8.8802,
+                        2.6575,
+                        8.8802
+                    ],
+                    "confidence": 0.992,
+                    "span": {
+                        "offset": 899,
+                        "length": 7
+                    }
+                },
+                {
+                    "content": "and",
+                    "polygon": [
+                        2.9647,
+                        8.7777,
+                        3.0983,
+                        8.7776,
+                        3.0984,
+                        8.8803,
+                        2.9646,
+                        8.8802
+                    ],
+                    "confidence": 0.995,
+                    "span": {
+                        "offset": 907,
+                        "length": 3
+                    }
+                },
+                {
+                    "content": "Wales",
+                    "polygon": [
+                        3.12,
+                        8.7776,
+                        3.3422,
+                        8.7775,
+                        3.3424,
+                        8.8804,
+                        3.1201,
+                        8.8803
+                    ],
+                    "confidence": 0.992,
+                    "span": {
+                        "offset": 911,
+                        "length": 5
+                    }
+                },
+                {
+                    "content": "(company",
+                    "polygon": [
+                        3.3639,
+                        8.7774,
+                        3.7164,
+                        8.7774,
+                        3.7168,
+                        8.8802,
+                        3.3641,
+                        8.8803
+                    ],
+                    "confidence": 0.989,
+                    "span": {
+                        "offset": 917,
+                        "length": 8
+                    }
+                },
+                {
+                    "content": "number:",
+                    "polygon": [
+                        3.7382,
+                        8.7775,
+                        4.0272,
+                        8.778,
+                        4.0275,
+                        8.8806,
+                        3.7385,
+                        8.8802
+                    ],
+                    "confidence": 0.977,
+                    "span": {
+                        "offset": 926,
+                        "length": 7
+                    }
+                },
+                {
+                    "content": "9928412).",
+                    "polygon": [
+                        4.0522,
+                        8.778,
+                        4.3997,
+                        8.7783,
+                        4.3997,
+                        8.881,
+                        4.0526,
+                        8.8806
+                    ],
+                    "confidence": 0.963,
+                    "span": {
+                        "offset": 934,
+                        "length": 9
+                    }
+                },
+                {
+                    "content": "Registered",
+                    "polygon": [
+                        4.4331,
+                        8.7784,
+                        4.804,
+                        8.7785,
+                        4.804,
+                        8.8812,
+                        4.4331,
+                        8.8811
+                    ],
+                    "confidence": 0.992,
+                    "span": {
+                        "offset": 944,
+                        "length": 10
+                    }
+                },
+                {
+                    "content": "Office:",
+                    "polygon": [
+                        4.8274,
+                        8.7785,
+                        5.0563,
+                        8.7784,
+                        5.0562,
+                        8.8806,
+                        4.8274,
+                        8.8812
+                    ],
+                    "confidence": 0.979,
+                    "span": {
+                        "offset": 955,
+                        "length": 7
+                    }
+                },
+                {
+                    "content": "1",
+                    "polygon": [
+                        5.088,
+                        8.7784,
+                        5.1131,
+                        8.7784,
+                        5.113,
+                        8.8805,
+                        5.088,
+                        8.8805
+                    ],
+                    "confidence": 0.993,
+                    "span": {
+                        "offset": 963,
+                        "length": 1
+                    }
+                },
+                {
+                    "content": "Centenary",
+                    "polygon": [
+                        5.1465,
+                        8.7784,
+                        5.509,
+                        8.7788,
+                        5.509,
+                        8.8809,
+                        5.1464,
+                        8.8804
+                    ],
+                    "confidence": 0.989,
+                    "span": {
+                        "offset": 965,
+                        "length": 9
+                    }
+                },
+                {
+                    "content": "Square,",
+                    "polygon": [
+                        5.5307,
+                        8.779,
+                        5.7995,
+                        8.781,
+                        5.7995,
+                        8.8834,
+                        5.5307,
+                        8.8811
+                    ],
+                    "confidence": 0.813,
+                    "span": {
+                        "offset": 975,
+                        "length": 7
+                    }
+                },
+                {
+                    "content": "Birmingham,",
+                    "polygon": [
+                        1.3841,
+                        8.8886,
+                        1.8398,
+                        8.8899,
+                        1.8403,
+                        8.9921,
+                        1.3844,
+                        8.99
+                    ],
+                    "confidence": 0.991,
+                    "span": {
+                        "offset": 983,
+                        "length": 11
+                    }
+                },
+                {
+                    "content": "B1",
+                    "polygon": [
+                        1.8685,
+                        8.8898,
+                        1.9496,
+                        8.8896,
+                        1.95,
+                        8.9915,
+                        1.869,
+                        8.992
+                    ],
+                    "confidence": 0.99,
+                    "span": {
+                        "offset": 995,
+                        "length": 2
+                    }
+                },
+                {
+                    "content": "1HQ.",
+                    "polygon": [
+                        1.9917,
+                        8.8894,
+                        2.1622,
+                        8.8893,
+                        2.1626,
+                        8.9914,
+                        1.9922,
+                        8.9913
+                    ],
+                    "confidence": 0.977,
+                    "span": {
+                        "offset": 998,
+                        "length": 4
+                    }
+                },
+                {
+                    "content": "Authorised",
+                    "polygon": [
+                        2.1875,
+                        8.8893,
+                        2.5707,
+                        8.8893,
+                        2.5711,
+                        8.9923,
+                        2.1879,
+                        8.9914
+                    ],
+                    "confidence": 0.992,
+                    "span": {
+                        "offset": 1003,
+                        "length": 10
+                    }
+                },
+                {
+                    "content": "by",
+                    "polygon": [
+                        2.596,
+                        8.8893,
+                        2.6821,
+                        8.8891,
+                        2.6824,
+                        8.9924,
+                        2.5964,
+                        8.9924
+                    ],
+                    "confidence": 0.995,
+                    "span": {
+                        "offset": 1014,
+                        "length": 2
+                    }
+                },
+                {
+                    "content": "the",
+                    "polygon": [
+                        2.7023,
+                        8.889,
+                        2.8137,
+                        8.8886,
+                        2.814,
+                        8.9923,
+                        2.7027,
+                        8.9924
+                    ],
+                    "confidence": 0.992,
+                    "span": {
+                        "offset": 1017,
+                        "length": 3
+                    }
+                },
+                {
+                    "content": "Prudential",
+                    "polygon": [
+                        2.8407,
+                        8.8885,
+                        3.1901,
+                        8.8891,
+                        3.1905,
+                        8.993,
+                        2.841,
+                        8.9922
+                    ],
+                    "confidence": 0.992,
+                    "span": {
+                        "offset": 1021,
+                        "length": 10
+                    }
+                },
+                {
+                    "content": "Regulation",
+                    "polygon": [
+                        3.2171,
+                        8.8892,
+                        3.5919,
+                        8.8898,
+                        3.5922,
+                        8.9935,
+                        3.2175,
+                        8.9931
+                    ],
+                    "confidence": 0.992,
+                    "span": {
+                        "offset": 1032,
+                        "length": 10
+                    }
+                },
+                {
+                    "content": "Authority",
+                    "polygon": [
+                        3.6121,
+                        8.8898,
+                        3.9362,
+                        8.8905,
+                        3.9365,
+                        8.9939,
+                        3.6124,
+                        8.9935
+                    ],
+                    "confidence": 0.989,
+                    "span": {
+                        "offset": 1043,
+                        "length": 9
+                    }
+                },
+                {
+                    "content": "and",
+                    "polygon": [
+                        3.9564,
+                        8.8905,
+                        4.0847,
+                        8.8907,
+                        4.085,
+                        8.9943,
+                        3.9568,
+                        8.994
+                    ],
+                    "confidence": 0.995,
+                    "span": {
+                        "offset": 1053,
+                        "length": 3
+                    }
+                },
+                {
+                    "content": "regulated",
+                    "polygon": [
+                        4.105,
+                        8.8907,
+                        4.4476,
+                        8.8907,
+                        4.4478,
+                        8.994,
+                        4.1053,
+                        8.9943
+                    ],
+                    "confidence": 0.992,
+                    "span": {
+                        "offset": 1057,
+                        "length": 9
+                    }
+                },
+                {
+                    "content": "by",
+                    "polygon": [
+                        4.4729,
+                        8.8907,
+                        4.5506,
+                        8.8907,
+                        4.5508,
+                        8.9939,
+                        4.4731,
+                        8.994
+                    ],
+                    "confidence": 0.995,
+                    "span": {
+                        "offset": 1067,
+                        "length": 2
+                    }
+                },
+                {
+                    "content": "the",
+                    "polygon": [
+                        4.5708,
+                        8.8907,
+                        4.6907,
+                        8.8907,
+                        4.6909,
+                        8.9938,
+                        4.571,
+                        8.9939
+                    ],
+                    "confidence": 0.993,
+                    "span": {
+                        "offset": 1070,
+                        "length": 3
+                    }
+                },
+                {
+                    "content": "Financial",
+                    "polygon": [
+                        4.716,
+                        8.8907,
+                        5.0249,
+                        8.8904,
+                        5.0251,
+                        8.9935,
+                        4.7162,
+                        8.9938
+                    ],
+                    "confidence": 0.992,
+                    "span": {
+                        "offset": 1074,
+                        "length": 9
+                    }
+                },
+                {
+                    "content": "Conduct",
+                    "polygon": [
+                        5.0485,
+                        8.8904,
+                        5.3472,
+                        8.8907,
+                        5.3474,
+                        8.9937,
+                        5.0488,
+                        8.9935
+                    ],
+                    "confidence": 0.993,
+                    "span": {
+                        "offset": 1084,
+                        "length": 7
+                    }
+                },
+                {
+                    "content": "Authority",
+                    "polygon": [
+                        5.3692,
+                        8.8907,
+                        5.7109,
+                        8.8928,
+                        5.7109,
+                        8.9957,
+                        5.3694,
+                        8.9938
+                    ],
+                    "confidence": 0.992,
+                    "span": {
+                        "offset": 1092,
+                        "length": 9
+                    }
+                },
+                {
+                    "content": "and",
+                    "polygon": [
+                        1.379,
+                        9.0017,
+                        1.5095,
+                        9.0017,
+                        1.5109,
+                        9.0996,
+                        1.3807,
+                        9.0986
+                    ],
+                    "confidence": 0.993,
+                    "span": {
+                        "offset": 1102,
+                        "length": 3
+                    }
+                },
+                {
+                    "content": "the",
+                    "polygon": [
+                        1.5291,
+                        9.0017,
+                        1.6548,
+                        9.0015,
+                        1.6557,
+                        9.1005,
+                        1.5304,
+                        9.0998
+                    ],
+                    "confidence": 0.995,
+                    "span": {
+                        "offset": 1106,
+                        "length": 3
+                    }
+                },
+                {
+                    "content": "Prudential",
+                    "polygon": [
+                        1.6792,
+                        9.0015,
+                        2.0301,
+                        9.0007,
+                        2.0305,
+                        9.101,
+                        1.6801,
+                        9.1005
+                    ],
+                    "confidence": 0.991,
+                    "span": {
+                        "offset": 1110,
+                        "length": 10
+                    }
+                },
+                {
+                    "content": "Regulation",
+                    "polygon": [
+                        2.0595,
+                        9.0007,
+                        2.4331,
+                        9.0016,
+                        2.4336,
+                        9.1012,
+                        2.0599,
+                        9.1011
+                    ],
+                    "confidence": 0.991,
+                    "span": {
+                        "offset": 1121,
+                        "length": 10
+                    }
+                },
+                {
+                    "content": "Authority",
+                    "polygon": [
+                        2.4527,
+                        9.0016,
+                        2.7823,
+                        9.0008,
+                        2.7827,
+                        9.1012,
+                        2.4532,
+                        9.1012
+                    ],
+                    "confidence": 0.992,
+                    "span": {
+                        "offset": 1132,
+                        "length": 9
+                    }
+                },
+                {
+                    "content": "(Financial",
+                    "polygon": [
+                        2.8036,
+                        9.0007,
+                        3.1381,
+                        9.0003,
+                        3.1388,
+                        9.1012,
+                        2.8039,
+                        9.1012
+                    ],
+                    "confidence": 0.989,
+                    "span": {
+                        "offset": 1142,
+                        "length": 10
+                    }
+                },
+                {
+                    "content": "Services",
+                    "polygon": [
+                        3.1642,
+                        9.0003,
+                        3.4595,
+                        9.0006,
+                        3.4601,
+                        9.101,
+                        3.1649,
+                        9.1012
+                    ],
+                    "confidence": 0.992,
+                    "span": {
+                        "offset": 1153,
+                        "length": 8
+                    }
+                },
+                {
+                    "content": "Register",
+                    "polygon": [
+                        3.4824,
+                        9.0007,
+                        3.7712,
+                        9.0008,
+                        3.7718,
+                        9.1001,
+                        3.4829,
+                        9.101
+                    ],
+                    "confidence": 0.992,
+                    "span": {
+                        "offset": 1162,
+                        "length": 8
+                    }
+                },
+                {
+                    "content": "number:",
+                    "polygon": [
+                        3.7924,
+                        9.0008,
+                        4.0845,
+                        9.0001,
+                        4.0853,
+                        9.0984,
+                        3.7931,
+                        9.1
+                    ],
+                    "confidence": 0.989,
+                    "span": {
+                        "offset": 1171,
+                        "length": 7
+                    }
+                },
+                {
+                    "content": "765112).",
+                    "polygon": [
+                        4.1123,
+                        9,
+                        4.4326,
+                        8.9995,
+                        4.4326,
+                        9.0974,
+                        4.113,
+                        9.0982
+                    ],
+                    "confidence": 0.984,
+                    "span": {
+                        "offset": 1179,
+                        "length": 8
+                    }
+                },
+                {
+                    "content": "PUBLIC",
+                    "polygon": [
+                        3.4519,
+                        9.1832,
+                        3.7557,
+                        9.1859,
+                        3.7557,
+                        9.2771,
+                        3.452,
+                        9.2743
+                    ],
+                    "confidence": 0.995,
+                    "span": {
+                        "offset": 1188,
+                        "length": 6
+                    }
+                }
+            ],
+            "selectionMarks": [
+                {
+                    "state": "selected",
+                    "polygon": [
+                        1.2987,
+                        1.6832,
+                        1.6813,
+                        1.6832,
+                        1.6813,
+                        2.0373,
+                        1.2987,
+                        2.0373
+                    ],
+                    "confidence": 0.1,
+                    "span": {
+                        "offset": 1195,
+                        "length": 10
+                    }
+                }
+            ],
+            "lines": [
+                {
+                    "content": "HSBC UK",
+                    "polygon": [
+                        1.8389,
+                        1.7693,
+                        2.6328,
+                        1.7726,
+                        2.6321,
+                        1.9435,
+                        1.8382,
+                        1.9402
+                    ],
+                    "spans": [
+                        {
+                            "offset": 0,
+                            "length": 7
+                        }
+                    ]
+                },
+                {
+                    "content": "The Secretary",
+                    "polygon": [
+                        1.3826,
+                        2.3536,
+                        2.0006,
+                        2.3599,
+                        1.9995,
+                        2.4625,
+                        1.3816,
+                        2.4562
+                    ],
+                    "spans": [
+                        {
+                            "offset": 8,
+                            "length": 13
+                        }
+                    ]
+                },
+                {
+                    "content": "Globant UK Limited",
+                    "polygon": [
+                        1.3893,
+                        2.4827,
+                        2.2577,
+                        2.484,
+                        2.2575,
+                        2.5863,
+                        1.3891,
+                        2.5849
+                    ],
+                    "spans": [
+                        {
+                            "offset": 22,
+                            "length": 18
+                        }
+                    ]
+                },
+                {
+                    "content": "2nd Floor",
+                    "polygon": [
+                        1.3854,
+                        2.6089,
+                        1.7688,
+                        2.6113,
+                        1.7682,
+                        2.7125,
+                        1.3848,
+                        2.7101
+                    ],
+                    "spans": [
+                        {
+                            "offset": 41,
+                            "length": 9
+                        }
+                    ]
+                },
+                {
+                    "content": "168 Shoreditch High Street",
+                    "polygon": [
+                        1.3925,
+                        2.7344,
+                        2.5923,
+                        2.7366,
+                        2.5921,
+                        2.8502,
+                        1.3922,
+                        2.8479
+                    ],
+                    "spans": [
+                        {
+                            "offset": 51,
+                            "length": 26
+                        }
+                    ]
+                },
+                {
+                    "content": "London",
+                    "polygon": [
+                        1.3861,
+                        2.8691,
+                        1.7275,
+                        2.8693,
+                        1.7274,
+                        2.9676,
+                        1.3861,
+                        2.9674
+                    ],
+                    "spans": [
+                        {
+                            "offset": 78,
+                            "length": 6
+                        }
+                    ]
+                },
+                {
+                    "content": "E1 6RA",
+                    "polygon": [
+                        1.3879,
+                        2.9929,
+                        1.7203,
+                        2.9938,
+                        1.72,
+                        3.0924,
+                        1.3877,
+                        3.0916
+                    ],
+                    "spans": [
+                        {
+                            "offset": 85,
+                            "length": 6
+                        }
+                    ]
+                },
+                {
+                    "content": "United Kingdom",
+                    "polygon": [
+                        1.3857,
+                        3.119,
+                        2.1099,
+                        3.1217,
+                        2.1095,
+                        3.2341,
+                        1.3853,
+                        3.2314
+                    ],
+                    "spans": [
+                        {
+                            "offset": 92,
+                            "length": 14
+                        }
+                    ]
+                },
+                {
+                    "content": "HSBC UK Bank plc",
+                    "polygon": [
+                        4.478,
+                        2.3766,
+                        5.3142,
+                        2.3794,
+                        5.3139,
+                        2.478,
+                        4.4777,
+                        2.4751
+                    ],
+                    "spans": [
+                        {
+                            "offset": 107,
+                            "length": 16
+                        }
+                    ]
+                },
+                {
+                    "content": "International Subsidiary Banking",
+                    "polygon": [
+                        4.4772,
+                        2.4923,
+                        5.7709,
+                        2.4943,
+                        5.7707,
+                        2.5938,
+                        4.477,
+                        2.5918
+                    ],
+                    "spans": [
+                        {
+                            "offset": 124,
+                            "length": 32
+                        }
+                    ]
+                },
+                {
+                    "content": "Level 6, 71 Queen Victoria Street",
+                    "polygon": [
+                        4.4778,
+                        2.6074,
+                        5.7914,
+                        2.6104,
+                        5.7911,
+                        2.7065,
+                        4.4775,
+                        2.7029
+                    ],
+                    "spans": [
+                        {
+                            "offset": 157,
+                            "length": 33
+                        }
+                    ]
+                },
+                {
+                    "content": "London",
+                    "polygon": [
+                        4.4774,
+                        2.7265,
+                        4.7865,
+                        2.7285,
+                        4.786,
+                        2.8144,
+                        4.4769,
+                        2.8124
+                    ],
+                    "spans": [
+                        {
+                            "offset": 191,
+                            "length": 6
+                        }
+                    ]
+                },
+                {
+                    "content": "EC4V 4AY",
+                    "polygon": [
+                        4.4782,
+                        2.8345,
+                        4.8935,
+                        2.834,
+                        4.8936,
+                        2.9252,
+                        4.4783,
+                        2.9257
+                    ],
+                    "spans": [
+                        {
+                            "offset": 198,
+                            "length": 8
+                        }
+                    ]
+                },
+                {
+                    "content": "Web: hsbc.co.uk",
+                    "polygon": [
+                        4.4705,
+                        3.0667,
+                        5.2058,
+                        3.0693,
+                        5.2055,
+                        3.162,
+                        4.4701,
+                        3.1594
+                    ],
+                    "spans": [
+                        {
+                            "offset": 207,
+                            "length": 15
+                        }
+                    ]
+                },
+                {
+                    "content": "20th February 2023",
+                    "polygon": [
+                        1.3838,
+                        3.6101,
+                        2.2205,
+                        3.6126,
+                        2.2201,
+                        3.726,
+                        1.3835,
+                        3.7235
+                    ],
+                    "spans": [
+                        {
+                            "offset": 223,
+                            "length": 18
+                        }
+                    ]
+                },
+                {
+                    "content": "To whom it may concern,",
+                    "polygon": [
+                        1.3821,
+                        4.0302,
+                        2.5165,
+                        4.0365,
+                        2.5158,
+                        4.1441,
+                        1.3814,
+                        4.1371
+                    ],
+                    "spans": [
+                        {
+                            "offset": 242,
+                            "length": 23
+                        }
+                    ]
+                },
+                {
+                    "content": "Please be advised that the account details held with HSBC UK Bank plc for Globant UK Limited are",
+                    "polygon": [
+                        1.3855,
+                        4.3028,
+                        5.7547,
+                        4.3019,
+                        5.7548,
+                        4.4164,
+                        1.3855,
+                        4.4173
+                    ],
+                    "spans": [
+                        {
+                            "offset": 266,
+                            "length": 96
+                        }
+                    ]
+                },
+                {
+                    "content": "as follows:",
+                    "polygon": [
+                        1.3836,
+                        4.4519,
+                        1.8623,
+                        4.4522,
+                        1.8622,
+                        4.5474,
+                        1.3836,
+                        4.5471
+                    ],
+                    "spans": [
+                        {
+                            "offset": 363,
+                            "length": 11
+                        }
+                    ]
+                },
+                {
+                    "content": "GBP Account",
+                    "polygon": [
+                        1.3876,
+                        4.721,
+                        2.0441,
+                        4.7241,
+                        2.0436,
+                        4.8218,
+                        1.3872,
+                        4.82
+                    ],
+                    "spans": [
+                        {
+                            "offset": 375,
+                            "length": 11
+                        }
+                    ]
+                },
+                {
+                    "content": "Sort Code:",
+                    "polygon": [
+                        1.3856,
+                        4.8595,
+                        1.8567,
+                        4.8615,
+                        1.8563,
+                        4.9593,
+                        1.3852,
+                        4.9573
+                    ],
+                    "spans": [
+                        {
+                            "offset": 387,
+                            "length": 10
+                        }
+                    ]
+                },
+                {
+                    "content": "400501",
+                    "polygon": [
+                        2.4461,
+                        4.8601,
+                        2.7687,
+                        4.8588,
+                        2.7691,
+                        4.9538,
+                        2.4465,
+                        4.9552
+                    ],
+                    "spans": [
+                        {
+                            "offset": 398,
+                            "length": 6
+                        }
+                    ]
+                },
+                {
+                    "content": "Account Number:",
+                    "polygon": [
+                        1.3843,
+                        4.9979,
+                        2.1755,
+                        5,
+                        2.1753,
+                        5.0999,
+                        1.384,
+                        5.0978
+                    ],
+                    "spans": [
+                        {
+                            "offset": 405,
+                            "length": 15
+                        }
+                    ]
+                },
+                {
+                    "content": "91623435",
+                    "polygon": [
+                        2.4424,
+                        4.9949,
+                        2.8868,
+                        4.9957,
+                        2.8866,
+                        5.0961,
+                        2.4422,
+                        5.0954
+                    ],
+                    "spans": [
+                        {
+                            "offset": 421,
+                            "length": 8
+                        }
+                    ]
+                },
+                {
+                    "content": "IBAN:",
+                    "polygon": [
+                        1.3845,
+                        5.1361,
+                        1.6486,
+                        5.137,
+                        1.6483,
+                        5.2317,
+                        1.3841,
+                        5.2308
+                    ],
+                    "spans": [
+                        {
+                            "offset": 430,
+                            "length": 5
+                        }
+                    ]
+                },
+                {
+                    "content": "GB64HBUK4050191623435",
+                    "polygon": [
+                        2.4462,
+                        5.1319,
+                        3.6818,
+                        5.1321,
+                        3.6818,
+                        5.2358,
+                        2.4462,
+                        5.2354
+                    ],
+                    "spans": [
+                        {
+                            "offset": 436,
+                            "length": 21
+                        }
+                    ]
+                },
+                {
+                    "content": "Swift:",
+                    "polygon": [
+                        1.3859,
+                        5.2746,
+                        1.6423,
+                        5.2748,
+                        1.6423,
+                        5.3708,
+                        1.3859,
+                        5.3706
+                    ],
+                    "spans": [
+                        {
+                            "offset": 458,
+                            "length": 6
+                        }
+                    ]
+                },
+                {
+                    "content": "HBUKGB4B",
+                    "polygon": [
+                        2.4436,
+                        5.2722,
+                        2.9741,
+                        5.2727,
+                        2.974,
+                        5.3712,
+                        2.4435,
+                        5.3707
+                    ],
+                    "spans": [
+                        {
+                            "offset": 465,
+                            "length": 8
+                        }
+                    ]
+                },
+                {
+                    "content": "EUR Account",
+                    "polygon": [
+                        1.386,
+                        5.543,
+                        2.043,
+                        5.5454,
+                        2.0427,
+                        5.6453,
+                        1.3856,
+                        5.6429
+                    ],
+                    "spans": [
+                        {
+                            "offset": 474,
+                            "length": 11
+                        }
+                    ]
+                },
+                {
+                    "content": "Sort Code:",
+                    "polygon": [
+                        1.3853,
+                        5.6825,
+                        1.8579,
+                        5.6841,
+                        1.8576,
+                        5.7829,
+                        1.385,
+                        5.7813
+                    ],
+                    "spans": [
+                        {
+                            "offset": 486,
+                            "length": 10
+                        }
+                    ]
+                },
+                {
+                    "content": "401276",
+                    "polygon": [
+                        2.4448,
+                        5.6823,
+                        2.7811,
+                        5.6815,
+                        2.7813,
+                        5.7786,
+                        2.4451,
+                        5.7794
+                    ],
+                    "spans": [
+                        {
+                            "offset": 497,
+                            "length": 6
+                        }
+                    ]
+                },
+                {
+                    "content": "Account Number:",
+                    "polygon": [
+                        1.3844,
+                        5.8216,
+                        2.1773,
+                        5.8233,
+                        2.1771,
+                        5.9233,
+                        1.3842,
+                        5.9217
+                    ],
+                    "spans": [
+                        {
+                            "offset": 504,
+                            "length": 15
+                        }
+                    ]
+                },
+                {
+                    "content": "82821180",
+                    "polygon": [
+                        2.4413,
+                        5.8185,
+                        2.8868,
+                        5.8183,
+                        2.8869,
+                        5.9172,
+                        2.4414,
+                        5.9175
+                    ],
+                    "spans": [
+                        {
+                            "offset": 520,
+                            "length": 8
+                        }
+                    ]
+                },
+                {
+                    "content": "IBAN:",
+                    "polygon": [
+                        1.3846,
+                        5.9595,
+                        1.648,
+                        5.961,
+                        1.6475,
+                        6.0559,
+                        1.384,
+                        6.0544
+                    ],
+                    "spans": [
+                        {
+                            "offset": 529,
+                            "length": 5
+                        }
+                    ]
+                },
+                {
+                    "content": "GB41HBUK40127682821180",
+                    "polygon": [
+                        2.4457,
+                        5.9538,
+                        3.7343,
+                        5.954,
+                        3.7343,
+                        6.0591,
+                        2.4457,
+                        6.0589
+                    ],
+                    "spans": [
+                        {
+                            "offset": 535,
+                            "length": 22
+                        }
+                    ]
+                },
+                {
+                    "content": "Swift:",
+                    "polygon": [
+                        1.3849,
+                        6.094,
+                        1.6417,
+                        6.095,
+                        1.6413,
+                        6.1923,
+                        1.3845,
+                        6.1913
+                    ],
+                    "spans": [
+                        {
+                            "offset": 558,
+                            "length": 6
+                        }
+                    ]
+                },
+                {
+                    "content": "HBUKGB4B",
+                    "polygon": [
+                        2.4441,
+                        6.0924,
+                        2.976,
+                        6.0927,
+                        2.9759,
+                        6.1927,
+                        2.4441,
+                        6.1924
+                    ],
+                    "spans": [
+                        {
+                            "offset": 565,
+                            "length": 8
+                        }
+                    ]
+                },
+                {
+                    "content": "USD Account",
+                    "polygon": [
+                        1.387,
+                        6.3686,
+                        2.0564,
+                        6.3727,
+                        2.0557,
+                        6.4742,
+                        1.3864,
+                        6.47
+                    ],
+                    "spans": [
+                        {
+                            "offset": 574,
+                            "length": 11
+                        }
+                    ]
+                },
+                {
+                    "content": "Sort Code:",
+                    "polygon": [
+                        1.3863,
+                        6.5071,
+                        1.8575,
+                        6.509,
+                        1.8571,
+                        6.6094,
+                        1.3859,
+                        6.6074
+                    ],
+                    "spans": [
+                        {
+                            "offset": 586,
+                            "length": 10
+                        }
+                    ]
+                },
+                {
+                    "content": "401276",
+                    "polygon": [
+                        2.4441,
+                        6.509,
+                        2.7814,
+                        6.5085,
+                        2.7815,
+                        6.6048,
+                        2.4442,
+                        6.6053
+                    ],
+                    "spans": [
+                        {
+                            "offset": 597,
+                            "length": 6
+                        }
+                    ]
+                },
+                {
+                    "content": "Account Number:",
+                    "polygon": [
+                        1.3848,
+                        6.6487,
+                        2.1776,
+                        6.6498,
+                        2.1773,
+                        6.7495,
+                        1.3846,
+                        6.7477
+                    ],
+                    "spans": [
+                        {
+                            "offset": 604,
+                            "length": 15
+                        }
+                    ]
+                },
+                {
+                    "content": "82821199",
+                    "polygon": [
+                        2.4412,
+                        6.6451,
+                        2.8878,
+                        6.6448,
+                        2.8879,
+                        6.743,
+                        2.4413,
+                        6.7433
+                    ],
+                    "spans": [
+                        {
+                            "offset": 620,
+                            "length": 8
+                        }
+                    ]
+                },
+                {
+                    "content": "IBAN:",
+                    "polygon": [
+                        1.3852,
+                        6.786,
+                        1.6474,
+                        6.7877,
+                        1.6468,
+                        6.8812,
+                        1.3846,
+                        6.8796
+                    ],
+                    "spans": [
+                        {
+                            "offset": 629,
+                            "length": 5
+                        }
+                    ]
+                },
+                {
+                    "content": "GB13HBUK40127682821199",
+                    "polygon": [
+                        2.4457,
+                        6.7804,
+                        3.7347,
+                        6.7805,
+                        3.7347,
+                        6.8847,
+                        2.4457,
+                        6.8845
+                    ],
+                    "spans": [
+                        {
+                            "offset": 635,
+                            "length": 22
+                        }
+                    ]
+                },
+                {
+                    "content": "Swift:",
+                    "polygon": [
+                        1.3855,
+                        6.9218,
+                        1.6406,
+                        6.9223,
+                        1.6404,
+                        7.0194,
+                        1.3853,
+                        7.0189
+                    ],
+                    "spans": [
+                        {
+                            "offset": 658,
+                            "length": 6
+                        }
+                    ]
+                },
+                {
+                    "content": "HBUKGB4B",
+                    "polygon": [
+                        2.4432,
+                        6.9202,
+                        2.9762,
+                        6.9211,
+                        2.9761,
+                        7.0204,
+                        2.4431,
+                        7.0196
+                    ],
+                    "spans": [
+                        {
+                            "offset": 665,
+                            "length": 8
+                        }
+                    ]
+                },
+                {
+                    "content": "Please use the above account details with immediate effect.",
+                    "polygon": [
+                        1.3855,
+                        7.196,
+                        4.0359,
+                        7.1968,
+                        4.0358,
+                        7.3072,
+                        1.3855,
+                        7.3065
+                    ],
+                    "spans": [
+                        {
+                            "offset": 674,
+                            "length": 59
+                        }
+                    ]
+                },
+                {
+                    "content": "Yours faithfully",
+                    "polygon": [
+                        1.3836,
+                        7.4636,
+                        2.0529,
+                        7.4673,
+                        2.0523,
+                        7.5751,
+                        1.3835,
+                        7.5715
+                    ],
+                    "spans": [
+                        {
+                            "offset": 734,
+                            "length": 16
+                        }
+                    ]
+                },
+                {
+                    "content": "Spwiseman",
+                    "polygon": [
+                        1.4442,
+                        7.6659,
+                        2.307,
+                        7.6698,
+                        2.3062,
+                        7.8556,
+                        1.4433,
+                        7.8536
+                    ],
+                    "spans": [
+                        {
+                            "offset": 751,
+                            "length": 9
+                        }
+                    ]
+                },
+                {
+                    "content": "Scott Wiseman",
+                    "polygon": [
+                        1.384,
+                        8.0155,
+                        2.0676,
+                        8.0176,
+                        2.0673,
+                        8.119,
+                        1.3837,
+                        8.1169
+                    ],
+                    "spans": [
+                        {
+                            "offset": 761,
+                            "length": 13
+                        }
+                    ]
+                },
+                {
+                    "content": "Relationship Manager",
+                    "polygon": [
+                        1.3861,
+                        8.1514,
+                        2.3624,
+                        8.1574,
+                        2.3617,
+                        8.2666,
+                        1.3854,
+                        8.2605
+                    ],
+                    "spans": [
+                        {
+                            "offset": 775,
+                            "length": 20
+                        }
+                    ]
+                },
+                {
+                    "content": "International Subsidiary Banking",
+                    "polygon": [
+                        1.3822,
+                        8.2884,
+                        2.8214,
+                        8.2923,
+                        2.8211,
+                        8.4012,
+                        1.3819,
+                        8.3973
+                    ],
+                    "spans": [
+                        {
+                            "offset": 796,
+                            "length": 32
+                        }
+                    ]
+                },
+                {
+                    "content": "For and on behalf of HSBC UK Bank plc",
+                    "polygon": [
+                        1.3821,
+                        8.4237,
+                        3.3306,
+                        8.4263,
+                        3.3305,
+                        8.5365,
+                        1.382,
+                        8.5339
+                    ],
+                    "spans": [
+                        {
+                            "offset": 829,
+                            "length": 37
+                        }
+                    ]
+                },
+                {
+                    "content": "HSBC UK Bank plc. Registered in England and Wales (company number: 9928412). Registered Office: 1 Centenary Square,",
+                    "polygon": [
+                        1.3809,
+                        8.7751,
+                        5.7982,
+                        8.7789,
+                        5.7982,
+                        8.8816,
+                        1.3808,
+                        8.8778
+                    ],
+                    "spans": [
+                        {
+                            "offset": 867,
+                            "length": 115
+                        }
+                    ]
+                },
+                {
+                    "content": "Birmingham, B1 1HQ. Authorised by the Prudential Regulation Authority and regulated by the Financial Conduct Authority",
+                    "polygon": [
+                        1.3841,
+                        8.8872,
+                        5.7077,
+                        8.8901,
+                        5.7076,
+                        8.994,
+                        1.384,
+                        8.991
+                    ],
+                    "spans": [
+                        {
+                            "offset": 983,
+                            "length": 118
+                        }
+                    ]
+                },
+                {
+                    "content": "and the Prudential Regulation Authority (Financial Services Register number: 765112).",
+                    "polygon": [
+                        1.379,
+                        9.001,
+                        4.4292,
+                        8.9995,
+                        4.4292,
+                        9.0996,
+                        1.379,
+                        9.1012
+                    ],
+                    "spans": [
+                        {
+                            "offset": 1102,
+                            "length": 85
+                        }
+                    ]
+                },
+                {
+                    "content": "PUBLIC",
+                    "polygon": [
+                        3.4519,
+                        9.1832,
+                        3.7529,
+                        9.1858,
+                        3.7521,
+                        9.2765,
+                        3.4511,
+                        9.2739
+                    ],
+                    "spans": [
+                        {
+                            "offset": 1188,
+                            "length": 6
+                        }
+                    ]
+                }
+            ],
+            "spans": [
+                {
+                    "offset": 0,
+                    "length": 1205
+                }
+            ]
+        }
+    ],
+    "tables": [
+        {
+            "rowCount": 15,
+            "columnCount": 2,
+            "cells": [
+                {
+                    "rowIndex": 0,
+                    "columnIndex": 0,
+                    "content": "GBP Account",
+                    "boundingRegions": [
+                        {
+                            "pageNumber": 1,
+                            "polygon": [
+                                1.3226,
+                                4.6779,
+                                2.3021,
+                                4.6834,
+                                2.3021,
+                                4.8329,
+                                1.3171,
+                                4.8329
+                            ]
+                        }
+                    ],
+                    "spans": [
+                        {
+                            "offset": 375,
+                            "length": 11
+                        }
+                    ],
+                    "elements": [
+                        "/paragraphs/6"
+                    ]
+                },
+                {
+                    "rowIndex": 0,
+                    "columnIndex": 1,
+                    "content": "",
+                    "boundingRegions": [
+                        {
+                            "pageNumber": 1,
+                            "polygon": [
+                                2.3021,
+                                4.6834,
+                                3.752,
+                                4.6834,
+                                3.7575,
+                                4.8384,
+                                2.3021,
+                                4.8329
+                            ]
+                        }
+                    ],
+                    "spans": []
+                },
+                {
+                    "rowIndex": 1,
+                    "columnIndex": 0,
+                    "content": "Sort Code:",
+                    "boundingRegions": [
+                        {
+                            "pageNumber": 1,
+                            "polygon": [
+                                1.3171,
+                                4.8329,
+                                2.3021,
+                                4.8329,
+                                2.3021,
+                                4.9713,
+                                1.3171,
+                                4.9713
+                            ]
+                        }
+                    ],
+                    "spans": [
+                        {
+                            "offset": 387,
+                            "length": 10
+                        }
+                    ],
+                    "elements": [
+                        "/paragraphs/7"
+                    ]
+                },
+                {
+                    "rowIndex": 1,
+                    "columnIndex": 1,
+                    "content": "400501",
+                    "boundingRegions": [
+                        {
+                            "pageNumber": 1,
+                            "polygon": [
+                                2.3021,
+                                4.8329,
+                                3.7575,
+                                4.8384,
+                                3.7575,
+                                4.9713,
+                                2.3021,
+                                4.9713
+                            ]
+                        }
+                    ],
+                    "spans": [
+                        {
+                            "offset": 398,
+                            "length": 6
+                        }
+                    ],
+                    "elements": [
+                        "/paragraphs/8"
+                    ]
+                },
+                {
+                    "rowIndex": 2,
+                    "columnIndex": 0,
+                    "content": "Account Number:",
+                    "boundingRegions": [
+                        {
+                            "pageNumber": 1,
+                            "polygon": [
+                                1.3171,
+                                4.9713,
+                                2.3021,
+                                4.9713,
+                                2.3021,
+                                5.1097,
+                                1.3171,
+                                5.1097
+                            ]
+                        }
+                    ],
+                    "spans": [
+                        {
+                            "offset": 405,
+                            "length": 15
+                        }
+                    ],
+                    "elements": [
+                        "/paragraphs/9"
+                    ]
+                },
+                {
+                    "rowIndex": 2,
+                    "columnIndex": 1,
+                    "content": "91623435",
+                    "boundingRegions": [
+                        {
+                            "pageNumber": 1,
+                            "polygon": [
+                                2.3021,
+                                4.9713,
+                                3.7575,
+                                4.9713,
+                                3.7575,
+                                5.1097,
+                                2.3021,
+                                5.1097
+                            ]
+                        }
+                    ],
+                    "spans": [
+                        {
+                            "offset": 421,
+                            "length": 8
+                        }
+                    ],
+                    "elements": [
+                        "/paragraphs/10"
+                    ]
+                },
+                {
+                    "rowIndex": 3,
+                    "columnIndex": 0,
+                    "content": "IBAN:",
+                    "boundingRegions": [
+                        {
+                            "pageNumber": 1,
+                            "polygon": [
+                                1.3171,
+                                5.1097,
+                                2.3021,
+                                5.1097,
+                                2.3021,
+                                5.2481,
+                                1.3171,
+                                5.2481
+                            ]
+                        }
+                    ],
+                    "spans": [
+                        {
+                            "offset": 430,
+                            "length": 5
+                        }
+                    ],
+                    "elements": [
+                        "/paragraphs/11"
+                    ]
+                },
+                {
+                    "rowIndex": 3,
+                    "columnIndex": 1,
+                    "content": "GB64HBUK4050191623435",
+                    "boundingRegions": [
+                        {
+                            "pageNumber": 1,
+                            "polygon": [
+                                2.3021,
+                                5.1097,
+                                3.7575,
+                                5.1097,
+                                3.7575,
+                                5.2481,
+                                2.3021,
+                                5.2481
+                            ]
+                        }
+                    ],
+                    "spans": [
+                        {
+                            "offset": 436,
+                            "length": 21
+                        }
+                    ],
+                    "elements": [
+                        "/paragraphs/12"
+                    ]
+                },
+                {
+                    "rowIndex": 4,
+                    "columnIndex": 0,
+                    "content": "Swift:",
+                    "boundingRegions": [
+                        {
+                            "pageNumber": 1,
+                            "polygon": [
+                                1.3171,
+                                5.2481,
+                                2.3021,
+                                5.2481,
+                                2.3021,
+                                5.4585,
+                                1.3171,
+                                5.4585
+                            ]
+                        }
+                    ],
+                    "spans": [
+                        {
+                            "offset": 458,
+                            "length": 6
+                        }
+                    ],
+                    "elements": [
+                        "/paragraphs/13"
+                    ]
+                },
+                {
+                    "rowIndex": 4,
+                    "columnIndex": 1,
+                    "content": "HBUKGB4B",
+                    "boundingRegions": [
+                        {
+                            "pageNumber": 1,
+                            "polygon": [
+                                2.3021,
+                                5.2481,
+                                3.7575,
+                                5.2481,
+                                3.763,
+                                5.4585,
+                                2.3021,
+                                5.4585
+                            ]
+                        }
+                    ],
+                    "spans": [
+                        {
+                            "offset": 465,
+                            "length": 8
+                        }
+                    ],
+                    "elements": [
+                        "/paragraphs/14"
+                    ]
+                },
+                {
+                    "rowIndex": 5,
+                    "columnIndex": 0,
+                    "content": "EUR Account",
+                    "boundingRegions": [
+                        {
+                            "pageNumber": 1,
+                            "polygon": [
+                                1.3171,
+                                5.4585,
+                                2.3021,
+                                5.4585,
+                                2.3021,
+                                5.6578,
+                                1.3171,
+                                5.6578
+                            ]
+                        }
+                    ],
+                    "spans": [
+                        {
+                            "offset": 474,
+                            "length": 11
+                        }
+                    ],
+                    "elements": [
+                        "/paragraphs/15"
+                    ]
+                },
+                {
+                    "rowIndex": 5,
+                    "columnIndex": 1,
+                    "content": "",
+                    "boundingRegions": [
+                        {
+                            "pageNumber": 1,
+                            "polygon": [
+                                2.3021,
+                                5.4585,
+                                3.763,
+                                5.4585,
+                                3.763,
+                                5.6522,
+                                2.3021,
+                                5.6578
+                            ]
+                        }
+                    ],
+                    "spans": []
+                },
+                {
+                    "rowIndex": 6,
+                    "columnIndex": 0,
+                    "content": "Sort Code:",
+                    "boundingRegions": [
+                        {
+                            "pageNumber": 1,
+                            "polygon": [
+                                1.3171,
+                                5.6578,
+                                2.3021,
+                                5.6578,
+                                2.3021,
+                                5.7962,
+                                1.3171,
+                                5.7962
+                            ]
+                        }
+                    ],
+                    "spans": [
+                        {
+                            "offset": 486,
+                            "length": 10
+                        }
+                    ],
+                    "elements": [
+                        "/paragraphs/16"
+                    ]
+                },
+                {
+                    "rowIndex": 6,
+                    "columnIndex": 1,
+                    "content": "401276",
+                    "boundingRegions": [
+                        {
+                            "pageNumber": 1,
+                            "polygon": [
+                                2.3021,
+                                5.6578,
+                                3.763,
+                                5.6522,
+                                3.763,
+                                5.7906,
+                                2.3021,
+                                5.7962
+                            ]
+                        }
+                    ],
+                    "spans": [
+                        {
+                            "offset": 497,
+                            "length": 6
+                        }
+                    ],
+                    "elements": [
+                        "/paragraphs/17"
+                    ]
+                },
+                {
+                    "rowIndex": 7,
+                    "columnIndex": 0,
+                    "content": "Account Number:",
+                    "boundingRegions": [
+                        {
+                            "pageNumber": 1,
+                            "polygon": [
+                                1.3171,
+                                5.7962,
+                                2.3021,
+                                5.7962,
+                                2.3021,
+                                5.9346,
+                                1.3171,
+                                5.9346
+                            ]
+                        }
+                    ],
+                    "spans": [
+                        {
+                            "offset": 504,
+                            "length": 15
+                        }
+                    ],
+                    "elements": [
+                        "/paragraphs/18"
+                    ]
+                },
+                {
+                    "rowIndex": 7,
+                    "columnIndex": 1,
+                    "content": "82821180",
+                    "boundingRegions": [
+                        {
+                            "pageNumber": 1,
+                            "polygon": [
+                                2.3021,
+                                5.7962,
+                                3.763,
+                                5.7906,
+                                3.763,
+                                5.929,
+                                2.3021,
+                                5.9346
+                            ]
+                        }
+                    ],
+                    "spans": [
+                        {
+                            "offset": 520,
+                            "length": 8
+                        }
+                    ],
+                    "elements": [
+                        "/paragraphs/19"
+                    ]
+                },
+                {
+                    "rowIndex": 8,
+                    "columnIndex": 0,
+                    "content": "IBAN:",
+                    "boundingRegions": [
+                        {
+                            "pageNumber": 1,
+                            "polygon": [
+                                1.3171,
+                                5.9346,
+                                2.3021,
+                                5.9346,
+                                2.3021,
+                                6.073,
+                                1.3171,
+                                6.073
+                            ]
+                        }
+                    ],
+                    "spans": [
+                        {
+                            "offset": 529,
+                            "length": 5
+                        }
+                    ],
+                    "elements": [
+                        "/paragraphs/20"
+                    ]
+                },
+                {
+                    "rowIndex": 8,
+                    "columnIndex": 1,
+                    "content": "GB41HBUK40127682821180",
+                    "boundingRegions": [
+                        {
+                            "pageNumber": 1,
+                            "polygon": [
+                                2.3021,
+                                5.9346,
+                                3.763,
+                                5.929,
+                                3.7686,
+                                6.0674,
+                                2.3021,
+                                6.073
+                            ]
+                        }
+                    ],
+                    "spans": [
+                        {
+                            "offset": 535,
+                            "length": 22
+                        }
+                    ],
+                    "elements": [
+                        "/paragraphs/21"
+                    ]
+                },
+                {
+                    "rowIndex": 9,
+                    "columnIndex": 0,
+                    "content": "Swift:",
+                    "boundingRegions": [
+                        {
+                            "pageNumber": 1,
+                            "polygon": [
+                                1.3171,
+                                6.073,
+                                2.3021,
+                                6.073,
+                                2.3021,
+                                6.2778,
+                                1.3171,
+                                6.2833
+                            ]
+                        }
+                    ],
+                    "spans": [
+                        {
+                            "offset": 558,
+                            "length": 6
+                        }
+                    ],
+                    "elements": [
+                        "/paragraphs/22"
+                    ]
+                },
+                {
+                    "rowIndex": 9,
+                    "columnIndex": 1,
+                    "content": "HBUKGB4B",
+                    "boundingRegions": [
+                        {
+                            "pageNumber": 1,
+                            "polygon": [
+                                2.3021,
+                                6.073,
+                                3.7686,
+                                6.0674,
+                                3.7686,
+                                6.2723,
+                                2.3021,
+                                6.2778
+                            ]
+                        }
+                    ],
+                    "spans": [
+                        {
+                            "offset": 565,
+                            "length": 8
+                        }
+                    ],
+                    "elements": [
+                        "/paragraphs/23"
+                    ]
+                },
+                {
+                    "rowIndex": 10,
+                    "columnIndex": 0,
+                    "content": "USD Account",
+                    "boundingRegions": [
+                        {
+                            "pageNumber": 1,
+                            "polygon": [
+                                1.3171,
+                                6.2833,
+                                2.3021,
+                                6.2778,
+                                2.3021,
+                                6.4771,
+                                1.3171,
+                                6.4826
+                            ]
+                        }
+                    ],
+                    "spans": [
+                        {
+                            "offset": 574,
+                            "length": 11
+                        }
+                    ],
+                    "elements": [
+                        "/paragraphs/24"
+                    ]
+                },
+                {
+                    "rowIndex": 10,
+                    "columnIndex": 1,
+                    "content": "",
+                    "boundingRegions": [
+                        {
+                            "pageNumber": 1,
+                            "polygon": [
+                                2.3021,
+                                6.2778,
+                                3.7686,
+                                6.2723,
+                                3.7686,
+                                6.4716,
+                                2.3021,
+                                6.4771
+                            ]
+                        }
+                    ],
+                    "spans": []
+                },
+                {
+                    "rowIndex": 11,
+                    "columnIndex": 0,
+                    "content": "Sort Code:",
+                    "boundingRegions": [
+                        {
+                            "pageNumber": 1,
+                            "polygon": [
+                                1.3171,
+                                6.4826,
+                                2.3021,
+                                6.4771,
+                                2.3021,
+                                6.621,
+                                1.3171,
+                                6.6266
+                            ]
+                        }
+                    ],
+                    "spans": [
+                        {
+                            "offset": 586,
+                            "length": 10
+                        }
+                    ],
+                    "elements": [
+                        "/paragraphs/25"
+                    ]
+                },
+                {
+                    "rowIndex": 11,
+                    "columnIndex": 1,
+                    "content": "401276",
+                    "boundingRegions": [
+                        {
+                            "pageNumber": 1,
+                            "polygon": [
+                                2.3021,
+                                6.4771,
+                                3.7686,
+                                6.4716,
+                                3.7686,
+                                6.6155,
+                                2.3021,
+                                6.621
+                            ]
+                        }
+                    ],
+                    "spans": [
+                        {
+                            "offset": 597,
+                            "length": 6
+                        }
+                    ],
+                    "elements": [
+                        "/paragraphs/26"
+                    ]
+                },
+                {
+                    "rowIndex": 12,
+                    "columnIndex": 0,
+                    "content": "Account Number:",
+                    "boundingRegions": [
+                        {
+                            "pageNumber": 1,
+                            "polygon": [
+                                1.3171,
+                                6.6266,
+                                2.3021,
+                                6.621,
+                                2.3076,
+                                6.7594,
+                                1.3171,
+                                6.765
+                            ]
+                        }
+                    ],
+                    "spans": [
+                        {
+                            "offset": 604,
+                            "length": 15
+                        }
+                    ],
+                    "elements": [
+                        "/paragraphs/27"
+                    ]
+                },
+                {
+                    "rowIndex": 12,
+                    "columnIndex": 1,
+                    "content": "82821199",
+                    "boundingRegions": [
+                        {
+                            "pageNumber": 1,
+                            "polygon": [
+                                2.3021,
+                                6.621,
+                                3.7686,
+                                6.6155,
+                                3.7741,
+                                6.7484,
+                                2.3076,
+                                6.7594
+                            ]
+                        }
+                    ],
+                    "spans": [
+                        {
+                            "offset": 620,
+                            "length": 8
+                        }
+                    ],
+                    "elements": [
+                        "/paragraphs/28"
+                    ]
+                },
+                {
+                    "rowIndex": 13,
+                    "columnIndex": 0,
+                    "content": "IBAN:",
+                    "boundingRegions": [
+                        {
+                            "pageNumber": 1,
+                            "polygon": [
+                                1.3171,
+                                6.765,
+                                2.3076,
+                                6.7594,
+                                2.3076,
+                                6.8978,
+                                1.3115,
+                                6.8978
+                            ]
+                        }
+                    ],
+                    "spans": [
+                        {
+                            "offset": 629,
+                            "length": 5
+                        }
+                    ],
+                    "elements": [
+                        "/paragraphs/29"
+                    ]
+                },
+                {
+                    "rowIndex": 13,
+                    "columnIndex": 1,
+                    "content": "GB13HBUK40127682821199",
+                    "boundingRegions": [
+                        {
+                            "pageNumber": 1,
+                            "polygon": [
+                                2.3076,
+                                6.7594,
+                                3.7741,
+                                6.7484,
+                                3.7741,
+                                6.8923,
+                                2.3076,
+                                6.8978
+                            ]
+                        }
+                    ],
+                    "spans": [
+                        {
+                            "offset": 635,
+                            "length": 22
+                        }
+                    ],
+                    "elements": [
+                        "/paragraphs/30"
+                    ]
+                },
+                {
+                    "rowIndex": 14,
+                    "columnIndex": 0,
+                    "content": "Swift:",
+                    "boundingRegions": [
+                        {
+                            "pageNumber": 1,
+                            "polygon": [
+                                1.3115,
+                                6.8978,
+                                2.3076,
+                                6.8978,
+                                2.3076,
+                                7.0695,
+                                1.3115,
+                                7.0695
+                            ]
+                        }
+                    ],
+                    "spans": [
+                        {
+                            "offset": 658,
+                            "length": 6
+                        }
+                    ],
+                    "elements": [
+                        "/paragraphs/31"
+                    ]
+                },
+                {
+                    "rowIndex": 14,
+                    "columnIndex": 1,
+                    "content": "HBUKGB4B",
+                    "boundingRegions": [
+                        {
+                            "pageNumber": 1,
+                            "polygon": [
+                                2.3076,
+                                6.8978,
+                                3.7741,
+                                6.8923,
+                                3.7741,
+                                7.0639,
+                                2.3076,
+                                7.0695
+                            ]
+                        }
+                    ],
+                    "spans": [
+                        {
+                            "offset": 665,
+                            "length": 8
+                        }
+                    ],
+                    "elements": [
+                        "/paragraphs/32"
+                    ]
+                }
+            ],
+            "boundingRegions": [
+                {
+                    "pageNumber": 1,
+                    "polygon": [
+                        1.3544,
+                        4.7446,
+                        3.7622,
+                        4.7409,
+                        3.7619,
+                        7.046,
+                        1.3542,
+                        7.049
+                    ]
+                }
+            ],
+            "spans": [
+                {
+                    "offset": 375,
+                    "length": 298
+                }
+            ]
+        }
+    ],
+    "paragraphs": [
+        {
+            "spans": [
+                {
+                    "offset": 0,
+                    "length": 7
+                }
+            ],
+            "boundingRegions": [
+                {
+                    "pageNumber": 1,
+                    "polygon": [
+                        1.8389,
+                        1.7693,
+                        2.6328,
+                        1.7726,
+                        2.6321,
+                        1.9435,
+                        1.8382,
+                        1.9402
+                    ]
+                }
+            ],
+            "content": "HSBC UK"
+        },
+        {
+            "spans": [
+                {
+                    "offset": 8,
+                    "length": 98
+                }
+            ],
+            "boundingRegions": [
+                {
+                    "pageNumber": 1,
+                    "polygon": [
+                        1.382,
+                        2.3536,
+                        2.5939,
+                        2.3581,
+                        2.5906,
+                        3.2359,
+                        1.3787,
+                        3.2314
+                    ]
+                }
+            ],
+            "content": "The Secretary Globant UK Limited 2nd Floor 168 Shoreditch High Street London E1 6RA United Kingdom"
+        },
+        {
+            "spans": [
+                {
+                    "offset": 107,
+                    "length": 115
+                }
+            ],
+            "boundingRegions": [
+                {
+                    "pageNumber": 1,
+                    "polygon": [
+                        4.4729,
+                        2.3765,
+                        5.7923,
+                        2.3811,
+                        5.7895,
+                        3.1641,
+                        4.4701,
+                        3.1594
+                    ]
+                }
+            ],
+            "content": "HSBC UK Bank plc International Subsidiary Banking Level 6, 71 Queen Victoria Street London EC4V 4AY Web: hsbc.co.uk"
+        },
+        {
+            "spans": [
+                {
+                    "offset": 223,
+                    "length": 18
+                }
+            ],
+            "boundingRegions": [
+                {
+                    "pageNumber": 1,
+                    "polygon": [
+                        1.3838,
+                        3.6101,
+                        2.2205,
+                        3.6126,
+                        2.2201,
+                        3.726,
+                        1.3834,
+                        3.7235
+                    ]
+                }
+            ],
+            "content": "20th February 2023"
+        },
+        {
+            "spans": [
+                {
+                    "offset": 242,
+                    "length": 23
+                }
+            ],
+            "boundingRegions": [
+                {
+                    "pageNumber": 1,
+                    "polygon": [
+                        1.3821,
+                        4.0294,
+                        2.5165,
+                        4.0365,
+                        2.5158,
+                        4.1441,
+                        1.3814,
+                        4.1371
+                    ]
+                }
+            ],
+            "content": "To whom it may concern,"
+        },
+        {
+            "spans": [
+                {
+                    "offset": 266,
+                    "length": 108
+                }
+            ],
+            "boundingRegions": [
+                {
+                    "pageNumber": 1,
+                    "polygon": [
+                        1.3835,
+                        4.3028,
+                        5.7547,
+                        4.3019,
+                        5.7548,
+                        4.5466,
+                        1.3836,
+                        4.5475
+                    ]
+                }
+            ],
+            "content": "Please be advised that the account details held with HSBC UK Bank plc for Globant UK Limited are as follows:"
+        },
+        {
+            "spans": [
+                {
+                    "offset": 375,
+                    "length": 11
+                }
+            ],
+            "boundingRegions": [
+                {
+                    "pageNumber": 1,
+                    "polygon": [
+                        1.3226,
+                        4.6779,
+                        2.3021,
+                        4.6834,
+                        2.3021,
+                        4.8329,
+                        1.3171,
+                        4.8329
+                    ]
+                }
+            ],
+            "content": "GBP Account"
+        },
+        {
+            "spans": [
+                {
+                    "offset": 387,
+                    "length": 10
+                }
+            ],
+            "boundingRegions": [
+                {
+                    "pageNumber": 1,
+                    "polygon": [
+                        1.3171,
+                        4.8329,
+                        2.3021,
+                        4.8329,
+                        2.3021,
+                        4.9713,
+                        1.3171,
+                        4.9713
+                    ]
+                }
+            ],
+            "content": "Sort Code:"
+        },
+        {
+            "spans": [
+                {
+                    "offset": 398,
+                    "length": 6
+                }
+            ],
+            "boundingRegions": [
+                {
+                    "pageNumber": 1,
+                    "polygon": [
+                        2.3021,
+                        4.8329,
+                        3.7575,
+                        4.8384,
+                        3.7575,
+                        4.9713,
+                        2.3021,
+                        4.9713
+                    ]
+                }
+            ],
+            "content": "400501"
+        },
+        {
+            "spans": [
+                {
+                    "offset": 405,
+                    "length": 15
+                }
+            ],
+            "boundingRegions": [
+                {
+                    "pageNumber": 1,
+                    "polygon": [
+                        1.3171,
+                        4.9713,
+                        2.3021,
+                        4.9713,
+                        2.3021,
+                        5.1097,
+                        1.3171,
+                        5.1097
+                    ]
+                }
+            ],
+            "content": "Account Number:"
+        },
+        {
+            "spans": [
+                {
+                    "offset": 421,
+                    "length": 8
+                }
+            ],
+            "boundingRegions": [
+                {
+                    "pageNumber": 1,
+                    "polygon": [
+                        2.3021,
+                        4.9713,
+                        3.7575,
+                        4.9713,
+                        3.7575,
+                        5.1097,
+                        2.3021,
+                        5.1097
+                    ]
+                }
+            ],
+            "content": "91623435"
+        },
+        {
+            "spans": [
+                {
+                    "offset": 430,
+                    "length": 5
+                }
+            ],
+            "boundingRegions": [
+                {
+                    "pageNumber": 1,
+                    "polygon": [
+                        1.3171,
+                        5.1097,
+                        2.3021,
+                        5.1097,
+                        2.3021,
+                        5.2481,
+                        1.3171,
+                        5.2481
+                    ]
+                }
+            ],
+            "content": "IBAN:"
+        },
+        {
+            "spans": [
+                {
+                    "offset": 436,
+                    "length": 21
+                }
+            ],
+            "boundingRegions": [
+                {
+                    "pageNumber": 1,
+                    "polygon": [
+                        2.3021,
+                        5.1097,
+                        3.7575,
+                        5.1097,
+                        3.7575,
+                        5.2481,
+                        2.3021,
+                        5.2481
+                    ]
+                }
+            ],
+            "content": "GB64HBUK4050191623435"
+        },
+        {
+            "spans": [
+                {
+                    "offset": 458,
+                    "length": 6
+                }
+            ],
+            "boundingRegions": [
+                {
+                    "pageNumber": 1,
+                    "polygon": [
+                        1.3171,
+                        5.2481,
+                        2.3021,
+                        5.2481,
+                        2.3021,
+                        5.4585,
+                        1.3171,
+                        5.4585
+                    ]
+                }
+            ],
+            "content": "Swift:"
+        },
+        {
+            "spans": [
+                {
+                    "offset": 465,
+                    "length": 8
+                }
+            ],
+            "boundingRegions": [
+                {
+                    "pageNumber": 1,
+                    "polygon": [
+                        2.3021,
+                        5.2481,
+                        3.7575,
+                        5.2481,
+                        3.763,
+                        5.4585,
+                        2.3021,
+                        5.4585
+                    ]
+                }
+            ],
+            "content": "HBUKGB4B"
+        },
+        {
+            "spans": [
+                {
+                    "offset": 474,
+                    "length": 11
+                }
+            ],
+            "boundingRegions": [
+                {
+                    "pageNumber": 1,
+                    "polygon": [
+                        1.3171,
+                        5.4585,
+                        2.3021,
+                        5.4585,
+                        2.3021,
+                        5.6578,
+                        1.3171,
+                        5.6578
+                    ]
+                }
+            ],
+            "content": "EUR Account"
+        },
+        {
+            "spans": [
+                {
+                    "offset": 486,
+                    "length": 10
+                }
+            ],
+            "boundingRegions": [
+                {
+                    "pageNumber": 1,
+                    "polygon": [
+                        1.3171,
+                        5.6578,
+                        2.3021,
+                        5.6578,
+                        2.3021,
+                        5.7962,
+                        1.3171,
+                        5.7962
+                    ]
+                }
+            ],
+            "content": "Sort Code:"
+        },
+        {
+            "spans": [
+                {
+                    "offset": 497,
+                    "length": 6
+                }
+            ],
+            "boundingRegions": [
+                {
+                    "pageNumber": 1,
+                    "polygon": [
+                        2.3021,
+                        5.6578,
+                        3.763,
+                        5.6522,
+                        3.763,
+                        5.7906,
+                        2.3021,
+                        5.7962
+                    ]
+                }
+            ],
+            "content": "401276"
+        },
+        {
+            "spans": [
+                {
+                    "offset": 504,
+                    "length": 15
+                }
+            ],
+            "boundingRegions": [
+                {
+                    "pageNumber": 1,
+                    "polygon": [
+                        1.3171,
+                        5.7962,
+                        2.3021,
+                        5.7962,
+                        2.3021,
+                        5.9346,
+                        1.3171,
+                        5.9346
+                    ]
+                }
+            ],
+            "content": "Account Number:"
+        },
+        {
+            "spans": [
+                {
+                    "offset": 520,
+                    "length": 8
+                }
+            ],
+            "boundingRegions": [
+                {
+                    "pageNumber": 1,
+                    "polygon": [
+                        2.3021,
+                        5.7962,
+                        3.763,
+                        5.7906,
+                        3.763,
+                        5.929,
+                        2.3021,
+                        5.9346
+                    ]
+                }
+            ],
+            "content": "82821180"
+        },
+        {
+            "spans": [
+                {
+                    "offset": 529,
+                    "length": 5
+                }
+            ],
+            "boundingRegions": [
+                {
+                    "pageNumber": 1,
+                    "polygon": [
+                        1.3171,
+                        5.9346,
+                        2.3021,
+                        5.9346,
+                        2.3021,
+                        6.073,
+                        1.3171,
+                        6.073
+                    ]
+                }
+            ],
+            "content": "IBAN:"
+        },
+        {
+            "spans": [
+                {
+                    "offset": 535,
+                    "length": 22
+                }
+            ],
+            "boundingRegions": [
+                {
+                    "pageNumber": 1,
+                    "polygon": [
+                        2.3021,
+                        5.9346,
+                        3.763,
+                        5.929,
+                        3.7686,
+                        6.0674,
+                        2.3021,
+                        6.073
+                    ]
+                }
+            ],
+            "content": "GB41HBUK40127682821180"
+        },
+        {
+            "spans": [
+                {
+                    "offset": 558,
+                    "length": 6
+                }
+            ],
+            "boundingRegions": [
+                {
+                    "pageNumber": 1,
+                    "polygon": [
+                        1.3171,
+                        6.073,
+                        2.3021,
+                        6.073,
+                        2.3021,
+                        6.2778,
+                        1.3171,
+                        6.2833
+                    ]
+                }
+            ],
+            "content": "Swift:"
+        },
+        {
+            "spans": [
+                {
+                    "offset": 565,
+                    "length": 8
+                }
+            ],
+            "boundingRegions": [
+                {
+                    "pageNumber": 1,
+                    "polygon": [
+                        2.3021,
+                        6.073,
+                        3.7686,
+                        6.0674,
+                        3.7686,
+                        6.2723,
+                        2.3021,
+                        6.2778
+                    ]
+                }
+            ],
+            "content": "HBUKGB4B"
+        },
+        {
+            "spans": [
+                {
+                    "offset": 574,
+                    "length": 11
+                }
+            ],
+            "boundingRegions": [
+                {
+                    "pageNumber": 1,
+                    "polygon": [
+                        1.3171,
+                        6.2833,
+                        2.3021,
+                        6.2778,
+                        2.3021,
+                        6.4771,
+                        1.3171,
+                        6.4826
+                    ]
+                }
+            ],
+            "content": "USD Account"
+        },
+        {
+            "spans": [
+                {
+                    "offset": 586,
+                    "length": 10
+                }
+            ],
+            "boundingRegions": [
+                {
+                    "pageNumber": 1,
+                    "polygon": [
+                        1.3171,
+                        6.4826,
+                        2.3021,
+                        6.4771,
+                        2.3021,
+                        6.621,
+                        1.3171,
+                        6.6266
+                    ]
+                }
+            ],
+            "content": "Sort Code:"
+        },
+        {
+            "spans": [
+                {
+                    "offset": 597,
+                    "length": 6
+                }
+            ],
+            "boundingRegions": [
+                {
+                    "pageNumber": 1,
+                    "polygon": [
+                        2.3021,
+                        6.4771,
+                        3.7686,
+                        6.4716,
+                        3.7686,
+                        6.6155,
+                        2.3021,
+                        6.621
+                    ]
+                }
+            ],
+            "content": "401276"
+        },
+        {
+            "spans": [
+                {
+                    "offset": 604,
+                    "length": 15
+                }
+            ],
+            "boundingRegions": [
+                {
+                    "pageNumber": 1,
+                    "polygon": [
+                        1.3171,
+                        6.6266,
+                        2.3021,
+                        6.621,
+                        2.3076,
+                        6.7594,
+                        1.3171,
+                        6.765
+                    ]
+                }
+            ],
+            "content": "Account Number:"
+        },
+        {
+            "spans": [
+                {
+                    "offset": 620,
+                    "length": 8
+                }
+            ],
+            "boundingRegions": [
+                {
+                    "pageNumber": 1,
+                    "polygon": [
+                        2.3021,
+                        6.621,
+                        3.7686,
+                        6.6155,
+                        3.7741,
+                        6.7484,
+                        2.3076,
+                        6.7594
+                    ]
+                }
+            ],
+            "content": "82821199"
+        },
+        {
+            "spans": [
+                {
+                    "offset": 629,
+                    "length": 5
+                }
+            ],
+            "boundingRegions": [
+                {
+                    "pageNumber": 1,
+                    "polygon": [
+                        1.3171,
+                        6.765,
+                        2.3076,
+                        6.7594,
+                        2.3076,
+                        6.8978,
+                        1.3115,
+                        6.8978
+                    ]
+                }
+            ],
+            "content": "IBAN:"
+        },
+        {
+            "spans": [
+                {
+                    "offset": 635,
+                    "length": 22
+                }
+            ],
+            "boundingRegions": [
+                {
+                    "pageNumber": 1,
+                    "polygon": [
+                        2.3076,
+                        6.7594,
+                        3.7741,
+                        6.7484,
+                        3.7741,
+                        6.8923,
+                        2.3076,
+                        6.8978
+                    ]
+                }
+            ],
+            "content": "GB13HBUK40127682821199"
+        },
+        {
+            "spans": [
+                {
+                    "offset": 658,
+                    "length": 6
+                }
+            ],
+            "boundingRegions": [
+                {
+                    "pageNumber": 1,
+                    "polygon": [
+                        1.3115,
+                        6.8978,
+                        2.3076,
+                        6.8978,
+                        2.3076,
+                        7.0695,
+                        1.3115,
+                        7.0695
+                    ]
+                }
+            ],
+            "content": "Swift:"
+        },
+        {
+            "spans": [
+                {
+                    "offset": 665,
+                    "length": 8
+                }
+            ],
+            "boundingRegions": [
+                {
+                    "pageNumber": 1,
+                    "polygon": [
+                        2.3076,
+                        6.8978,
+                        3.7741,
+                        6.8923,
+                        3.7741,
+                        7.0639,
+                        2.3076,
+                        7.0695
+                    ]
+                }
+            ],
+            "content": "HBUKGB4B"
+        },
+        {
+            "spans": [
+                {
+                    "offset": 674,
+                    "length": 59
+                }
+            ],
+            "boundingRegions": [
+                {
+                    "pageNumber": 1,
+                    "polygon": [
+                        1.3855,
+                        7.196,
+                        4.0359,
+                        7.1968,
+                        4.0358,
+                        7.3072,
+                        1.3855,
+                        7.3065
+                    ]
+                }
+            ],
+            "content": "Please use the above account details with immediate effect."
+        },
+        {
+            "spans": [
+                {
+                    "offset": 734,
+                    "length": 26
+                }
+            ],
+            "boundingRegions": [
+                {
+                    "pageNumber": 1,
+                    "polygon": [
+                        1.3836,
+                        7.4636,
+                        2.3075,
+                        7.4657,
+                        2.3066,
+                        7.8556,
+                        1.3827,
+                        7.8535
+                    ]
+                }
+            ],
+            "content": "Yours faithfully Spwiseman"
+        },
+        {
+            "spans": [
+                {
+                    "offset": 761,
+                    "length": 105
+                }
+            ],
+            "boundingRegions": [
+                {
+                    "pageNumber": 1,
+                    "polygon": [
+                        1.3824,
+                        8.0155,
+                        3.3311,
+                        8.018,
+                        3.3305,
+                        8.5365,
+                        1.3817,
+                        8.5339
+                    ]
+                }
+            ],
+            "content": "Scott Wiseman Relationship Manager International Subsidiary Banking For and on behalf of HSBC UK Bank plc"
+        },
+        {
+            "spans": [
+                {
+                    "offset": 867,
+                    "length": 320
+                }
+            ],
+            "boundingRegions": [
+                {
+                    "pageNumber": 1,
+                    "polygon": [
+                        1.3792,
+                        8.7751,
+                        5.7982,
+                        8.7789,
+                        5.798,
+                        9.105,
+                        1.3789,
+                        9.1012
+                    ]
+                }
+            ],
+            "content": "HSBC UK Bank plc. Registered in England and Wales (company number: 9928412). Registered Office: 1 Centenary Square, Birmingham, B1 1HQ. Authorised by the Prudential Regulation Authority and regulated by the Financial Conduct Authority and the Prudential Regulation Authority (Financial Services Register number: 765112)."
+        },
+        {
+            "spans": [
+                {
+                    "offset": 1188,
+                    "length": 6
+                }
+            ],
+            "boundingRegions": [
+                {
+                    "pageNumber": 1,
+                    "polygon": [
+                        3.4519,
+                        9.1832,
+                        3.7529,
+                        9.1858,
+                        3.7521,
+                        9.2765,
+                        3.4511,
+                        9.2739
+                    ]
+                }
+            ],
+            "content": "PUBLIC"
+        }
+    ],
+    "styles": [
+        {
+            "confidence": 1,
+            "spans": [
+                {
+                    "offset": 751,
+                    "length": 9
+                }
+            ],
+            "isHandwritten": true
+        }
+    ],
+    "contentFormat": "text",
+    "sections": [
+        {
+            "spans": [
+                {
+                    "offset": 0,
+                    "length": 1194
+                }
+            ],
+            "elements": [
+                "/figures/0",
+                "/paragraphs/1",
+                "/paragraphs/2",
+                "/paragraphs/3",
+                "/paragraphs/4",
+                "/paragraphs/5",
+                "/tables/0",
+                "/paragraphs/33",
+                "/paragraphs/34",
+                "/paragraphs/35",
+                "/paragraphs/36",
+                "/paragraphs/37"
+            ]
+        }
+    ],
+    "figures": [
+        {
+            "id": "1.1",
+            "boundingRegions": [
+                {
+                    "pageNumber": 1,
+                    "polygon": [
+                        1.2974,
+                        1.665,
+                        2.639,
+                        1.6649,
+                        2.639,
+                        2.0129,
+                        1.2974,
+                        2.0129
+                    ]
+                }
+            ],
+            "spans": [
+                {
+                    "offset": 0,
+                    "length": 7
+                }
+            ],
+            "elements": [
+                "/paragraphs/0"
+            ]
+        }
+    ]
+}
